@@ -18,17 +18,6 @@ The concept is the project foundation and was developed in collaboration and coo
     
     <item>
       <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss23/bachelor/b0-template/features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/staging/ss23/bachelor/b0-template/features/</guid>
-      <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
-Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
-Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
-    </item>
-    
-    <item>
-      <title>Features</title>
       <link>https://htw-imi-showtime.github.io/staging/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -508,15 +497,6 @@ Our brainstorming process As interesting as all of those ideas would have been, 
     
     <item>
       <title>Process</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss23/bachelor/b0-template/process/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/staging/ss23/bachelor/b0-template/process/</guid>
-      <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
-    </item>
-    
-    <item>
-      <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -645,15 +625,6 @@ idealo decided to discontinue the Direktkauf feature, the scope was changed, so 
       <guid>https://htw-imi-showtime.github.io/staging/ws22/master/m7-valit/process/</guid>
       <description>Requirements Analysis The requirements analysis phase of the project was critical in ensuring the successful delivery of a solution that met the needs of both professors and students. To achieve this goal, a comprehensive approach was taken to gather and evaluate all relevant requirements.
 The process started with a brainstorming session where all potential requirements were documented. This information was then reviewed and prioritized, focusing on the most important features for both target groups.</description>
-    </item>
-    
-    <item>
-      <title>Tech Stack</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss23/bachelor/b0-template/techstack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/staging/ss23/bachelor/b0-template/techstack/</guid>
-      <description> Tech Stack Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. Future Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
     </item>
     
     <item>
@@ -2421,8 +2392,7 @@ Diese Website verwendet keine Cookies und speichert keine Informationen, die üb
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/staging/projects/</guid>
-      <description>This term there are 5 bachelor&amp;rsquo;s and 5 master&amp;rsquo;s projects. Detailed Project descriptions will be added soon. To get an idea of the scope and characteristics of our projects, visit the archive.
-B2 - Konzentrationstraining durch Minispiele B3 - ShopGPT - an AI shopping assistant B4 - The VisualAgenda B5 - Versteh&amp;rsquo; mich doch! Texteingabe in Virtual Reality B6 - Entwicklung eines Chatbots für IT-Security Audits M2 - Entwicklung eines Chatbots zur Erkennung vom Gesundheitszustand von chronisch kranken Menschen M3 - Interactive Tutorials M4 - ShopGPT - Domain-specific extension of GPT M5 - Generierung von Quiz-Fragen für das E-Learning mit künstlicher Intelligenz M6 - Entwicklung eines Frameworks zur Generierung und Auswertung von akustischer Manipulation von Stresssituationen in VR </description>
+      <description>This term there are 5 bachelor&amp;rsquo;s and 5 master&amp;rsquo;s projects. To get an idea of the scope and characteristics of our projects, you may also want to visit the archive.</description>
     </item>
     
     <item>
