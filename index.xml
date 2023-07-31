@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language><atom:link href="https://htw-imi-showtime.github.io/staging/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Challenges</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss23/master/m2-mentist/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ss23/master/m2-mentist/challenges/</guid>
+      <description>Challenges Designing an appropriate mental health concept Creating a suitable concept for a mental health chatbot application comes with its unique set of challenges, primarily due to the sensitive nature of the topic that demands utmost care and empathy. Mental health is a deeply personal and delicate issue, making it crucial to approach the design process with great sensitivity and respect for the users&amp;rsquo; emotional well-being. Therefore the planning and design process required multiple cycles of refinement and validation involving psychology expert views and much in-depth research.</description>
+    </item>
+    
+    <item>
       <title>Concept</title>
       <link>https://htw-imi-showtime.github.io/staging/ss21/bachelor/b4-manifesto/concept/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -65,6 +74,15 @@ Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fa
       
       <guid>https://htw-imi-showtime.github.io/staging/ss23/bachelor/b6-security-audit-bot/features/</guid>
       <description>Chatbot: A chatbot, heart of our software, should offer the user a pleasant and intuitive solution to deal with the cyber security of his system, using natural language only. The artificial intelligence classifies the user input and reacts accordingly. It also recognizes previous results and can base new audits on them. An active scan can always be monitored by the user through logs. Results can be viewed permanently at any time.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss23/master/m2-mentist/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ss23/master/m2-mentist/features/</guid>
+      <description>Features Empathetic chatbot companion The chatbot boasts a natural language processing capability, allowing it to offer responses that feel authentic and human-like. Through this, users can engage in conversational interactions that foster a sense of comfort and ease, as if speaking with a caring friend. The chatbot&amp;rsquo;s compassionate and personal approach is a standout feature, as it tailors its responses to each user&amp;rsquo;s emotional state. By recognizing and acknowledging individual struggles, the chatbot becomes a reliable and understanding companion throughout the users&amp;rsquo; mental health journey.</description>
     </item>
     
     <item>
@@ -485,6 +503,16 @@ Our brainstorming process As interesting as all of those ideas would have been, 
     </item>
     
     <item>
+      <title>Future</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss23/master/m2-mentist/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ss23/master/m2-mentist/future/</guid>
+      <description>Future Improved and high-quality chatbot Through advancements in data science and machine learning, the chatbot&amp;rsquo;s ability to analyze and provide personalized support will be greatly improved. The chatbot will be equipped to offer tailored recommendations and coping strategies based on individual user patterns, fostering a deeper understanding of each user&amp;rsquo;s unique needs.
+Personalized needs with various trackers Different trackers will be developed for users to set them individually according to their own preferences.</description>
+    </item>
+    
+    <item>
       <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -529,6 +557,15 @@ The first week was focused on onboarding, reading OpenAI documentation and promp
       <guid>https://htw-imi-showtime.github.io/staging/ss23/bachelor/b6-security-audit-bot/process/</guid>
       <description>Organization / Team management Project management was mainly done via GitLab, with the GitLab server provided by our project supervisors David Koschnick (Product Owner) and Christoph Bork (Stakeholder). We followed agile methods and focused primarily on scrum-like project management. However, due to the small size, we made some deviations from a pure scrum approach.
 At the beginning of the project we brought together our individual skills and interests and developed a shared vision for the product.</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss23/master/m2-mentist/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ss23/master/m2-mentist/process/</guid>
+      <description>Process Research The research process was crucial for the project due to its focus on the sensitive topic of mental illnesses. Extensive research was required for mental illnesses in general, looking into various psychological models and medical literature to make important decisions about choosing appropriate features for a fitting target group. Therefore a thorough examination of the targeted users were also overly crucial including a careful analysis of the mental illness - depression.</description>
     </item>
     
     <item>
@@ -662,6 +699,15 @@ Node.js Socket.io Future Looking ahead, we envision several exciting ideas to en
       <guid>https://htw-imi-showtime.github.io/staging/ss23/bachelor/b6-security-audit-bot/techstack/</guid>
       <description>Projekt Management The project management was mainly done via GitLab. Our GitLab server was provided by our project supervisors David Koschnick and Christoph Bork. Under their guidance, we focused on agile methods and predominantly followed a scrum-like approach.
 For our weekly sprints, we used the issue (ticket) board and milestones (epics). This allowed us to approach our tasks in a structured way and track the progress in the project well.</description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss23/master/m2-mentist/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ss23/master/m2-mentist/techstack/</guid>
+      <description> Basic Gitlab Discord Zoom Frontend Vue Nuxt3 TailwindCSS Vuetify Backend Django DjangoREST Rasa Open Source </description>
     </item>
     
     <item>
