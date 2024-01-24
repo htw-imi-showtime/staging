@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/challenges/</loc>
+  </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b5-smartlibrary/features/</loc>
   </url><url>
+    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/features/</loc>
+  </url><url>
+    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/future/</loc>
+  </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m0-template/process/</loc>
+  </url><url>
+    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/process/</loc>
+  </url><url>
+    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/techstack/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b5-smartlibrary/process/</loc>
   </url><url>
@@ -29,6 +39,8 @@
     <loc>https://htw-imi-showtime.github.io/staging/dates/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/imprint/</loc>
+  </url><url>
+    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m0-template/</loc>
   </url><url>
