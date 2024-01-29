@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language><atom:link href="https://htw-imi-showtime.github.io/staging/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Challenges</title>
-      <link>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/challenges/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/challenges/</guid>
-      <description>UI In the initial stages of development, one key challenge our team faced was designing a user interface (UI) that effectively accommodates the input of constraints and preferences from teachers. Creating a user-friendly and simple UI for teachers to specify their requirements posed a significant hurdle, as it required striking a balance between complexity and user-friendliness. We undertook extensive brainstorming sessions ensuring that it could efficiently capture the nuanced constraints and preferences without overwhelming the teacher.</description>
-    </item>
-    
-    <item>
       <title>Features</title>
       <link>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b4-hypnobuddy/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,16 +42,7 @@ MQTT Communication takes place via MQTT, an open network protocol for machine-to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/features/</guid>
-      <description> Automated planning for semester type &amp;amp; course of study Solve schedule individual course of study with selected semester type. Solve schedule for all courses of study with selected semester type. → Reduce the time of manual planning Admin/Teacher role Separate role as in real scenario, each role has its own permission to use certain features of the app Features for teacher Teachers can log in and have an overview of their modules and schedule Can select their time availabilities, and other preferences Can select their committee activities and mandatory events Can edit module configurations, such as adding groups and specifying preferred rooms Features for admin Admins can create schedules in one click Can see schedule of a course of study or per semester Other features for both roles English and German language settings Available rooms information of the FB </description>
-    </item>
-    
-    <item>
-      <title>Future</title>
-      <link>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/future/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/future/</guid>
-      <description> Future Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+      <description>Efficient automated semester planning With just a few clicks, faculty staff can effortlessly generate a complete schedule for each course of study throughout the entire semester. Taking into account factors from module duration and rhythm to teacher&amp;rsquo;s mandatory events, availability, and preferences, LEP utilizes Timefold AI to makes sure everything fits together well, making planning simple and hassle-free. Role-Based UI for seamless collaboration Say goodbye to mailing back and forth spreadsheets!</description>
     </item>
     
     <item>
@@ -79,15 +61,6 @@ MQTT Communication takes place via MQTT, an open network protocol for machine-to
       
       <guid>https://htw-imi-showtime.github.io/staging/ws23/master/m0-template/process/</guid>
       <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
-    </item>
-    
-    <item>
-      <title>Process</title>
-      <link>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/process/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/process/</guid>
-      <description>Research In the project&amp;rsquo;s initial phase, we conducted thorough research to establish a robust foundation for our web application. This involved exploring diverse technology stacks, evaluating programming languages, databases, and frameworks. We studied similar applications for inspiration and best practices. The implementation of timetable and schedule-solving algorithms was a key focus, with a careful assessment of existing solutions. We directly engaged with the planning team, gaining insights into manual planning methods and specific requirements.</description>
     </item>
     
     <item>
@@ -127,15 +100,6 @@ To see our progress visually, we created a lively Miro board connected to our Ga
       <description>Organisation and Communication We used Mattermost for our internal communication and for issue tracking.
 Mattermost Development HoloLens To develop the AR/XR App that is running on the HoloLens 2 we used Visual Studio (Code) and Unity with MRTK2.
 Programming Language: C# Raspberry The Raspberry Pi runs the Debian Raspberry Distribution and is the communication middleware. It serves as the MQTT broker and the Wi-Fi hotspot that the Arduino and HoloLens connect too.</description>
-    </item>
-    
-    <item>
-      <title>Tech Stack</title>
-      <link>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/techstack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/techstack/</guid>
-      <description>App Development: Frontend: ReactJS &amp;amp; TypeScript: Our core frontend framework, enabling us to build a dynamic, interactive user interface with type-checking for a reliable and scalable application. React-Bootstrap: Implemented for a uniform look across the web app, ensuring a good user experience with pre-built design patterns and components. CSS Modules: Employed to locally scope CSS by automatically creating a unique class name for each style, ensuring that our styles are consistent and do not conflict with those in other parts of the application.</description>
     </item>
     
     <item>
@@ -194,6 +158,15 @@ Tech Stack </description>
     </item>
     
     <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/process/</guid>
+      <description>Research In the project&amp;rsquo;s initial phase, we conducted thorough research to establish a robust foundation for our web application. This involved exploring diverse technology stacks, evaluating programming languages, databases, and frameworks. We studied similar applications for inspiration and best practices. The implementation of timetable and schedule-solving algorithms was a key focus, with a careful assessment of existing solutions. We directly engaged with the planning team, gaining insights into manual planning methods and specific requirements.</description>
+    </item>
+    
+    <item>
       <title>Processs</title>
       <link>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b5-smartlibrary/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -202,6 +175,15 @@ Tech Stack </description>
       <description>Process We dedicated initial time to conceptualising the idea for the plugin, exploring its potential impact and benefits. This involved learning from Moodle Academy about building Moodle plugins and creating first drafts to outline key functionalities.
 With a clearer vision, we strategically divided the overall idea into smaller, manageable tasks. Each task was designed to contribute to the overarching goal of the plugin.
 Adopting agile methodologies, we embraced a collaborative and iterative approach.</description>
+    </item>
+    
+    <item>
+      <title>Challenges</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/challenges/</guid>
+      <description>UX-UI Design In the initial stages of development, one key challenge our team faced was designing a user interface (UI) that effectively accommodates the input of constraints and preferences from teachers. None of us is a professional UX-UI designer, therefore, creating an appealing and simple UI for admin or teachers to specify their requirements posed a significant hurdle, as it required striking a balance between complexity and user-friendliness. We undertook several brainstorming sessions ensuring that the UI could be used efficiently without overwhelming the user.</description>
     </item>
     
     <item>
@@ -250,6 +232,28 @@ As part of our ongoing development, we are planning to extract keywords from lea
       <guid>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b2-mobile-multitouch-multiplayer/gameplay/</guid>
       <description>Bringing Bobola to Life It all started with a sweet idea - a cute main character, and you, the player, saving it. No time to waste, so we jumped into Unity, made our main character, Bobola, and got into coding. Urgency was our guide to keep things moving.
 Bobol&amp;#39;s Story To make the game more engaging, we introduced falling objects to save Bobola. Originally, we planned to use coconuts, but we stumbled upon spike shields in the Unity Asset Store.</description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/techstack/</guid>
+      <description>App Development Java &amp;amp; Spring Boot The backbone of our back-end, chosen for its powerful suite of features that simplify the development of stand-alone applications with minimal configuration.
+MongoDB Our NoSQL database of choice, allowing for flexible data schema and efficient, scalable storage of application data.
+TimeFold AI Integrated as the core engine for intelligent and automated scheduling, ensuring optimal allocation of resources and efficient timetabling.
+ReactJS &amp;amp; TypeScript Our core frontend framework, enabling us to build a dynamic, interactive user interface with type-checking for a reliable and scalable application.</description>
+    </item>
+    
+    <item>
+      <title>Future</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/future/</guid>
+      <description>Consideration of further Rhythm Types In our current version, we&amp;rsquo;ve handled regulations dealing with the most common rhythms, ensuring LEP factors in weekly and biweekly module planning for time collisions as well as special constraints.
+We understand that exceptions, demand more consideration and code restructuring in future to enhance adaptability. Especially one-time events like introductions at the start of semester have to be handled differently as well as unique faculty-specific rhythms like 3x6, where the module starts slightly delayed in the semester, initially five times every two weeks and then ends on a single day during the penultimate month of the semester.</description>
     </item>
     
     <item>

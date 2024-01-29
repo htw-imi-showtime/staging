@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/challenges/</loc>
-  </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b4-hypnobuddy/features/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b5-smartlibrary/features/</loc>
@@ -12,13 +10,9 @@
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/features/</loc>
   </url><url>
-    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/future/</loc>
-  </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b7-ar-interaction-city/process/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m0-template/process/</loc>
-  </url><url>
-    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/process/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m4-gamingforthefuture/process/</loc>
   </url><url>
@@ -27,8 +21,6 @@
     <loc>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b4-hypnobuddy/techstack/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b7-ar-interaction-city/technology/</loc>
-  </url><url>
-    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/techstack/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m4-gamingforthefuture/techstack/</loc>
   </url><url>
@@ -42,7 +34,11 @@
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m1-somethinar/process/</loc>
   </url><url>
+    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/process/</loc>
+  </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b5-smartlibrary/process/</loc>
+  </url><url>
+    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/challenges/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m1-somethinar/gameplay/</loc>
   </url><url>
@@ -53,6 +49,10 @@
     <loc>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b5-smartlibrary/future/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b2-mobile-multitouch-multiplayer/gameplay/</loc>
+  </url><url>
+    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/techstack/</loc>
+  </url><url>
+    <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m3-lep/future/</loc>
   </url><url>
     <loc>https://htw-imi-showtime.github.io/staging/ws23/master/m4-gamingforthefuture/future/</loc>
   </url><url>
