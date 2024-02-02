@@ -76,7 +76,7 @@
         <ul>
             <li ><a href="/staging/ws23/master/m5-mov.io/">Overview</a></li>
             
-            <li class="active"><a href="/staging/ws23/master/m5-mov.io/challanges/">Challanges</a></li>
+            <li ><a href="/staging/ws23/master/m5-mov.io/challanges/">Challanges</a></li>
             
             <li ><a href="/staging/ws23/master/m5-mov.io/features/">Features</a></li>
             
@@ -86,7 +86,7 @@
             
             <li ><a href="/staging/ws23/master/m5-mov.io/techstack/">Tech Stack</a></li>
             
-            <li ><a href="/staging/ws23/master/m5-mov.io/review/"></a></li>
+            <li class="active"><a href="/staging/ws23/master/m5-mov.io/review/"></a></li>
             
         </ul>
     </div>
@@ -94,7 +94,7 @@
         <ul>
             <li ><a href="/staging/ws23/master/m5-mov.io/">Overview</a></li>
             
-            <li class="active"><a href="/staging/ws23/master/m5-mov.io/challanges/">Challanges</a></li>
+            <li ><a href="/staging/ws23/master/m5-mov.io/challanges/">Challanges</a></li>
             
             <li ><a href="/staging/ws23/master/m5-mov.io/features/">Features</a></li>
             
@@ -117,55 +117,29 @@
     </div>
     <main class="project">
         
-        <section>
-    <h3>
-        
-            Ideation Struggles
-        
-    </h3>
-    <div class="spacer"></div>
-    <div class="content">
-        The extensive ideation phase challenged the team as each member brought different perspectives, which led to difficulties in agreeing on a unified vision for mov.io. Uncertainty about the most appropriate technology required thorough research to make an informed decision. In addition, each team member brought unique insights, requiring additional effort to synthesize ideas and define key features, which impacted the initial stages of project build.
-    </div>
-</section>
-
-<section>
-    <h3>
-        
-            Learning Curve of New Technologies
-        
-    </h3>
-    <div class="spacer"></div>
-    <div class="content">
-        Incorporating a range of new technologies, each assigned to a specific team member, presented a multi-faceted challenge. Integrating these technologies required an extensive research and learning process. Becoming proficient in these different technologies, while simultaneously implementing them within the project, added a layer of complexity that required a dedicated effort to master and apply the acquired knowledge.
-    </div>
-</section>
-
-<section>
-    <h3>
-        
-            Coding Practices
-        
-    </h3>
-    <div class="spacer"></div>
-    <div class="content">
-        Merge Conflicts and differences in coding approaches:
-Collaborative coding presented challenges in managing conflict during the merge process, particularly due to the different coding approaches adopted by team members. Each responsible for specific components, team members had different perspectives on coding styles and methodologies. Establishing uniform coding conventions and improving communication channels became critical to managing conflicts and ensuring seamless integration of different components.
-    </div>
-</section>
-
-<section>
-    <h3>
-        
-            Git Server Downtime
-        
-    </h3>
-    <div class="spacer"></div>
-    <div class="content">
-        A critical setback occurred shortly before the project submission deadline when the Git server experienced downtime for two days. This unexpected interruption disrupted the team&rsquo;s workflow, impacting collaboration and version control. Swift adaptation and the implementation of alternative solutions were essential to ensure the project&rsquo;s continuity despite the server outage.
-    </div>
-</section>
-
+        <h1 id="für-alle-projekte">Für alle Projekte:</h1>
+<ul>
+<li>bitte überprüfen, ob alle Bilddateien notwendig sind und sich nicht doch noch verkleinern lassen.
+(und es ggfs. Auch tun)</li>
+<li>die Texte nochmal durchgehen und straffen. Bei Team reicht z.B. wir waren 5 IMI-Master: Namen und Bilder.
+(evtl. Noch Aufteilung von Verantwortlichkeiten, wenn Sie nicht woanders stehen)</li>
+</ul>
+<h1 id="m5">M5</h1>
+<p>Sehr schöne Seite!</p>
+<h2 id="dateigrössen">Dateigrössen</h2>
+<p>alles ok.</p>
+<p>wenn Sie wollen, könnten Sie prüfen, ob sich die Größe der Bilder weiter reduzieren lässt, z.b. mit Imagemagick
+<a href="https://imagemagick.org/script/convert.php">https://imagemagick.org/script/convert.php</a></p>
+<p>du -hs ../*
+4.0K	../_index.md
+2.9M	../m1-SomethinAR
+2.1M	../m3-lep
+704K	../m4-gamingforthefuture
+580K	../m5-mov.io</p>
+<p>Beispiel für alle:</p>
+<p>for image in <em>.png ;  do convert &ldquo;$image&rdquo; &ldquo;${image%.</em>}-converted.jpg&rdquo; ; done</p>
+<p>for image in <em>.jpg ;  do convert &ldquo;$image&rdquo; -sampling-factor 4:2:0 -strip -quality 85 -interlace JPEG -colorspace RGB &ldquo;${image%.</em>}-comp.jpg&rdquo; ; done</p>
+<p><a href="https://stackoverflow.com/questions/7261855/recommendation-for-compressing-jpg-files-with-imagemagick">https://stackoverflow.com/questions/7261855/recommendation-for-compressing-jpg-files-with-imagemagick</a></p>
 
     </main>
 <footer>
