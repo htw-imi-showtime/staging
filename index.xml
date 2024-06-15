@@ -17,6 +17,28 @@
     
     <item>
       <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b0-template/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b0-template/features/</guid>
+      <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
+Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
+Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/features/</guid>
+      <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
+Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
+Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
       <link>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b1-peek/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -87,6 +109,24 @@ Unleash personalisation A key aspect of our future plans revolves around providi
     
     <item>
       <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b0-template/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b0-template/process/</guid>
+      <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/process/</guid>
+      <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+    </item>
+    
+    <item>
+      <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b1-peek/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -119,6 +159,24 @@ Unleash personalisation A key aspect of our future plans revolves around providi
       
       <guid>https://htw-imi-showtime.github.io/staging/ws23/master/m5-mov.io/process/</guid>
       <description>Research At the start of our development journey, we devoted a significant amount of time to in-depth research. Our goal? To get inside the user&amp;rsquo;s world, to understand the challenges they face on a daily basis, whether in a traditional office or in the rapidly evolving landscape of remote working. We dug deep to uncover the pros and cons and shed light on the finer details of their working environment.</description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b0-template/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b0-template/techstack/</guid>
+      <description> Tech Stack Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. Future Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/techstack/</guid>
+      <description> Tech Stack Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. Future Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
     </item>
     
     <item>
@@ -427,15 +485,15 @@ If you already have the client installed, please make sure it is up to date. 2. 
       
       <guid>https://htw-imi-showtime.github.io/staging/imprint/</guid>
       <description>Diese Seite präsentiert Praxisprojekte der Studiengänge Internationale Medieninformatik Bachelor und Internationale Medieninformatik Master der HTW Berlin und ergänzt diese Webseiten.
-Redaktionelle Verantwortung und verantwortliche Ansprechperson Studiengangssprecher der Studiengänge Internationale Medieninformatik
-Prof. Dr. Gefei Zhang
+Redaktionelle Verantwortung und verantwortliche Ansprechperson Studiengangssprecher der Studiengänge Internationale Medieninformatik (Bachelor &amp;amp; Master)
+Prof. Dr. Barne Kleinen
 HTW Berlin, Fachbereich 4
 Wilhelminenhofstr. 75A
 12495 Berlin
-gefei.zhang@htw-berlin.de
+barne.kleinen#64;htw-berlin.de
 https://www.htw-berlin.de/impressum/
 Telefon: +49 30 5019 - 3738
-Urheberschutz und Nutzung Die Urheber räumen Ihnen ganz konkret das Nutzungsrecht ein, sich eine private Kopie für persönliche Zwecke anzufertigen. Nicht berechtigt sind Sie dagegen, die Materialien zu verändern und/oder weiter zu geben oder gar selbst zu veröffentlichen.</description>
+Urheberschutz und Nutzung Die Urheber räumen Ihnen ganz konkret das Nutzungsrecht ein, sich eine private Kopie für persönliche Zwecke anzufertigen.</description>
     </item>
     
     <item>
