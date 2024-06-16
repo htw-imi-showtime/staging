@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language><atom:link href="https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/process/</guid>
+      <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+    </item>
+    
+    <item>
       <title>Features</title>
       <link>https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -15,15 +24,6 @@
       <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
 Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.
 Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
-    </item>
-    
-    <item>
-      <title>Process</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/process/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/process/</guid>
-      <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
     </item>
     
     <item>
