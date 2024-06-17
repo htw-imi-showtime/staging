@@ -32,7 +32,9 @@ Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m0-template/techstack/</guid>
-      <description> Tech Stack Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. Future Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+      <description>Tech Stack Hugo offers a couple of options to include diagrams right in the source code, see https://gohugo.io/content-management/diagrams/
+Here&amp;rsquo;s a mermaid example: (note the hasMermaid = true parameter in the front matter!)
+classDiagram Animal &lt;|-- Duck Animal &lt;|-- Fish Animal &lt;|-- Zebra Animal : +int age Animal : +String gender Animal: +isMammal() Animal: +mate() class Duck{ +String beakColor +swim() +quack() } class Fish{ -int sizeInFeet -canEat() } class Zebra{ +bool is_wild +run() } Future &amp;amp; A M S i o i q f b B x u j o e a ( - x d r a &amp;gt; e f R &amp;gt; c o C n u o b ( n r ) ) d n e e J d r o s i n N o R D t o i u a a n g d d l o i t n e D i a g o n a l s C V u e r r v t e i d c a l n o t A N C : o u l d r r i A a / I v n s i n e e h s t d - e - t r l B i h i i s i o n &#39; s r e q n .</description>
     </item>
     
   </channel>
