@@ -4,7 +4,8 @@
     <title>IMI Showtime</title>
     <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/</link>
     <description>Recent content on IMI Showtime</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://htw-imi-showtime.github.io/staging/ss24/bachelor/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/ss24/bachelor/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
