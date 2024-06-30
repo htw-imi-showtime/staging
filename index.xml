@@ -488,7 +488,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 1b54095 AuthorDate: 2024-06-30 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-06-30 Hash: 1b540952da2aee657fec7941f28c7bf2b5ae6a5e Subject: B5 pam update (#339) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 0555a9c AuthorDate: 2024-06-30 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-06-30 Hash: 0555a9ce9ad7a5d0fb40b3f053ab756cad36af6b Subject: wf only change own files, script to reduce image size </description>
     </item>
     <item>
       <title>Tech Stack</title>
