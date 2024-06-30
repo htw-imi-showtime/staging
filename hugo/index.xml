@@ -12,7 +12,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 5fa0217 AuthorDate: 2024-06-30 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-06-30 Hash: 5fa0217b4c964fc6ab32cf8cb9bfcef45b85d05c Subject: commit at 18:56:49 </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 68286fa AuthorDate: 2024-06-30 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-06-30 Hash: 68286fa8a72d62426155d43b98fcf96a621565c3 Subject: B4 sempy: rename to lowercase sempy (#340) </description>
     </item>
   </channel>
 </rss>
