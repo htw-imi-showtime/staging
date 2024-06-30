@@ -12,7 +12,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 1264530 AuthorDate: 2024-06-30 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-06-30 Hash: 1264530b418712e4a23be4016fb4fc110f033b7c Subject: improve only own files </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 7daec15 AuthorDate: 2024-06-30 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-06-30 Hash: 7daec1568bc6fd74e09620f7a4ddda5f735d9eeb Subject: Revert &amp;#34;Update Seite (#337)&amp;#34; (#338) </description>
     </item>
   </channel>
 </rss>
