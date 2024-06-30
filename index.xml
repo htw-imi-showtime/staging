@@ -488,7 +488,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 6c36ee6 AuthorDate: 2024-06-30 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-06-30 Hash: 6c36ee65c02d6ad2f642487b429100c8bbc7c1b7 Subject: update only own files </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 9ae50f4 AuthorDate: 2024-06-30 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-06-30 Hash: 9ae50f454bd3a75d0a62e6544cd8d4b3dd0e18b2 Subject: remove grep --version </description>
     </item>
     <item>
       <title>Tech Stack</title>
