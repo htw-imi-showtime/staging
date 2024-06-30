@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PAM: Project Modeling and Management on IMI Showtime</title>
+    <title>PAM on IMI Showtime</title>
     <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b5-pam/</link>
-    <description>Recent content in PAM: Project Modeling and Management on IMI Showtime</description>
+    <description>Recent content in PAM on IMI Showtime</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <atom:link href="https://htw-imi-showtime.github.io/staging/ss24/bachelor/b5-pam/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +26,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b5-pam/techstack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b5-pam/techstack/</guid>
-      <description>Tech Stack Hugo offers a couple of options to include diagrams right in the source code, see https://gohugo.io/content-management/diagrams/&#xA;Here&amp;rsquo;s a mermaid example: (note the hasMermaid = true parameter in the front matter!)&#xA;classDiagram Animal &lt;|-- Duck Animal &lt;|-- Fish Animal &lt;|-- Zebra Animal : +int age Animal : +String gender Animal: +isMammal() Animal: +mate() class Duck{ +String beakColor +swim() +quack() } class Fish{ -int sizeInFeet -canEat() } class Zebra{ +bool is_wild +run() } Future Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <description>Tech Stack We used the following technologies in our Project: Future As this is a project on a limited-time basis, we are not planning on adding new features. However, we are going to add enough comments and documentation so that the next group to pick it up and try to improve on it will have an easier time. Future improvements to PAM would include Syntax Investigation of the diagrams, more in-depth filtering, perhaps even a social media share function.</description>
     </item>
   </channel>
 </rss>
