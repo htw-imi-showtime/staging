@@ -12,7 +12,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 03037a5 AuthorDate: 2024-07-01 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-07-01 Hash: 03037a56c6b79a31daac9677e89a238abbe026fe Subject: add intro and example project B0 as draft </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 4d3bb2b AuthorDate: 2024-07-01 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-07-01 Hash: 4d3bb2be055fd734f21fea9024c4037cfe554298 Subject: B0 example changes 01 (#344) </description>
     </item>
   </channel>
 </rss>
