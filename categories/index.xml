@@ -8,6 +8,20 @@
     <language>de-de</language>
     <atom:link href="https://htw-imi-showtime.github.io/staging/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Digital Signage</title>
+      <link>https://htw-imi-showtime.github.io/staging/categories/digital-signage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/categories/digital-signage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>External Stakeholder</title>
+      <link>https://htw-imi-showtime.github.io/staging/categories/external-stakeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/categories/external-stakeholder/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Web Technology</title>
       <link>https://htw-imi-showtime.github.io/staging/categories/web-technology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

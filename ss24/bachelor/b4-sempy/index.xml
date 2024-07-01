@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SEMPY on IMI Showtime</title>
+    <title>Sempy on IMI Showtime</title>
     <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/</link>
-    <description>Recent content in SEMPY on IMI Showtime</description>
+    <description>Recent content in Sempy on IMI Showtime</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <atom:link href="https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/index.xml" rel="self" type="application/rss+xml" />

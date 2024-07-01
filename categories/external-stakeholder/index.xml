@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>External Stakeholder on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/categories/external-stakeholder/</link>
+    <description>Recent content in External Stakeholder on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/categories/external-stakeholder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capsearch: Bridging Talent and Career</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m5-capsearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m5-capsearch/</guid>
+      <description>In large-scale companies with numerous employees, identifying the ideal project that fosters professional growth and aligns perfectly with individual expectations has consistently posed a challenge. Even after discovering a suitable project, the conventional back-and-forth email exchanges for sharing general information can prove time consuming and labor intensive for both employees and managers. Our Goal CapSearch offers an innovative solution to this challenge. By digitizing the process, Capsearch streamlines how employees are paired with projects.</description>
+    </item>
+    <item>
+      <title>LunarFit</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b3-lunarfit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b3-lunarfit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MindCraft</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m3-mindcraft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m3-mindcraft/</guid>
+      <description>Our Process Minispiele programmiert sodass sie skalierbar sind, spiele Konzept betrachten (großer Streitpunkt), viele Konzept angeschaut (Wiederspielwert, Belohnungssysteme, mobiles Design, Spiel Umgebung, Scoring System), individuelle UI. Our Goal &amp;ldquo;Name&amp;rdquo; ist eine Serious Game Suite die mehrere Minispielen in einer kleinen Welt präsentiert. Dabei sind die Minispiele skalierbar auf das aktuelle Können und vertreten unterschiedliche Aspekte von kognitiven Fähigkeiten, was auch über das persönliche Scoring angezeigt wird. Somit soll es im therapeutischen Umfeld einen interaktiven Ansatz bieten um die Effizienz der Therapien und die Motivation der Patienten zu fördern.</description>
+    </item>
+    <item>
+      <title>OrgXtract</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/</guid>
+      <description>Our Goal The project aims to transform organizational charts, traditionally stored as PDFs, into a machine-readable format to enhance transparency in German authorities personnel structure. It focuses on converting these static documents into data that can be easily analyzed, to provide deeper insights into public administration. The goal was to create a tool for the Open Knowledge Foundation team to extract data from organizational charts of public authorities in PDF and use the output data to conduct their research.</description>
+    </item>
+    <item>
+      <title>PAM</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b5-pam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b5-pam/</guid>
+      <description>Background The Tool&amp;rsquo;s purpose is to allow for the simple creation of Process Diagrams using a simple interface, as well the saving and exporting of those diagrams in various formats as required, organizing them depending on the preferences of the creators by allowing for a custom repository structure of folders and sub-folders. It also has an internal organization scheme following a simple folder/file format. However, it was rather simple, focusing on the basic features initially.</description>
+    </item>
+    <item>
+      <title>Sempy</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/</guid>
+      <description>Our Goal The goal of this project is to offer an AI driven research agent on idealo&amp;rsquo;s price comparison platform that supports users who have not yet made a decision on which product to buy and are looking for additional information. The team The SEMPY team consists of 5 young IMI students that came together to build this project. Through this project, we were able to gain a lot of knowledge about working with AI.</description>
+    </item>
+  </channel>
+</rss>
