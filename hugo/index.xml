@@ -12,7 +12,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: eee8f21 AuthorDate: 2024-07-02 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-07-02 Hash: eee8f213a7c2d5bc861540335db0d169a2a16fdc Subject: improve workflows (#354) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 56471ca AuthorDate: 2024-07-06 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-07-06 Hash: 56471ca4bd683e1b0a5ae921f0b0f0e18477b76c Subject: add pull_request_template.md </description>
     </item>
   </channel>
 </rss>
