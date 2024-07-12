@@ -12,7 +12,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/process/</guid>
-      <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+      <description>Defining our Problem To understand the problem better, we took a deep dive into the composition of organizational charts of German authorities. Every organizational chart not only looked different but also did not follow the same structure. The only thing they had in common was their format: PDF. We had a lot of discussion with the Open Knowledge Foundation about their objective to make these organizational charts machine-readable. Their answer was straightforward: To make research easier and, above all, faster.</description>
     </item>
     <item>
       <title>Features</title>
