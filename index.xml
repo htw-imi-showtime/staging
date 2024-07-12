@@ -516,7 +516,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: a985567 AuthorDate: 2024-07-07 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-07-07 Hash: a98556797ffba57b83d0cd51a746e3c06b598e65 Subject: delete quote from 2 projects in project-archive, fixes #315 </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 8ca4a42 AuthorDate: 2024-07-07 AuthorEmail: drblinken@gmail.com AuthorName: Dr Blinken CommitDate: 2024-07-07 Hash: 8ca4a42d68ec29b350e3b4db28de5b4fae4e1f99 Subject: update /pull_request_template </description>
     </item>
     <item>
       <title>Tech Stack</title>
