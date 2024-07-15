@@ -7,5 +7,26 @@
     <generator>Hugo</generator>
     <language>de-de</language>
     <atom:link href="https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gameplay</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/gameplay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/gameplay/</guid>
+      <description>Gameplay You can manipulate the light-conditions, the temperature, the ph-value of the water and the salinity of the water the algae should grow in. Keep an eye on the status of your plant with your score and the indicator on the floating monitor within all stages. If you want to learn more about the parts needed to do this kind of research, you can click on the small icons with an “i”.</description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/process/</guid>
+      <description>Process The first thing we thought about within the brainstorming for this project was: •&#x9;What do we want to communicate?&#xA;•&#x9;Who is the target audience?&#xA;•&#x9;How can we target this audience? We answered those questions by communication with the product owners of the food4future-project. Food4Future (f4f) is a joint project funded by the German Federal Ministry of Education and Research (BMBF) as a part of the “Agricultural Systems of the Future” programme.</description>
+    </item>
+    <item>
+      <title>Story</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/story/</guid>
+      <description>Story In our AR-Game environment the “No land”-Scenario takes place. The area available for food production is decreasing. You are part of a team responsible for the indoor cultivation of algae. Therefore, you can experience all three important stages of the research necessary to grow the best algae for your country.</description>
+    </item>
   </channel>
 </rss>
