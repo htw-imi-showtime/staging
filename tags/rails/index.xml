@@ -8,13 +8,6 @@
     <language>de-de</language>
     <atom:link href="https://htw-imi-showtime.github.io/staging/tags/rails/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Makesign</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/</guid>
-      <description>Our Goal Plakate in den Gebäuden der Universität sind meist veraltet, da es sehr mühsam und zeitaufwendig ist, neue aufzuhängen und die alten zu entsorgen. Unsere Idee ist es, Digital Signage zu verwenden, um alten Bildschirmen als Anzeigetafeln ein neues Leben auf den Campus zu ermöglichen, um so eine einfache und effiziente Möglichkeit zu bieten Webpage-Poster oder Videos zur Schau zu stellen. Hierfür entwickeln wir Open Source Technologien weiter und nutzen günstige Raspberry Pi(Mini Computer), um in Verbindung mit alten Monitoren eine Möglichkeit für ein Signage Netzwerk bieten, welches alten Monitoren wieder eine Funktion gibt und jeglichen Organisatoren an dem Campus die Vermarktung von Veranstaltungen erleichtert.</description>
-    </item>
-    <item>
       <title>Title</title>
       <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b0-example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
