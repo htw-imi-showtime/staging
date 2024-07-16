@@ -523,14 +523,14 @@
       <link>https://htw-imi-showtime.github.io/staging/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/schedule/</guid>
-      <description>There will be brief project presentations with a quick Q&amp;amp;A in the morning (very brief presentations, the odd times are real, we might even be a bit quicker than this) and a project fair in the afternoon.&#xA;The Schedule below is subject to change during the detailed Showtime planning!</description>
+      <description>There will be brief project presentations with a quick Q&amp;amp;A in the morning (very brief presentations, the odd times are real, we might even be a bit quicker than this) and a project fair in the afternoon.&#xA;Ort: H 001 / Campus Wilhelminenhof</description>
     </item>
     <item>
       <title>Showtime Website History</title>
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: d979c6e AuthorDate: 2024-07-16 AuthorEmail: 53829199&amp;#43;Nemozi@users.noreply.github.com AuthorName: Nemozi CommitDate: 2024-07-16 Hash: d979c6e2db54ad1c74961b9ea86150447bed9cf8 Subject: B2: new description for project (#385) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: cb8cd12 AuthorDate: 2024-07-16 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-07-16 Hash: cb8cd1286dd3e74c58f059a56cfa32760c43ff9f Subject: STW: various little updates (#379) </description>
     </item>
     <item>
       <title>Tech Stack</title>
