@@ -530,7 +530,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 8628749 AuthorDate: 2024-07-16 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-07-16 Hash: 86287491bead846525201a74af0b2f4672896726 Subject: STW: add project-archive to preview; deploy to showtime-website (gh-pages-action) w/o drafts </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: e238bf9 AuthorDate: 2024-07-16 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-07-16 Hash: e238bf9d46fa25f009842ea07cef0e3804e046f9 Subject: STW: gh pages action </description>
     </item>
     <item>
       <title>Tech Stack</title>
