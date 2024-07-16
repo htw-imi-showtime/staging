@@ -42,12 +42,5 @@
       <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b5-pam/</guid>
       <description>Background The Tool&amp;rsquo;s purpose is to allow for the simple creation of Process Diagrams using a simple interface, as well the saving and exporting of those diagrams in various formats as required, organizing them depending on the preferences of the creators by allowing for a custom repository structure of folders and sub-folders. It also has an internal organization scheme following a simple folder/file format. However, it was rather simple, focusing on the basic features initially.</description>
     </item>
-    <item>
-      <title>Sempy</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/</guid>
-      <description>Our Goal The goal of this project is to offer an AI driven research agent on idealo&amp;rsquo;s price comparison platform that supports users who have not yet made a decision on which product to buy and are looking for additional information. The team The SEMPY team consists of 5 young IMI students that came together to build this project. Through this project, we were able to gain a lot of knowledge about working with AI.</description>
-    </item>
   </channel>
 </rss>

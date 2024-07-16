@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sempy on IMI Showtime</title>
+    <title>SEMPY AI-Research Agent on IMI Showtime</title>
     <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/</link>
-    <description>Recent content in Sempy on IMI Showtime</description>
+    <description>Recent content in SEMPY AI-Research Agent on IMI Showtime</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <atom:link href="https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/index.xml" rel="self" type="application/rss+xml" />
@@ -12,14 +12,14 @@
       <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/features/</guid>
-      <description> Features Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+      <description>Features Our SEMPY Button offers a relaxed shopping experience that provides customers with the best recommendations based on the information from the three major platforms: idealo, Amazon, and YouTube. Whether the customer is interested in a Victorinox Huntsman, an MSR Hubba Hubba 2 NX tent, or Apple AirPods 3, the SEMPY-AI Tool caters to the customer&amp;rsquo;s individual needs.&#xA;Due to its crawling capabilities, the SEMPY-AI Tool analyzes customer reviews, pros and cons, Q&amp;amp;A, ratings, and YouTube transcripts from Idealo, Amazon, and YouTube.</description>
     </item>
     <item>
       <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/process/</guid>
-      <description> Process </description>
+      <description>Process At the beginning of the project, there was a brainstorming phase where we wanted to define how our project should look like at the end of the semester. Initially, we thought of having a tool where customers could have a conversation on the idealo website and ask everything about the product. We took inspiration from Perplexity AI, ChatGPT, and similar AI tools.&#xA;After a long discussion, we concluded that we would generate the output of the OpenAI API and place it on the website.</description>
     </item>
     <item>
       <title>Tech Stack</title>
