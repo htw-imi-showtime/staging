@@ -15,18 +15,32 @@
       <description>Defining our Problem To understand the problem better, we took a deep dive into the composition of organizational charts of German authorities. Every organizational chart not only looked different but also did not follow the same structure. The only thing they had in common was their format: PDF. We had a lot of discussion with the Open Knowledge Foundation about their objective to make these organizational charts machine-readable. Their answer was straightforward: To make research easier and, above all, faster.</description>
     </item>
     <item>
+      <title>Challenges</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/challenges/</guid>
+      <description>Large Amounts of Data According to the Federal Office of Administration, there are a total of 966 federal authorities and institutions in Germany (Statista, 20.07.2024). However, there are many more, as the statistics do not include the offices at state level. One of the challenges of the project was to create a tool that would fit as many different organizational charts as possible in order to capture as much data as feasible.</description>
+    </item>
+    <item>
       <title>Features</title>
       <link>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/features/</guid>
-      <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+      <description>Python Library The library contains primitives for extracting PDFs and detects shapes and words. It includes semantic analysis of organizational charts. The library can be used in your Python projects. It can be customized to your needs for your organizational charts by providing your own datasets. Command Line Tool The command line tool is designed to convert PDF files into JSON files. This main feature offers a simple user interface to quickly extract data from individual or multiple files.</description>
     </item>
     <item>
       <title>Tech Stack</title>
       <link>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/techstack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/techstack/</guid>
-      <description>Tech Stack Hugo offers a couple of options to include diagrams right in the source code, see https://gohugo.io/content-management/diagrams/&#xA;Here&amp;rsquo;s a mermaid example: (note the hasMermaid = true parameter in the front matter!)&#xA;classDiagram Animal &lt;|-- Duck Animal &lt;|-- Fish Animal &lt;|-- Zebra Animal : +int age Animal : +String gender Animal: +isMammal() Animal: +mate() class Duck{ +String beakColor +swim() +quack() } class Fish{ -int sizeInFeet -canEat() } class Zebra{ +bool is_wild +run() } Future &amp;amp; A M S i o i q f b B x u j o e a ( - x d r a &amp;gt; e f R &amp;gt; c o C n u o b ( n r ) ) d n e e J d r o s i n N o R D t o i u a a n g d d l o i t n e D i a g o n a l s C V u e r r v t e i d c a l n o t A N C : o u l d r r i A a / I v n s i n e e h s t d - e - t r l B i h i i s i o n &#39; s r e q n .</description>
+      <description>Organization Github for code collaboration and distribution Trello for task organization Figma for visualization prototyping Core Python Python was selected due to its status as the most prominent programming language for data science. Given the extensive range of available packages, it proved to be the most effective language for our problem.&#xA;PyMuPDF The PyMuPDF library was employed for the extraction of data from PDF documents, as it is the most high-performance Python library for this purpose.</description>
+    </item>
+    <item>
+      <title>Future</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/future/</guid>
+      <description>Open Data Formats For now, the PDF files are only converted into JSON Files. Developing the project further, integrating more open data formats (RDF, CSV, etc.) would be an option to create more possible use cases. Integration with External Tool The Technologiestiftung Berlin has developed an organizational chart tool that makes it easy to create organizational charts in a browser. The foundation has developed a JSON format called orgjson. Files in this format can be uploaded via their web interface.</description>
     </item>
   </channel>
 </rss>
