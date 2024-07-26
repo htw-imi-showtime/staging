@@ -93,6 +93,13 @@
     </item>
     <item>
       <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/techstack/</guid>
+      <description> Projektmanagement Miro Github Discord Whatsapp Design / Styling CSS Bootstrap Miro HTML Chromeextension JavaScript Backend Python OpenAI API YouTubeAPI Flask </description>
+    </item>
+    <item>
+      <title>Tech Stack</title>
       <link>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b1-peek/techstack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b1-peek/techstack/</guid>
@@ -271,7 +278,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/features/</guid>
-      <description>Features Our SEMPY Button offers a relaxed shopping experience that provides customers with the best recommendations based on the information from the three major platforms: idealo, Amazon, and YouTube. Whether the customer is interested in a Victorinox Huntsman, an MSR Hubba Hubba 2 NX tent, or Apple AirPods 3, the SEMPY-AI Tool caters to the customer&amp;rsquo;s individual needs.&#xA;Due to its crawling capabilities, the SEMPY-AI Tool analyzes customer reviews, pros and cons, Q&amp;amp;A, ratings, and YouTube transcripts from Idealo, Amazon, and YouTube.</description>
+      <description>Features Our SEMPY Button offers a relaxed shopping experience that provides customers with recommendations based on the information from the three major platforms: idealo, Amazon, and YouTube. Whether the customer is interested in products like a &amp;ldquo;Victorinox Huntsman&amp;rdquo;, an &amp;ldquo;MSR Hubba Hubba 2 NX&amp;rdquo;, or &amp;ldquo;Apple AirPods 3&amp;rdquo;, the SEMPY-AI Tool caters to the customer&amp;rsquo;s individual needs.&#xA;Screenshot of SEMPY-modal on the idealo Website. We take information from idealo, YouTube and Amazon and give them to the OpenAi to process and summarize them.</description>
     </item>
     <item>
       <title>Process</title>
@@ -292,7 +299,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/process/</guid>
-      <description>Process At the beginning of the project, there was a brainstorming phase where we wanted to define how our project should look like at the end of the semester. Initially, we thought of having a tool where customers could have a conversation on the idealo website and ask everything about the product. We took inspiration from Perplexity AI, ChatGPT, and similar AI tools.&#xA;After a long discussion, we concluded that we would generate the output of the OpenAI API and place it on the website.</description>
+      <description>Process Pipeline of data processing. At the beginning of the project, there was a brainstorming phase where we wanted to define how our project should look like at the end of the semester. Initially, we thought of having a tool where customers could have a conversation on the idealo website and ask everything about the product. We took inspiration from Perplexity AI, ChatGPT, and similar AI tools.&#xA;After a long discussion, we concluded that we would generate the output of the OpenAI API and place it on the website.</description>
     </item>
     <item>
       <title>Process</title>
@@ -391,13 +398,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/techstack/</guid>
       <description> Tech Stack Future </description>
-    </item>
-    <item>
-      <title>Tech Stack</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/techstack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/techstack/</guid>
-      <description>Tech Stack Hugo offers a couple of options to include diagrams right in the source code, see https://gohugo.io/content-management/diagrams/&#xA;Here&amp;rsquo;s a mermaid example: (note the hasMermaid = true parameter in the front matter!)&#xA;classDiagram Animal &lt;|-- Duck Animal &lt;|-- Fish Animal &lt;|-- Zebra Animal : +int age Animal : +String gender Animal: +isMammal() Animal: +mate() class Duck{ +String beakColor +swim() +quack() } class Fish{ -int sizeInFeet -canEat() } class Zebra{ +bool is_wild +run() } Future Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     <item>
       <title>Tech Stack</title>
@@ -530,7 +530,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 8933937 AuthorDate: 2024-07-20 AuthorEmail: 53829199&amp;#43;Nemozi@users.noreply.github.com AuthorName: Nemozi CommitDate: 2024-07-20 Hash: 8933937598c96037de59ff9a0b2425785383bb61 Subject: B2: Change: fixed missing section tag &amp;amp; cleaned up structure (#387) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 29266a4 AuthorDate: 2024-07-26 AuthorEmail: 167428823&amp;#43;PaulSchiffner@users.noreply.github.com AuthorName: PaulSchiffner CommitDate: 2024-07-26 Hash: 29266a41512c7abf4f46a2b5e7becb935cbf3923 Subject: B4 sempy add images,gif and fix grammar, spelling (#388) </description>
     </item>
     <item>
       <title>Tech Stack</title>
