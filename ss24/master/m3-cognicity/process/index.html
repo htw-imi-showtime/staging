@@ -195,8 +195,6 @@
      
         
         
-            
-        
      
         
         
@@ -214,23 +212,6 @@
         
      
         
-        
-     
-        
-        
-     
-        
-        
-     
-        
-        
-     
-        
-        
-     
-        
-        
-            
         
      
         
@@ -252,6 +233,11 @@
      
         
         
+            
+        
+     
+        
+        
      
         
         
@@ -259,14 +245,6 @@
         
         
             
-        
-     
-        
-        
-            
-        
-     
-        
         
      
         
@@ -293,6 +271,28 @@
      
         
         
+     
+        
+        
+     
+        
+        
+     
+        
+        
+            
+        
+     
+        
+        
+            
+        
+     
+        
+        
+     
+        
+        
             
         
      
@@ -305,6 +305,11 @@
         
      
         
+        
+     
+        
+        
+            
         
      
         
@@ -563,8 +568,8 @@ M3
         <header class="project-header">
             <h1>
                 <span class="type">M3 Master</span>
-                MindCraft
-             <span class="subtitle master">Entwicklung einer Serious Game-Suite zur Förderung der kognitiven Leistungsfähigkeit bei psychischen Erkrankungen</span>
+                CogniCity
+             <span class="subtitle master">A Serious Game Suite to help enhance cognitive abilities</span>
              <span class="underscore-spacer"></span>
             </h1>
             <section style="text-align: right;">
@@ -596,13 +601,15 @@ M3
     </div>
     <div class="project-menu desktop-menu background master">
         <ul>
-            <li class="active"><a href="/staging/ss24/master/m3-mindcraft/">Overview</a></li>
+            <li ><a href="/staging/ss24/master/m3-cognicity/">Overview</a></li>
+            
+            <li class="active"><a href="/staging/ss24/master/m3-cognicity/process/">Process</a></li>
                    
         </ul>
     </div>  
     <div class="project-menu mobile-menu background master">
         <ul>
-            <li class="active"><a href="/staging/ss24/master/m3-mindcraft/">Overview</a></li>
+            <li ><a href="/staging/ss24/master/m3-cognicity/">Overview</a></li>
             
         </ul>
         <input type="checkbox" id="project-menu-button">
@@ -612,30 +619,30 @@ M3
         <div class="dropdown-menu">
             <ul>
                 
+                <li class="active"><a href="/staging/ss24/master/m3-cognicity/process/">Process</a></li>
+                
             </ul>
         </div>
     </div>
     <main class="project">
         
-            
-            
-            
-            <p class="intro">
-                Ein in Kooperation mit Psycholog*innen entwickeltes Serious Game für die Verbesserung kognitiver Fähigkeiten.
-            </p>
-        
         
         
         <section>
-            <h3>Abstract</h3>
-            <div class="spacer"></div>
-            <div class="content">
-                Ein in Kooperation mit Psycholog*innen entwickeltes Serious Game für die Verbesserung kognitiver Fähigkeiten.
-            </div>
-        </section>
+    <h3>
         
-        <!-- Entweder ein Zitat einfügen, etwas aus dem Spiel oder weglassen--> 
-<!-- 
+            Research
+        
+    </h3>
+    <div class="spacer"></div>
+    <div class="content">
+        As the very first step of our research, we read studies and articles on the topic of <strong>cognitive skills</strong> and how they can be tested to get an idea of what cognitive skills there are and how they could be measured. We also performed a <strong>market analysis</strong> to see what existing games with a similar focus are out there and what we could learn from them.
+Simultaneously, we already collected ideas for <strong>possible minigames</strong> we could implement to help <strong>enhance specific cognitive skills</strong> and researched possibilities to <strong>motivate our users to keep training</strong>. To collect and review the results of our research in a single space, we gathered our findings in a miro board.
+To finalize our research, we conducted an <strong>expert interview with a psychologist from Freie Universität Berlin</strong>. This way, we could ensure our solution will actually make sense from a <strong>psychological perspective</strong>. Basing our game suite on <strong>actual scientific findings</strong> is what differentiates our project from other similar games.
+    </div>
+</section>
+
+
 
     
         
@@ -645,72 +652,82 @@ M3
 
 
 <figure>
-    <img src="" alt="Platzhalter">
+    <img src="/staging/ss24/master/m3-cognicity/research_miro.jpg" alt="Research on Miro board">
+
+<figcaption>Parts of our Research on the Miro Board</figcaption>
 
 </figure>
--->  
-<section>
-    <h3>
-        
-             Our Process
-        
-    </h3>
-    <div class="spacer"></div>
-    <div class="content">
-        Minispiele programmiert sodass sie skalierbar sind, spiele Konzept betrachten (großer Streitpunkt), viele Konzept angeschaut (Wiederspielwert, Belohnungssysteme, mobiles Design, Spiel Umgebung, Scoring System),  individuelle UI. <!--TODO!-->
-    </div>
-</section>
 
 <section>
     <h3>
         
-            Our Goal
+            Concept
         
     </h3>
     <div class="spacer"></div>
     <div class="content">
-        &ldquo;Name&rdquo; ist eine Serious Game Suite die mehrere Minispielen in einer kleinen Welt präsentiert. Dabei sind die Minispiele skalierbar auf das aktuelle Können und vertreten unterschiedliche Aspekte von kognitiven Fähigkeiten, was auch über das persönliche Scoring angezeigt wird. Somit soll es im therapeutischen Umfeld einen interaktiven Ansatz bieten um die Effizienz der Therapien und die Motivation der Patienten zu fördern.
+        After we had done all the research and collected all the ideas, we started to work on the <strong>concept of our game suite</strong>. During this process, we looked at different possibilities on <strong>which tech stack</strong> we should use and for <strong>what platform</strong> we should build the project. Considering that the game suite <strong>should be available for everyone</strong> while making it as easy as possible for patients to get started, we decided on aiming for <strong>mobile devices</strong> like tablets and smartphones. Due to our previous experience with the engine, we ultimately decided to develop the game with the <strong>open-source Godot Engine</strong>.
+During the concept phase we also picked which minigames we want to implement and started planning the game world and the overall design of the game using a <strong>mood board</strong> and <strong>user stories</strong>.
+We divided the cognitive skills into <strong>five categories</strong> (Logical Thinking, Working Memory, Spatial Thinking, Attention and Reaction Speed) and decided that our <strong>minimum viable product</strong> should include at least one minigame for each category.
     </div>
 </section>
+
+
+
+    
+        
+    
+    
+    
+
+
+<figure>
+    <img src="/staging/ss24/master/m3-cognicity/concept_miro.jpg" alt="Game Concept on Miro board">
+
+<figcaption>Parts of our game concept on the Miro Board</figcaption>
+
+</figure>
 
 <section>
     <h3>
         
-            The team
+            Design
         
     </h3>
     <div class="spacer"></div>
     <div class="content">
-        Alexander Schimanko: Programmierung, Game Design, Konzeption
-Anton Schöps: Design, Programmierung,
-Eve Schütze: Design, Konzeption, Webseite, UI Design
-Justin Pallas: Programmierung,Godot
-Pauline Röhr: Backend, Projektmanagement
+        <p>While already developing the first minigames and setting up the backend, we started creating the designs. It was important to us that our game suite would be appealing for our <strong>target group</strong>: Adolescents and young adults between the ages of 13 and 30 who either suffer from chronic physical illnesses and spend a lot of time in hospital, or who are at risk of suffering cognitive impairment.</p>
+<p>To achieve this, we decided to go with a clean and simple design that feels <strong>warm and welcoming</strong>. We also wanted to make sure that the design is <strong>colorful and engaging</strong> to keep the users motivated to keep training. We also made sure to use a <strong>warm and friendly color palette</strong> to make the users feel welcome and comfortable.</p>
+
     </div>
 </section>
 
-<section class="gallery">
-    <figure class="team-member">
-    <img src="/staging/ss24/master/m3-mindcraft/cat.jpg" alt="Portrait of Alexander Schimanko">
-    <figcaption>Alexander Schimanko</figcaption>
-</figure>
-<figure class="team-member">
-    <img src="/staging/ss24/master/m3-mindcraft/cat.jpg" alt="Portrait of Anton Schöps">
-    <figcaption>Anton Schöps</figcaption>
-</figure>
-<figure class="team-member">
-    <img src="/staging/ss24/master/m3-mindcraft/cat.jpg" alt="Portrait of Eve Schütze">
-    <figcaption>Eve Schütze</figcaption>
-</figure>
-<figure class="team-member">
-    <img src="/staging/ss24/master/m3-mindcraft/cat.jpg" alt="Portrait of Justin Pallas">
-    <figcaption>Justin Pallas</figcaption>
-</figure>
-<figure class="team-member">
-    <img src="/staging/ss24/master/m3-mindcraft/cat.jpg" alt="Portrait of Pauline Röhr">
-    <figcaption>Pauline Röhr</figcaption>
+
+
+    
+        
+    
+    
+    
+
+
+<figure>
+    <img src="/staging/ss24/master/m3-cognicity/design_figma.jpg" alt="Design on Figma board">
+
+<figcaption>Draft of the design elements of our game</figcaption>
+
 </figure>
 
+<section>
+    <h3>
+        
+            Implementation
+        
+    </h3>
+    <div class="spacer"></div>
+    <div class="content">
+        After we had finished the concept and design phase, we started implementing the game suite. To coordinate and keep track of our work, we used the <strong>Kanban board</strong> we created right at the beginning of the project. This way, everyone could see what the others were working on and what still needed to be done. We also had <strong>regular meetings</strong> to discuss the progress and to help each other with problems we encountered.
+    </div>
 </section>
 
 

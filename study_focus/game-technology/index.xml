@@ -15,18 +15,18 @@
       <description>Dive into a journey with our infinite zoom 3D game. Navigate through obstacles, explore funky scenes and test your reflexes in a game that never ends. Each scene brings new thrills, pushing your skills to the limit in a universe that continuously evolves.&#xA;Our Goal Our mission is to create an immersive and endlessly engaging experience. We aim to develop a game that not only entertains but also inspires players to explore the infinite possibilities of a dynamic 3D world.</description>
     </item>
     <item>
+      <title>CogniCity</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m3-cognicity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m3-cognicity/</guid>
+      <description>The Problem How good our cognitive abilities are has a significant impact on how good we perceive our own life quality.1&#xA;Unfortunately some health conditions and their treatments can lead to a decline in these abilities. For example, imagine a teenager who has to spend a lot of time in the hospital due to a chronic illness and is unable to attend school regularly. Or a young adult who suffers from a heart disease and has to take regular medication which can affect their cognitive abilities.</description>
+    </item>
+    <item>
       <title>Ecospire</title>
       <link>https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/</guid>
       <description>Our Goal This project is about science and how you can save the world. How, you ask? Imagine a scenario where the area available for food production is decreasing. You are part of a team responsible for the indoor cultivation of algae. Those can be used to produce food. Your task is to optimise the production for these algae and feed your country. Take a deep dive in the sience of algae and the related production process.</description>
-    </item>
-    <item>
-      <title>MindCraft</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m3-mindcraft/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m3-mindcraft/</guid>
-      <description>Our Process Minispiele programmiert sodass sie skalierbar sind, spiele Konzept betrachten (großer Streitpunkt), viele Konzept angeschaut (Wiederspielwert, Belohnungssysteme, mobiles Design, Spiel Umgebung, Scoring System), individuelle UI. Our Goal &amp;ldquo;Name&amp;rdquo; ist eine Serious Game Suite die mehrere Minispielen in einer kleinen Welt präsentiert. Dabei sind die Minispiele skalierbar auf das aktuelle Können und vertreten unterschiedliche Aspekte von kognitiven Fähigkeiten, was auch über das persönliche Scoring angezeigt wird. Somit soll es im therapeutischen Umfeld einen interaktiven Ansatz bieten um die Effizienz der Therapien und die Motivation der Patienten zu fördern.</description>
     </item>
   </channel>
 </rss>
