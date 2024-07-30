@@ -16,6 +16,13 @@
     </item>
     <item>
       <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/features/</guid>
+      <description>Features Using Makesign, you can project your own pictures, posters and GIFs on a screen and manage your content with an easy-to-use interface at any time. Create slideshows, choosing how long each of the images are being displayed. For dynamic displays, such as the dashboard, where you can see what tool is booked for how long, you can simply create a website and connect it with the system. The projection runs via a Raspberry Pi, which means you can connect them to basically any screen you have lying around and give them a new life.</description>
+    </item>
+    <item>
+      <title>Features</title>
       <link>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b1-peek/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b1-peek/features/</guid>
@@ -65,6 +72,13 @@
     </item>
     <item>
       <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/process/</guid>
+      <description>Process At the beginning of the project, we had a kick-off meeting with Prof. Dr. Barne, our project supervisor, and Martin Holzhauer, our lead connection to the IDiA Makerspace. Martin explained his needs for the digital signage, which considers showing ads for the Makerspace and most importantly, the booking reservations of the IDiA booking website. To get a general idea on digital signage, we looked around the campus for already existing digital signage use cases for inspiration, as well as possible cases, in which it might be practical to implement.</description>
+    </item>
+    <item>
+      <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b1-peek/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws23/bachelor/b1-peek/process/</guid>
@@ -90,6 +104,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws23/master/m5-mov.io/process/</guid>
       <description>Research At the start of our development journey, we devoted a significant amount of time to in-depth research. Our goal? To get inside the user&amp;rsquo;s world, to understand the challenges they face on a daily basis, whether in a traditional office or in the rapidly evolving landscape of remote working. We dug deep to uncover the pros and cons and shed light on the finer details of their working environment.</description>
+    </item>
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/techstack/</guid>
+      <description> Communication Zoom Whatsapp Signal Discord Organization Github Google-Docs Programming Bootstrap Javascript Ruby on Rails Rubymine Shell Ubuntu Visual Studio Code CSS Design Figma Utility Docker </description>
     </item>
     <item>
       <title>Tech Stack</title>
@@ -289,13 +310,6 @@
     </item>
     <item>
       <title>Process</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/process/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/process/</guid>
-      <description> Process </description>
-    </item>
-    <item>
-      <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/process/</guid>
@@ -352,13 +366,6 @@
     </item>
     <item>
       <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/features/</guid>
-      <description> Features </description>
-    </item>
-    <item>
-      <title>Features</title>
       <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b5-pam/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b5-pam/features/</guid>
@@ -412,13 +419,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m4-orgxtract/features/</guid>
       <description>Python Library The library contains primitives for extracting PDFs and detects shapes and words. It includes semantic analysis of organizational charts. The library can be used in your Python projects. It can be customized to your needs for your organizational charts by providing your own datasets. Command Line Tool The command line tool is designed to convert PDF files into JSON files. This main feature offers a simple user interface to quickly extract data from individual or multiple files.</description>
-    </item>
-    <item>
-      <title>Tech Stack</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/techstack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/techstack/</guid>
-      <description> Tech Stack Future </description>
     </item>
     <item>
       <title>Tech Stack</title>
@@ -558,7 +558,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: e7d505b AuthorDate: 2024-07-30 AuthorEmail: 72941883&amp;#43;JonasTrenkler@users.noreply.github.com AuthorName: Jonas Trenkler CommitDate: 2024-07-30 Hash: e7d505b4244d9e1c4f8bdcba472905a10a0c16e1 Subject: B3 lunarfit (#398) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 4a1bfee AuthorDate: 2024-07-30 AuthorEmail: 53829199&amp;#43;Nemozi@users.noreply.github.com AuthorName: Nemozi CommitDate: 2024-07-30 Hash: 4a1bfeeace7a10c04fd6a6be3d8c98f81de2b8ca Subject: B2: Fix tryout (#401) </description>
     </item>
     <item>
       <title>Tech Stack</title>
