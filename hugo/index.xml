@@ -12,7 +12,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 26ebdc2 AuthorDate: 2024-07-30 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-07-30 Hash: 26ebdc2463895cafa5e2bba19b5295ce53412d75 Subject: Release Train 3: small fixes, remove logo deserts </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: a82523d AuthorDate: 2024-07-31 AuthorEmail: 72941883&amp;#43;JonasTrenkler@users.noreply.github.com AuthorName: Jonas Trenkler CommitDate: 2024-07-31 Hash: a82523d0a440c1f1e4c039cf5a15c800a1097997 Subject: B3 Lunarfit: fix preview image missing (typo) (#402) </description>
     </item>
   </channel>
 </rss>
