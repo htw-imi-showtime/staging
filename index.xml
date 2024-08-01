@@ -327,7 +327,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ss24/master/m1-gaming-for-future/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m1-gaming-for-future/process/</guid>
-      <description>Initial Meetings The three of us, who had worked on the simulation last semester, provided the new team members with a brief introduction to the codebase and detailed information about water scarcity, our algorithms, and other essential aspects. Communication and Iteration We held weekly Scrum meetings with product owners to iterate on and refine project details, working in sprints to ensure continuous progress and alignment with our goals. Programming We primarily programmed in Unity.</description>
+      <description>Initial Meetings The three of us, who had worked on the simulation last semester, provided the new team members with a brief introduction to the codebase and detailed information about water scarcity, our algorithms, and other essential aspects. Communication and Iteration We held weekly Scrum meetings with product owners to iterate on and refine project details, working in sprints to ensure continuous progress and alignment with our goals. Programming Workflow We managed our Source Code using the Gitflow Workflow and GitLab.</description>
     </item>
     <item>
       <title>Process</title>
@@ -376,7 +376,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ss24/master/m1-gaming-for-future/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m1-gaming-for-future/features/</guid>
-      <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+      <description>Features Supervised tile based gridmap interactions Map interactions are controlled and supervised in order to restrict specific player interactions, removing some of the previous sandbox-aspect of the game.&#xA;Ground water level sensitive game winning conditions Player actions directly influence groundwater levels. These influence changes are computed by respecting a data-table though and built to try and mimic somereal-life behavior in the environment.&#xA;Reviving species Such objectives are displayed in the form of quests and can be achieved in the game by modifying the biomes configuration on the map and applying the right configurations and some other hidden conditions.</description>
     </item>
     <item>
       <title>Features</title>
@@ -558,7 +558,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: a82523d AuthorDate: 2024-07-31 AuthorEmail: 72941883&amp;#43;JonasTrenkler@users.noreply.github.com AuthorName: Jonas Trenkler CommitDate: 2024-07-31 Hash: a82523d0a440c1f1e4c039cf5a15c800a1097997 Subject: B3 Lunarfit: fix preview image missing (typo) (#402) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 8f732be AuthorDate: 2024-08-01 AuthorEmail: 52156092&amp;#43;kennethenglisch@users.noreply.github.com AuthorName: Kenneth Englisch CommitDate: 2024-08-01 Hash: 8f732be98a80e6d9a9fa44e04b6120fd1cd92af8 Subject: M1 - last changes for the showtime (#407) </description>
     </item>
     <item>
       <title>Tech Stack</title>
