@@ -299,7 +299,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b4-sempy/features/</guid>
-      <description>Features Our SEMPY Button offers a relaxed shopping experience that provides customers with recommendations based on the information from the three major platforms: idealo, Amazon, and YouTube. Whether the customer is interested in products like a &amp;ldquo;Victorinox Huntsman&amp;rdquo;, an &amp;ldquo;MSR Hubba Hubba 2 NX&amp;rdquo;, or &amp;ldquo;Apple AirPods 3&amp;rdquo;, the SEMPY-AI Tool caters to the customer&amp;rsquo;s individual needs.&#xA;Screenshot of SEMPY-modal on the idealo Website. We take information from idealo, YouTube and Amazon and give them to the OpenAi to process and summarize them.</description>
+      <description>Features SEMPY-Button on the idealo Website. Our SEMPY Button offers a relaxed shopping experience that provides customers with recommendations based on the information from the three major platforms: idealo, Amazon, and YouTube. Whether the customer is interested in products like a &amp;ldquo;Victorinox Huntsman&amp;rdquo;, an &amp;ldquo;MSR Hubba Hubba 2 NX&amp;rdquo;, or &amp;ldquo;Apple AirPods 3&amp;rdquo;, the SEMPY-AI Tool caters to the customer&amp;rsquo;s individual needs.&#xA;SEMPY-modal on the idealo Website. We take information from idealo, YouTube and Amazon and give them to the OpenAi to process and summarize them.</description>
     </item>
     <item>
       <title>Process</title>
@@ -558,7 +558,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 8f732be AuthorDate: 2024-08-01 AuthorEmail: 52156092&amp;#43;kennethenglisch@users.noreply.github.com AuthorName: Kenneth Englisch CommitDate: 2024-08-01 Hash: 8f732be98a80e6d9a9fa44e04b6120fd1cd92af8 Subject: M1 - last changes for the showtime (#407) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 065f814 AuthorDate: 2024-08-01 AuthorEmail: 167428823&amp;#43;PaulSchiffner@users.noreply.github.com AuthorName: PaulSchiffner CommitDate: 2024-08-01 Hash: 065f814b084361b8fc841582224770dca9e9c5c6 Subject: B4 sempy last changes (#406) </description>
     </item>
     <item>
       <title>Tech Stack</title>
