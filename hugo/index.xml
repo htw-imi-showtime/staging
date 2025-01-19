@@ -12,7 +12,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 5035f52 AuthorDate: 2025-01-19 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-01-19 Hash: 5035f52ac248bc1d7558be8f4a815a7e942e5cc8 Subject: create ws24 </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: d924544 AuthorDate: 2025-01-19 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-01-19 Hash: d9245445f1a2da51c6a39308d75c8829fb6649b2 Subject: fix semester title in overview </description>
     </item>
   </channel>
 </rss>
