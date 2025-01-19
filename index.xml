@@ -302,6 +302,13 @@
       <description>Features SEMPY-Button on the idealo Website. Our SEMPY Button offers a relaxed shopping experience that provides customers with recommendations based on the information from the three major platforms: idealo, Amazon, and YouTube. Whether the customer is interested in products like a &amp;ldquo;Victorinox Huntsman&amp;rdquo;, an &amp;ldquo;MSR Hubba Hubba 2 NX&amp;rdquo;, or &amp;ldquo;Apple AirPods 3&amp;rdquo;, the SEMPY-AI Tool caters to the customer&amp;rsquo;s individual needs.&#xA;SEMPY-modal on the idealo Website. We take information from idealo, YouTube and Amazon and give them to the OpenAi to process and summarize them.</description>
     </item>
     <item>
+      <title>Optional Subpage</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b0-template/optional_subpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b0-template/optional_subpage/</guid>
+      <description>Optional Subpage Subheader 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+    </item>
+    <item>
       <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b1-infinite-zoom/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -391,6 +398,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/gameplay/</guid>
       <description>Gameplay You can manipulate the light-conditions, the temperature, the pH-value and the salinity of the water the algae should grow in. Keep an eye on the status of your plant with your score and the indicator on the floating monitor within all stages. If you want to learn more about the parts needed to do this kind of research, you can click on the small icons with an “i”. Those will open small boxes with text that will let you know more.</description>
+    </item>
+    <item>
+      <title>Optional Subpage</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/master/m0-template/optional_subpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m0-template/optional_subpage/</guid>
+      <description>Optional Subpage Subheader 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
     </item>
     <item>
       <title>Process</title>
@@ -558,7 +572,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: e2c7362 AuthorDate: 2025-01-19 AuthorEmail: 166652253&amp;#43;annadeus@users.noreply.github.com AuthorName: anna CommitDate: 2025-01-19 Hash: e2c736256e3990ad409b8da9cb808b7b817c9086 Subject: Changed readme (#409) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 5035f52 AuthorDate: 2025-01-19 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-01-19 Hash: 5035f52ac248bc1d7558be8f4a815a7e942e5cc8 Subject: create ws24 </description>
     </item>
     <item>
       <title>Tech Stack</title>
