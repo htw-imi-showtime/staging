@@ -579,7 +579,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 564a152 AuthorDate: 2025-01-19 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-01-19 Hash: 564a1520f836c6627c08ce4b4a9059f8f9670558 Subject: allow 4th character in file name extensions </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 4c3ba99 AuthorDate: 2025-01-20 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-01-20 Hash: 4c3ba9959c9f42d7617da845d2168675d6876e11 Subject: fix review </description>
     </item>
     <item>
       <title>Tech Stack</title>
