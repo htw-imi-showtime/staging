@@ -302,6 +302,13 @@
       <description>Features SEMPY-Button on the idealo Website. Our SEMPY Button offers a relaxed shopping experience that provides customers with recommendations based on the information from the three major platforms: idealo, Amazon, and YouTube. Whether the customer is interested in products like a &amp;ldquo;Victorinox Huntsman&amp;rdquo;, an &amp;ldquo;MSR Hubba Hubba 2 NX&amp;rdquo;, or &amp;ldquo;Apple AirPods 3&amp;rdquo;, the SEMPY-AI Tool caters to the customer&amp;rsquo;s individual needs.&#xA;SEMPY-modal on the idealo Website. We take information from idealo, YouTube and Amazon and give them to the OpenAi to process and summarize them.</description>
     </item>
     <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/features/</guid>
+      <description>Immersive Cycling Experience ErgoScape immerses participants in a virtual cycling experience. The application uses first-person cycling videos while adjusting the playing speed based on the live data from the spiroergometry test and enriching the experience with additional visual effects and motivational elements like progress bars and verbal encouragement. Immersive Cycling Experience Live Data Integration During the spiroergometry test, a lot of medical data, such as heart rate, oxygen consumption, and carbon dioxide production, is collected by the MetaSoft Studio software.</description>
+    </item>
+    <item>
       <title>Optional Subpage</title>
       <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b0-template/optional_subpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -414,11 +421,25 @@
       <description>Process The first thing we thought about within the brainstorming for this project was: •&#x9;What do we want to communicate?&#xA;•&#x9;Who is the target audience?&#xA;•&#x9;How can we target this audience? We answered those questions by communication with the product owners of the food4future-project. Food4Future (f4f) is a joint project funded by the German Federal Ministry of Education and Research (BMBF) as a part of the “Agricultural Systems of the Future” programme.</description>
     </item>
     <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/process/</guid>
+      <description>Research As the very first step of our research, we read studies and articles about the topics of motivation in sports and the effects of audiovisual stimuli on performance to get a better understanding of the field. In regular meetings, we discussed the findings with our partner from the Institute of Sports Science at the University of Bern. We even had the opportunity to try out the spiroergometry test ourselves at a local doctor&amp;rsquo;s office here in Berlin, which was extremely useful in helping us understand the challenges and the importance of motivation during the test.</description>
+    </item>
+    <item>
       <title>Story</title>
       <link>https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/story/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/story/</guid>
       <description>Story In our AR-Game environment the “No land”-Scenario takes place. The area available for food production is decreasing. You are part of a team responsible for the indoor cultivation of algae. Therefore, you can experience all three important stages of the research necessary to grow the best algae for your country.</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/techstack/</guid>
+      <description>Concept &amp;amp; Design Miro&#xA;Miro was used for the initial brainstorming session, for concretising the requirements and concept, and for the wireframes. It allowed the team to discuss and visualise ideas and record decisions.&#xA;Figma&#xA;Figma was used to create the UI component library, style guide and final design of the user interface of ErgoScape.&#xA;Development Nuxt&#xA;Nuxt is a powerful Vue.js framework that simplifies the development of universal, static, and single-page applications by providing server-side rendering, routing, state management, and other built-in features.</description>
     </item>
     <item>
       <title>Workflow</title>
@@ -579,7 +600,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 4c3ba99 AuthorDate: 2025-01-20 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-01-20 Hash: 4c3ba9959c9f42d7617da845d2168675d6876e11 Subject: fix review </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: a15ac67 AuthorDate: 2025-01-20 AuthorEmail: 104562440&amp;#43;justinpallas@users.noreply.github.com AuthorName: Justin Pallas CommitDate: 2025-01-20 Hash: a15ac67a948328ddeee6a72e551904e0d6751d45 Subject: M3 ErgoScape - first release train (#410) </description>
     </item>
     <item>
       <title>Tech Stack</title>

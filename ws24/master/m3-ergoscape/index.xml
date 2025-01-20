@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ErgoScape on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/</link>
+    <description>Recent content in ErgoScape on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/features/</guid>
+      <description>Immersive Cycling Experience ErgoScape immerses participants in a virtual cycling experience. The application uses first-person cycling videos while adjusting the playing speed based on the live data from the spiroergometry test and enriching the experience with additional visual effects and motivational elements like progress bars and verbal encouragement. Immersive Cycling Experience Live Data Integration During the spiroergometry test, a lot of medical data, such as heart rate, oxygen consumption, and carbon dioxide production, is collected by the MetaSoft Studio software.</description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/process/</guid>
+      <description>Research As the very first step of our research, we read studies and articles about the topics of motivation in sports and the effects of audiovisual stimuli on performance to get a better understanding of the field. In regular meetings, we discussed the findings with our partner from the Institute of Sports Science at the University of Bern. We even had the opportunity to try out the spiroergometry test ourselves at a local doctor&amp;rsquo;s office here in Berlin, which was extremely useful in helping us understand the challenges and the importance of motivation during the test.</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/techstack/</guid>
+      <description>Concept &amp;amp; Design Miro&#xA;Miro was used for the initial brainstorming session, for concretising the requirements and concept, and for the wireframes. It allowed the team to discuss and visualise ideas and record decisions.&#xA;Figma&#xA;Figma was used to create the UI component library, style guide and final design of the user interface of ErgoScape.&#xA;Development Nuxt&#xA;Nuxt is a powerful Vue.js framework that simplifies the development of universal, static, and single-page applications by providing server-side rendering, routing, state management, and other built-in features.</description>
+    </item>
+  </channel>
+</rss>
