@@ -317,6 +317,13 @@
     </item>
     <item>
       <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b4-john-the-explorer/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b4-john-the-explorer/features/</guid>
+      <description>Personalized Travel Planning Discover affordable flights, personalized hotel recommendations, and real-time availability based on your preferences, budget, and location. Get tailored activity ideas and packing suggestions, all while integrating weather conditions at your destination. Interactive Travel Insights Explore activities, landmarks, and local events in your chosen city, with insights on hidden gems and local favorites. Receive detailed flight schedules, durations and prices. AI-Driven Dynamic Assistance Engage with an AI-powered NPC for conversational trip planning, enjoy a hands-free experience through speech recognition and text-to-speech technologies.</description>
+    </item>
+    <item>
+      <title>Features</title>
       <link>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/features/</guid>
@@ -386,11 +393,25 @@
       <description>Process The concept of the game was developed collaboratively during the early stages of the project. We had lengthy discussions about how to design a game that would be both highly engaging and fun. Our idea was to create the perfect mix of “Cooking Mama 2” and “Subway Surfers”, but set entirely in space. While the idea of combining cooking and space initially felt ambitious and even overwhelming at times, we remained committed to our vision.</description>
     </item>
     <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b4-john-the-explorer/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b4-john-the-explorer/process/</guid>
+      <description>Conceptualization &amp;amp; Design The project began with brainstorming sessions, where we explored various ideas, including NPC-based games and AI assistants. After gathering insights from online resources and real-world applications, we decided to merge AI with an immersive travel experience. In the Requirement Analysis phase, we defined the user needs and project goals, ensuring that the platform would offer personalized travel recommendations and seamless interaction. Moving to Design and Prototyping, we created system architecture and UI designs that would provide users with a smooth and intuitive experience.</description>
+    </item>
+    <item>
       <title>Special Thanks</title>
       <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/specialthanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/specialthanks/</guid>
       <description> Aaron, our cameraman Berliner Feuerwehr Azubis </description>
+    </item>
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b4-john-the-explorer/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b4-john-the-explorer/techstack/</guid>
+      <description>Core Components Unity: For developing the interactive NPC interface and integrating all features.&#xA;Amadeus API: Used to fetch real-time flight and hotel data.&#xA;Gemini API: It is responsible for answering user queries.&#xA;Vosk Speech Recognition: It is used to convert user speech into text.&#xA;Pixabay API: For fetching images based on keywords such as city or country names.&#xA;Python TTS: It delivers audio responses to user queries.&#xA;Programming Languages C#: For implementing the Unity-based interface and interaction logic.</description>
     </item>
     <item>
       <title>Challenges</title>
@@ -628,7 +649,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: d753031 AuthorDate: 2025-01-22 AuthorEmail: 147834099&amp;#43;Tiphannie@users.noreply.github.com AuthorName: Tiphannie Margret CommitDate: 2025-01-22 Hash: d7530317d050ffb8cf46af364a762f79c356d918 Subject: B2: Added our project in new branch (#416) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: e5cb705 AuthorDate: 2025-01-22 AuthorEmail: Yudan.Pan@Student.HTW-Berlin.de AuthorName: YudanPan CommitDate: 2025-01-22 Hash: e5cb7054c047ee20652a6a4ae31ee6c29b46cd50 Subject: B4 - first release (#418) </description>
     </item>
     <item>
       <title>Tech Stack</title>
