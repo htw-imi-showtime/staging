@@ -42,5 +42,12 @@
       <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b5-pam/</guid>
       <description>Background The Tool&amp;rsquo;s purpose is to allow for the simple creation of Process Diagrams using a simple interface, as well the saving and exporting of those diagrams in various formats as required, organizing them depending on the preferences of the creators by allowing for a custom repository structure of folders and sub-folders. It also has an internal organization scheme following a simple folder/file format. However, it was rather simple, focusing on the basic features initially.</description>
     </item>
+    <item>
+      <title>VoiSum</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b2-voisum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b2-voisum/</guid>
+      <description>Our Goal In today&amp;rsquo;s fast-paced world, we&amp;rsquo;re aiming to transform how people consume voice messages by creating an AI-powered solution that cuts through the noise. Our tool takes those rambling voice notes and delivers just the essential content - no fluff, no filler words, just the key points you need. By combining speech-to-text, smart summarization, and voice synthesis, we&amp;rsquo;re not just saving time - we&amp;rsquo;re making voice communication more efficient while keeping it personal.</description>
+    </item>
   </channel>
 </rss>
