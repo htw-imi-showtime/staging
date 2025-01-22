@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helm sucht Kopf on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/</link>
+    <description>Recent content in Helm sucht Kopf on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/development/</guid>
+      <description>Tech Stack Process Starting B3 - Berliner Feuerwehr: Helm Sucht Kopf, we began by analyzing the current fire department website to pinpoint its pain points and areas for improvement. Our key questions were: What’s not working? What could be improved? And how can we create solutions that meet the needs of users, stakeholders, and us?&#xA;To better understand user behavior, we examined website statistics provided by the fire department, such as time spent on various pages and points of disengagement.</description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/features/</guid>
+      <description>Features To make sure we reach as many people as possible, we’ve included four main features:&#xA;Classic Filter Page:&#xA;Easily find the right opportunity by filtering based on your highest level of education and personal preferences. Interactive Quiz with a Storyline:&#xA;Take a short, engaging quiz to test your personality and decision-making skills. Based on your answers, we’ll guide you to the entry path that suits you best. Interactive Virtual Tour:</description>
+    </item>
+    <item>
+      <title>Special Thanks</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/specialthanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/specialthanks/</guid>
+      <description> Aaron, our cameraman Berliner Feuerwehr Azubis </description>
+    </item>
+  </channel>
+</rss>
