@@ -33,7 +33,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b5-holocms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b5-holocms/</guid>
-      <description>HoloCMS is a mixed reality app for the Microsoft HoloLens 2 that lets users scan custom QR codes to view dynamic content from a web based content management system (CMS) in augmented reality (AR). Developed for the Research and Education Center for Culture and Information Technology (FKI), HoloCMS allows users to explore points of interest enriched with visual and interactive displays.&#xA;Our Goal The main goal of HoloCMS is to create an interactive and user friendly platform that leverages AR for educational and cultural experiences.</description>
+      <description>Our Goal The main goal of HoloCMS is to create an interactive and user friendly platform that leverages AR for educational and cultural experiences. By combining QR code technology with the Microsoft HoloLens 2, we aim to offer an immersive way for users to discover and explore detailed information intuitively. Features QR Code Scanning: With HoloCMS, users can move through different environments using the Microsoft HoloLens 2 to scan QR codes that activate digital content displays.</description>
     </item>
   </channel>
 </rss>
