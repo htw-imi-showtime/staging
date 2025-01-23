@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health Technology on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/categories/health-technology/</link>
+    <description>Recent content in Health Technology on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/categories/health-technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elara Health</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b6-elara-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b6-elara-health/</guid>
+      <description>Our Goal ME/CFS (Myalgische Enzephalomyelitis/Chronic Fatigue Syndrome) affects millions of people worldwide, yet it remains poorly understood and often stigmatized.&#xA;Elara aims to bridge this gap by empowering patients with tools to better understand their condition, track their symptoms, and access personalized health insights. By fostering awareness and providing actionable recommendations, Elara supports ME/CFS patients in managing their daily lives more effectively.&#xA;Therefore, we want to build a website for Elara to help it reach out to people and provide them with the resources they need to navigate life with ME/CFS.</description>
+    </item>
+  </channel>
+</rss>
