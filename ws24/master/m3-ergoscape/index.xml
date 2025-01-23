@@ -23,9 +23,9 @@
     </item>
     <item>
       <title>Tools</title>
-      <link>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/techstack/</link>
+      <link>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/techstack/</guid>
+      <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/tools/</guid>
       <description>Concept &amp;amp; Design Miro&#xA;Miro was used for the initial brainstorming session, for concretising the requirements and concept, and for the wireframes. It allowed the team to discuss and visualise ideas and record decisions.&#xA;Figma&#xA;Figma was used to create the UI component library, style guide and final design of the user interface of ErgoScape.&#xA;Development Nuxt&#xA;Nuxt is a powerful Vue.js framework that simplifies the development of universal, static, and single-page applications by providing server-side rendering, routing, state management, and other built-in features.</description>
     </item>
   </channel>
