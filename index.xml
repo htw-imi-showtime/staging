@@ -649,7 +649,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 181453d AuthorDate: 2025-01-24 AuthorEmail: 96808045&amp;#43;namkhanh-nguyen@users.noreply.github.com AuthorName: Nam CommitDate: 2025-01-24 Hash: 181453de08b5059bb236b9be9c78719365aa00c9 Subject: B3 Helm sucht Kopf final website commented out until done (#425) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 6255c5b AuthorDate: 2025-01-27 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-01-27 Hash: 6255c5b6d49a35ec2f79db2c92ff8c8a1a5ae52a Subject: create showtime-date shortcut </description>
     </item>
     <item>
       <title>Tech Stack</title>
