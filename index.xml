@@ -330,13 +330,6 @@
       <description>Immersive Cycling Experience ErgoScape immerses participants in a virtual cycling experience. The application uses first-person cycling videos while adjusting the playing speed based on the live data from the spiroergometry test and enriching the experience with additional visual effects and motivational elements like progress bars and verbal encouragement. Immersive Cycling Experience Live Data Integration During the spiroergometry test, a lot of medical data, such as heart rate, oxygen consumption, and carbon dioxide production, is collected by the MetaSoft Studio software.</description>
     </item>
     <item>
-      <title>Optional Subpage</title>
-      <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b0-template/optional_subpage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b0-template/optional_subpage/</guid>
-      <description>Optional Subpage Subheader 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
-    </item>
-    <item>
       <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b1-infinite-zoom/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -454,13 +447,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m2-food4future/gameplay/</guid>
       <description>Gameplay You can manipulate the light-conditions, the temperature, the pH-value and the salinity of the water the algae should grow in. Keep an eye on the status of your plant with your score and the indicator on the floating monitor within all stages. If you want to learn more about the parts needed to do this kind of research, you can click on the small icons with an “i”. Those will open small boxes with text that will let you know more.</description>
-    </item>
-    <item>
-      <title>Optional Subpage</title>
-      <link>https://htw-imi-showtime.github.io/staging/ws24/master/m0-template/optional_subpage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m0-template/optional_subpage/</guid>
-      <description>Optional Subpage Subheader 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
     </item>
     <item>
       <title>Process</title>
@@ -649,7 +635,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: eea8341 AuthorDate: 2025-02-02 AuthorEmail: 147834099&amp;#43;Tiphannie@users.noreply.github.com AuthorName: Tiphannie Margret CommitDate: 2025-02-02 Hash: eea8341172fcd2d0b64880cbeda2e3cf3101234d Subject: Update homepage content (#434) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 5d06f6f AuthorDate: 2025-02-02 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-02-02 Hash: 5d06f6f530b1258d8c8e7c1aab43f5b334549419 Subject: STW - general updates for 2nd Release Train (#433) </description>
     </item>
     <item>
       <title>Tech Stack</title>
