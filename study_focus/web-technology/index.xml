@@ -8,13 +8,6 @@
     <language>de-de</language>
     <atom:link href="https://htw-imi-showtime.github.io/staging/study_focus/web-technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Capsearch</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss24/master/m5-capsearch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss24/master/m5-capsearch/</guid>
-      <description>In large-scale companies with numerous employees, identifying the ideal project that fosters professional growth and aligns perfectly with individual expectations has consistently posed a challenge. Even after discovering a suitable project, the conventional back-and-forth email exchanges for sharing general information can prove time consuming and labor intensive for both employees and managers. Our Goal CapSearch offers an innovative solution to this challenge. By digitizing the process, Capsearch streamlines how employees are paired with projects.</description>
-    </item>
-    <item>
       <title>Elara Health</title>
       <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b6-elara-health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,27 +20,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/</guid>
       <description> The Goal The goal of #HelmSuchtKopf is to inspire and attract more trainees to the fire department.Through our website&amp;rsquo;s interactive features, we aim to make the process enjoyable, interactive and engaging, helping tomorrow’s heroes find the entry opportunities that best match their aspirations. Christoph Friedrich Duha Kasem Maria Ivanova Nam Khanh Nguyen Phuong Nhi Phan Sandip Sarraf Sara Tahmasebi Adar </description>
-    </item>
-    <item>
-      <title>LunarFit</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b3-lunarfit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b3-lunarfit/</guid>
-      <description>Our Goal Approximately 85% of women experience menstrual-related complaints. Even though it commonly interferes with everyday life, the menstrual cycle is often ignored or even tabooed. Especially in sports, learning about their cycle, helps athletes mitigate complaints. Adapting the training accordingly allows them to harness long-term performance benefits. Education and awareness are crucial to end stigmatization and empower female athletes. Features Lunarfit aims to bridge the gap between menstrual health and athletic performance.</description>
-    </item>
-    <item>
-      <title>MakeSign</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b2-makesign/</guid>
-      <description> Overview In collaboration with IDiA, we developed a project that aims to create a digital signage solution for the Makerspace. MakeSign will be used to display adverts and reservations for tools.&#xA;Key features include a well-structured dashboard for displaying time slots of 3D printers, laser cutters and CNC machines, as well as a system for uploading images to be displayed on monitors using micro computers.&#xA;Rudolfs Spridis Niklas Aporius Nemo Ziener Hyun Bin Jeoung Airon Jasinski </description>
-    </item>
-    <item>
-      <title>PAM</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b5-pam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss24/bachelor/b5-pam/</guid>
-      <description>Background The Tool&amp;rsquo;s purpose is to allow for the simple creation of Process Diagrams using a simple interface, as well the saving and exporting of those diagrams in various formats as required, organizing them depending on the preferences of the creators by allowing for a custom repository structure of folders and sub-folders. It also has an internal organization scheme following a simple folder/file format. However, it was rather simple, focusing on the basic features initially.</description>
     </item>
     <item>
       <title>VoiSum</title>
