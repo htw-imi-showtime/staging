@@ -299,7 +299,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/development/</guid>
-      <description>Tech Stack Process We started by analyzing the fire department’s website to spot issues and areas for improvement. Using website stats and feedback from 16 recent applicants, we gained insights into user needs and challenges.&#xA;With this foundation, we brainstormed and prioritized creative yet practical ideas. After discussions with the fire department, we finalized four main features.&#xA;Our team of seven worked in smaller groups, using sprints to stay organized and tackle tasks efficiently.</description>
+      <description>Process Starting B3 - Berliner Feuerwehr: Helm Sucht Kopf, we began by analyzing the current fire department website to pinpoint its pain points and areas for improvement. Our key questions were: What’s not working? What could be improved? And how can we create solutions that meet the needs of users, stakeholders, and us?&#xA;To better understand user behavior, we examined website statistics provided by the fire department, such as time spent on various pages and points of disengagement.</description>
     </item>
     <item>
       <title>Features</title>
@@ -313,7 +313,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/features/</guid>
-      <description>Features To make sure we reach as many people as possible, we’ve included four main features:&#xA;Classic Filter Page:&#xA;Easily find the right opportunity by filtering based on your highest level of education and personal preferences. Interactive Quiz with a Storyline:&#xA;Take a short, engaging quiz to test your personality and decision-making skills. Based on your answers, we’ll guide you to the entry path that suits you best. Interactive Virtual Tour:</description>
+      <description>Features To make sure we reach as many people as possible, we’ve included four main features:&#xA;Classic Filter Page:&#xA;Easily find the right opportunity by filtering based on your highest level of education and personal preferences. Quiz with a Storyline:&#xA;Take a short, engaging quiz to test your personality and decision-making skills. Based on your answers, we’ll guide you to the entry path that suits you best. Interactive Video:</description>
     </item>
     <item>
       <title>Features</title>
@@ -404,7 +404,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/specialthanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/specialthanks/</guid>
-      <description> Aaron, our cameraman Berliner Feuerwehr Azubis </description>
+      <description> Aaron, our cameraman Emily, Duc, Paul </description>
     </item>
     <item>
       <title>Tech Stack</title>
@@ -649,7 +649,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 41ca0e0 AuthorDate: 2025-01-27 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-01-27 Hash: 41ca0e0cf2dd43fba388f85f81b936bc7b8ac4ad Subject: add app link (#430) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 09df830 AuthorDate: 2025-02-02 AuthorEmail: 96808045&amp;#43;namkhanh-nguyen@users.noreply.github.com AuthorName: Nam CommitDate: 2025-02-02 Hash: 09df830d51a3ddbf9e268b77fdc01daf0ba9d019 Subject: B3 helm sucht kopf (#431) </description>
     </item>
     <item>
       <title>Tech Stack</title>
