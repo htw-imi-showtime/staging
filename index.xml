@@ -145,7 +145,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 9aba33a AuthorDate: 2025-03-13 AuthorEmail: charlotte.john.04@gmx.de AuthorName: flashwing-04 CommitDate: 2025-03-13 Hash: 9aba33a692a35a6ecb6e0ae1cdf472a0f9cf28ce Subject: Updated submodule to latest commit </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 0c81021 AuthorDate: 2025-04-15 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-04-15 Hash: 0c8102177bdbaac4265ff63b28afa2c9489ffb0b Subject: tiny project debug improvements (#435) </description>
     </item>
   </channel>
 </rss>
