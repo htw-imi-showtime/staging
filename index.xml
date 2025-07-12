@@ -145,7 +145,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 6b1e6fe AuthorDate: 2025-07-12 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-07-12 Hash: 6b1e6fe6324a0a18017644e2499aa5e60c2b7e81 Subject: update publish page via gh actions doc </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 228c996 AuthorDate: 2025-07-12 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-07-12 Hash: 228c9967caf6951ba8c37b3eb699f92f99d0d3f8 Subject: do not run on main in forks </description>
     </item>
   </channel>
 </rss>
