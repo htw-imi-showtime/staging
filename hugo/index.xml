@@ -12,7 +12,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 3c5346c AuthorDate: 2025-07-13 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-07-13 Hash: 3c5346c888d20d6e8182041481cc384eb0db4e80 Subject: more space for m5 </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: f8338fb AuthorDate: 2025-07-13 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-07-13 Hash: f8338fb5b51f23b023e5777b10fd985b4e055156 Subject: allow all files for m2_m3_split </description>
     </item>
   </channel>
 </rss>
