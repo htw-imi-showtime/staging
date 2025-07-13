@@ -8,6 +8,20 @@
     <language>de-de</language>
     <atom:link href="https://htw-imi-showtime.github.io/staging/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Detailed Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/process/</guid>
+      <description>Initial Planning &amp;amp; Feature Scope We started the project with a collaborative brainstorming session to decide what types of audience interaction we wanted to support — including live Q&amp;amp;A, multiple types of polls, wordClouds, and anonymous participation. From there, we drafted basic user stories to shape the initial functionality and guide our development process. This gave us a shared understanding of our goals and helped prioritize what to build first.</description>
+    </item>
+    <item>
+      <title>Outcome</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/outcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/outcome/</guid>
+      <description> Our WebApp add images&amp;hellip; Features Open Text polls &amp;hellip; Word Cloud polls &amp;hellip; Multiple Choice polls &amp;hellip; Ranking polls &amp;hellip; Rating polls &amp;hellip; Image polls &amp;hellip; QnA &amp;hellip; </description>
+    </item>
+    <item>
       <title>Development</title>
       <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -145,7 +159,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 228c996 AuthorDate: 2025-07-12 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-07-12 Hash: 228c9967caf6951ba8c37b3eb699f92f99d0d3f8 Subject: do not run on main in forks </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 5446598 AuthorDate: 2025-07-13 AuthorEmail: 147180494&amp;#43;flashwing-04@users.noreply.github.com AuthorName: Charlotte John CommitDate: 2025-07-13 Hash: 544659865babaabe3786b75874570b0bdd37ab93 Subject: B5 - pages for 1st release train (#443) </description>
     </item>
   </channel>
 </rss>

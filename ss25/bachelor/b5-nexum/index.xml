@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nexum on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/</link>
+    <description>Recent content in Nexum on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detailed Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/process/</guid>
+      <description>Initial Planning &amp;amp; Feature Scope We started the project with a collaborative brainstorming session to decide what types of audience interaction we wanted to support — including live Q&amp;amp;A, multiple types of polls, wordClouds, and anonymous participation. From there, we drafted basic user stories to shape the initial functionality and guide our development process. This gave us a shared understanding of our goals and helped prioritize what to build first.</description>
+    </item>
+    <item>
+      <title>Outcome</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/outcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/outcome/</guid>
+      <description> Our WebApp add images&amp;hellip; Features Open Text polls &amp;hellip; Word Cloud polls &amp;hellip; Multiple Choice polls &amp;hellip; Ranking polls &amp;hellip; Rating polls &amp;hellip; Image polls &amp;hellip; QnA &amp;hellip; </description>
+    </item>
+  </channel>
+</rss>
