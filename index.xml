@@ -15,11 +15,39 @@
       <description>Initial Planning &amp;amp; Feature Scope We started the project with a collaborative brainstorming session to decide what types of audience interaction we wanted to support — including live Q&amp;amp;A, multiple types of polls, wordClouds, and anonymous participation. From there, we drafted basic user stories to shape the initial functionality and guide our development process. This gave us a shared understanding of our goals and helped prioritize what to build first.</description>
     </item>
     <item>
+      <title>Team</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/team/</guid>
+      <description> Team Alejandro Martinez Hernandez Alexander Jäger Anton Lehmann Harvey Benn Konstantin Schiwarov Lennart Weissenstein Tobias Bayer </description>
+    </item>
+    <item>
+      <title>Team1</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/team1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/team1/</guid>
+      <description>Team Alejandro Martinez Hernandez TODO: Was willst du sagen? Was hast du im Team gemacht? Corporis odit id aperiam excepturi deleniti occaecati dolorem iusto. Est saepe mollitia vitae earum quia. Quibusdam mollitia ad et aut quia quae voluptatem cum. Tempora deleniti sed porro officiis voluptatibus. Impedit esse aut velit nostrum facilis quod. Consectetur inventore soluta voluptates voluptates molestiae optio fuga deserunt.…&#xA;Alejandro Martinez Hernandez Alexander Jäger TODO: Was willst du sagen?</description>
+    </item>
+    <item>
       <title>Outcome</title>
       <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/outcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/outcome/</guid>
       <description> Our WebApp add images&amp;hellip; Features Open Text polls &amp;hellip; Word Cloud polls &amp;hellip; Multiple Choice polls &amp;hellip; Ranking polls &amp;hellip; Rating polls &amp;hellip; Image polls &amp;hellip; QnA &amp;hellip; </description>
+    </item>
+    <item>
+      <title>Team2</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/team2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/team2/</guid>
+      <description>Team Alejandro Martinez Hernandez Corporis odit id aperiam excepturi deleniti occaecati dolorem iusto. Est saepe mollitia vitae earum quia. Quibusdam mollitia ad et aut quia quae voluptatem cum. Tempora deleniti sed porro officiis voluptatibus. Impedit esse aut velit nostrum facilis quod. Consectetur inventore soluta voluptates voluptates molestiae optio fuga deserunt. Alexander Jäger Corporis odit id aperiam excepturi deleniti occaecati dolorem iusto. Est saepe mollitia vitae earum quia. Quibusdam mollitia ad et aut quia quae voluptatem cum.</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/tools/</guid>
+      <description> Tools Unser Spiel ist ein Unity Projekt, also haben wir C# verwendet. Fuer unsere Build Pipeline in Gitlab haben wir Google Cloud Runner verwendet.&#xA;C# Unity GitLab gcloud terraform </description>
     </item>
     <item>
       <title>Development</title>
@@ -180,7 +208,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 3b6a298 AuthorDate: 2025-07-14 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-07-14 Hash: 3b6a298cd265bae963d5ae097d004502bcfc9e9a Subject: STW: make mediathek shortcode embeddable in sections, fixes #455 </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 81b8f04 AuthorDate: 2025-07-15 AuthorEmail: 104323196&amp;#43;abductedRhino@users.noreply.github.com AuthorName: abductedRhino CommitDate: 2025-07-15 Hash: 81b8f04568dd428198856f7b621ecf62296533e8 Subject: B4 - Create urban bio space simulator page (#445) </description>
     </item>
   </channel>
 </rss>
