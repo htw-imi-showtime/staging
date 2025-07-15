@@ -58,6 +58,13 @@
     </item>
     <item>
       <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m5-fun-with-programming/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m5-fun-with-programming/features/</guid>
+      <description>General This e-learning unit is designed for first-semester international students of the Media Informatics Bachelor’s program at HTW Berlin. It teaches the fundamentals of Java programming in a creative and engaging way. Instead of traditional, dry exercises, students are guided through a magical storyline where programming concepts are explained using potions, magical capes, wands, and other fantasy elements. To ensure long-term usability, all learning content is managed via a connected headless CMS, allowing professors and students to adapt and expand the platform beyond the semester.</description>
+    </item>
+    <item>
+      <title>Features</title>
       <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/features/</guid>
@@ -93,6 +100,13 @@
     </item>
     <item>
       <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m5-fun-with-programming/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m5-fun-with-programming/process/</guid>
+      <description>Background &amp;amp; Starting Point This project builds on the insights we gained in the ‘Didactics of Media’ course with Prof. Weber-Wulff last semester. In that course, we explored different ways of conveying knowledge to learners. We also examined what learning actually means and how many different approaches there are to understanding a subject.&#xA;At the end of the semester, we worked in small groups to design e-learning unit concepts based on selected topics from the Bachelor&amp;rsquo;s course Informatics 1.</description>
+    </item>
+    <item>
+      <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b1-chef/optional_subpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b1-chef/optional_subpage/</guid>
@@ -125,6 +139,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/process/</guid>
       <description>Research As the very first step of our research, we read studies and articles about the topics of motivation in sports and the effects of audiovisual stimuli on performance to get a better understanding of the field. In regular meetings, we discussed the findings with our partner from the Institute of Sports Science at the University of Bern. We even had the opportunity to try out the spiroergometry test ourselves at a local doctor&amp;rsquo;s office here in Berlin, which was extremely useful in helping us understand the challenges and the importance of motivation during the test.</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m5-fun-with-programming/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m5-fun-with-programming/tools/</guid>
+      <description>Concept &amp;amp; Design Miro was used for the initial brainstorming sessions, for concretizing the requirements and concept. We used it as well for the first low-fidelity prototypes. It allowed the team to discuss and visualize ideas and record decisions. Figma was used to create the UI component library, style guide and final design for the user interface of the application. Frontend Development Nuxt.js is a powerful Vue.js framework that simplifies the development of web applications by providing a nice-to-handle directory structure, server-side rendering, routing functionalities and other built-in features.</description>
     </item>
     <item>
       <title>Tools</title>
@@ -208,7 +229,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 81b8f04 AuthorDate: 2025-07-15 AuthorEmail: 104323196&amp;#43;abductedRhino@users.noreply.github.com AuthorName: abductedRhino CommitDate: 2025-07-15 Hash: 81b8f04568dd428198856f7b621ecf62296533e8 Subject: B4 - Create urban bio space simulator page (#445) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: d8bb2cc AuthorDate: 2025-07-15 AuthorEmail: 65311804&amp;#43;julius-von-schultz@users.noreply.github.com AuthorName: Julius CommitDate: 2025-07-15 Hash: d8bb2cc8610e08a3602bfe7f33982bf795608fde Subject: M5 - Javacademy (#440) </description>
     </item>
   </channel>
 </rss>
