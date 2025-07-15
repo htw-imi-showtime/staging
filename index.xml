@@ -85,18 +85,18 @@
       <description>Immersive Cycling Experience ErgoScape immerses participants in a virtual cycling experience. The application uses first-person cycling videos while adjusting the playing speed based on the live data from the spiroergometry test and enriching the experience with additional visual effects and motivational elements like progress bars and verbal encouragement. Immersive Cycling Experience Live Data Integration During the spiroergometry test, a lot of medical data, such as heart rate, oxygen consumption, and carbon dioxide production, is collected by the MetaSoft Studio software.</description>
     </item>
     <item>
-      <title>M2 - Civitas</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m2-m3-genesisetcivitas/civitas/</link>
+      <title>Genesis et Civitas</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m2-genesis/genesis-et-civitas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m2-m3-genesisetcivitas/civitas/</guid>
-      <description>A WIP image of the game&amp;#39;s UI. Goals and Achievements Our goal for Civitas was the simulation of growing civilisations via player input in a god game setting. The effective utilisation of the created world maps by Genesis has been essential to achieve this goal.&#xA;First steps in a new world&#xA;A big part of our game is the civilisation AI and its movement on the given map. Evaluating the data in a radius around them, each civilisation is locating the most advantageous settling position before trying to survive in this new world.</description>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m2-genesis/genesis-et-civitas/</guid>
+      <description>Genesis et Civitas is a top down god game using a dynamically generated world map. Players first take part in the creation of the world, influencing the effects of natural laws, before guiding civilisations and establishing themselves as their god.&#xA;Two Groups for One Project A big idea for a big group&#xA;The game has two phases. In the first section, “Genesis” players take part in the procedural generation of a world map.</description>
     </item>
     <item>
-      <title>M3 - Genesis</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m2-m3-genesisetcivitas/genesis/</link>
+      <title>Genesis et Civitas</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m3-civitas/genesis-et-civitas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m2-m3-genesisetcivitas/genesis/</guid>
-      <description>A WIP image of the generated map. Goals and Achievements Our primary goal for genesis was to create a procedural generation where each processing step is more and more dependent on the previous ones. We wanted to simulate earth&amp;rsquo;s creation, from the forming of tectonic plates and their movement to the influence of ocean currents on the climate and forming of rivers, forests and herds. We wanted to use as little randomness as possible and try to emulate real geological and meteorological processes.</description>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m3-civitas/genesis-et-civitas/</guid>
+      <description>Genesis et Civitas is a top down god game using a dynamically generated world map. Players first take part in the creation of the world, influencing the effects of natural laws, before guiding civilisations and establishing themselves as their god.&#xA;Two Groups for One Project A big idea for a big group&#xA;The game has two phases. In the first section, “Genesis” players take part in the procedural generation of a world map.</description>
     </item>
     <item>
       <title>Optional Subpage</title>
@@ -169,13 +169,6 @@
       <description>This is the Project Metadata Overview - Back to Index</description>
     </item>
     <item>
-      <title></title>
-      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m2-m3-genesisetcivitas/trigger-build/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m2-m3-genesisetcivitas/trigger-build/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Contact</title>
       <link>https://htw-imi-showtime.github.io/staging/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -236,7 +229,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 15b20f5 AuthorDate: 2025-07-15 AuthorEmail: 149469185&amp;#43;Elociraptor@users.noreply.github.com AuthorName: Elociraptor CommitDate: 2025-07-15 Hash: 15b20f5cab64719feed144d94ba41f5d141ef547 Subject: B1 draft for first release train (#444) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 9f5e994 AuthorDate: 2025-07-15 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-07-15 Hash: 9f5e9941f867ff491ba38d016ebfdf1d7c1fa94c Subject: M2 M3 split (#453) </description>
     </item>
   </channel>
 </rss>

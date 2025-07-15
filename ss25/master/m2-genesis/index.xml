@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genesis on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/ss25/master/m2-genesis/</link>
+    <description>Recent content in Genesis on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/ss25/master/m2-genesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Genesis et Civitas</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m2-genesis/genesis-et-civitas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m2-genesis/genesis-et-civitas/</guid>
+      <description>Genesis et Civitas is a top down god game using a dynamically generated world map. Players first take part in the creation of the world, influencing the effects of natural laws, before guiding civilisations and establishing themselves as their god.&#xA;Two Groups for One Project A big idea for a big group&#xA;The game has two phases. In the first section, “Genesis” players take part in the procedural generation of a world map.</description>
+    </item>
+  </channel>
+</rss>
