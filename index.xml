@@ -99,6 +99,13 @@
       <description>A WIP image of the generated map. Goals and Achievements Our primary goal for genesis was to create a procedural generation where each processing step is more and more dependent on the previous ones. We wanted to simulate earth&amp;rsquo;s creation, from the forming of tectonic plates and their movement to the influence of ocean currents on the climate and forming of rivers, forests and herds. We wanted to use as little randomness as possible and try to emulate real geological and meteorological processes.</description>
     </item>
     <item>
+      <title>Optional Subpage</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b1-der-kleine-weg-des-programmierens/optional_subpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b1-der-kleine-weg-des-programmierens/optional_subpage/</guid>
+      <description>Optional Subpage Subheader 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+    </item>
+    <item>
       <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ss25/master/m5-fun-with-programming/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -229,7 +236,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: d8bb2cc AuthorDate: 2025-07-15 AuthorEmail: 65311804&amp;#43;julius-von-schultz@users.noreply.github.com AuthorName: Julius CommitDate: 2025-07-15 Hash: d8bb2cc8610e08a3602bfe7f33982bf795608fde Subject: M5 - Javacademy (#440) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 15b20f5 AuthorDate: 2025-07-15 AuthorEmail: 149469185&amp;#43;Elociraptor@users.noreply.github.com AuthorName: Elociraptor CommitDate: 2025-07-15 Hash: 15b20f5cab64719feed144d94ba41f5d141ef547 Subject: B1 draft for first release train (#444) </description>
     </item>
   </channel>
 </rss>
