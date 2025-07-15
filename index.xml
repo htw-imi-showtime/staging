@@ -50,6 +50,13 @@
       <description> Tools Unser Spiel ist ein Unity Projekt, also haben wir C# verwendet. Fuer unsere Build Pipeline in Gitlab haben wir Google Cloud Runner verwendet.&#xA;C# Unity GitLab gcloud terraform </description>
     </item>
     <item>
+      <title>Details</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/details/</guid>
+      <description>Process &amp;hellip; App Features Desktop GUI We created a the graphical inteface with QTs by using PySide. It features a sidebar, video controlls and different views to analyze the saliency.&#xA;Views Options In the app you have the options between different views. Under the videos you can view a Map that represent if the view direction mateches the directors cut or view the saliency map for the current frame. It is also possible to display the saliency and the directors cut as an overlay on the video.</description>
+    </item>
+    <item>
       <title>Development</title>
       <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -141,6 +148,13 @@
       <description>Core Components Unity: For developing the interactive NPC interface and integrating all features.&#xA;Amadeus API: Used to fetch real-time flight and hotel data.&#xA;Gemini API: It is responsible for answering user queries.&#xA;Vosk Speech Recognition: It is used to convert user speech into text.&#xA;Pixabay API: For fetching images based on keywords such as city or country names.&#xA;Python TTS: It delivers audio responses to user queries.&#xA;Programming Languages C#: For implementing the Unity-based interface and interaction logic.</description>
     </item>
     <item>
+      <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/tools/</guid>
+      <description>Languages Pyhton Python version 3.9.11 and 3.8.20 was used für the scripting.&#xA;Python Packages PySide6 The package PySide version 6.9.1 was importen to use QT and cereate our graphical user interface.&#xA;PySide6 QT OpenCV The package OpenCV version 4.11.0 was used to manage the video controlls and processing.&#xA;OpenCV Python OpenCV Repositories FastSal We used FastSal as a predictor algorithm. There were edits needed on the codebase to guarantee compability.</description>
+    </item>
+    <item>
       <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -229,7 +243,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 9f5e994 AuthorDate: 2025-07-15 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-07-15 Hash: 9f5e9941f867ff491ba38d016ebfdf1d7c1fa94c Subject: M2 M3 split (#453) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: e7db7dc AuthorDate: 2025-07-15 AuthorEmail: 35660101&amp;#43;sebastian-ptz@users.noreply.github.com AuthorName: Sebastian Ptz CommitDate: 2025-07-15 Hash: e7db7dcc1539fa894edde6aabd6395f0184b0631 Subject: M1 - First release train (#450) </description>
     </item>
   </channel>
 </rss>

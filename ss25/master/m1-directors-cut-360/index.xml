@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>360° Director&#39;s Cut on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/</link>
+    <description>Recent content in 360° Director&#39;s Cut on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Details</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/details/</guid>
+      <description>Process &amp;hellip; App Features Desktop GUI We created a the graphical inteface with QTs by using PySide. It features a sidebar, video controlls and different views to analyze the saliency.&#xA;Views Options In the app you have the options between different views. Under the videos you can view a Map that represent if the view direction mateches the directors cut or view the saliency map for the current frame. It is also possible to display the saliency and the directors cut as an overlay on the video.</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/tools/</guid>
+      <description>Languages Pyhton Python version 3.9.11 and 3.8.20 was used für the scripting.&#xA;Python Packages PySide6 The package PySide version 6.9.1 was importen to use QT and cereate our graphical user interface.&#xA;PySide6 QT OpenCV The package OpenCV version 4.11.0 was used to manage the video controlls and processing.&#xA;OpenCV Python OpenCV Repositories FastSal We used FastSal as a predictor algorithm. There were edits needed on the codebase to guarantee compability.</description>
+    </item>
+  </channel>
+</rss>
