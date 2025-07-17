@@ -12,7 +12,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ss25/master/m5-fun-with-programming/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m5-fun-with-programming/features/</guid>
-      <description>General This e-learning unit is designed for first-semester international students of the Media Informatics Bachelor’s program at HTW Berlin. It teaches the fundamentals of Java programming in a creative and engaging way. Instead of traditional, dry exercises, students are guided through a magical storyline where programming concepts are explained using potions, magical capes, wands, and other fantasy elements. To ensure long-term usability, all learning content is managed via a connected headless CMS, allowing professors and students to adapt and expand the platform beyond the semester.</description>
+      <description>General This e-learning unit is designed for English-speaking first-semester students enrolled in a media and computing program. It teaches the fundamentals of Java programming in a creative and engaging way. Instead of traditional, dry exercises, students are guided through a magical storyline where programming concepts are explained using potions, magical capes, wands, and other fantasy elements. To ensure long-term usability, all learning content is managed via a connected headless CMS, allowing professors and students to adapt and expand the platform beyond the semester.</description>
     </item>
     <item>
       <title>Process</title>
@@ -26,7 +26,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ss25/master/m5-fun-with-programming/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m5-fun-with-programming/tools/</guid>
-      <description>Concept &amp;amp; Design Miro was used for the initial brainstorming sessions, for concretizing the requirements and concept. We used it as well for the first low-fidelity prototypes. It allowed the team to discuss and visualize ideas and record decisions. Figma was used to create the UI component library, style guide and final design for the user interface of the application. Frontend Development Nuxt.js is a powerful Vue.js framework that simplifies the development of web applications by providing a nice-to-handle directory structure, server-side rendering, routing functionalities and other built-in features.</description>
+      <description>Concept &amp;amp; Design Miro was used for the initial brainstorming sessions, for finalizing the requirements and the concept. We used it as well for the first low-fidelity prototypes. It allowed the team to discuss and visualize ideas and record decisions. Figma was used to create the UI component library, style guide, and final design for the user interface of the application. Frontend Development Nuxt.js is a powerful Vue.js framework that simplifies the development of web applications by providing a nice-to-handle directory structure, server-side rendering, routing functionalities, and other built-in features.</description>
     </item>
   </channel>
 </rss>
