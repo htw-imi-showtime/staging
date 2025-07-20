@@ -514,7 +514,7 @@ M2
 <figure>
     <img src="/staging/ss25/master/m2-genesis/genesis1_img.jpg" alt="Before and after image of the influence of a moved tectonic plate on the heightmap">
 
-<figcaption>A tectonic plate is moved upwards (left) which results in mountain ranges and cliffs forming (right)</figcaption>
+<figcaption>A tectonic plate is moved to the left which results in mountain ranges and valleys forming.</figcaption>
 
 </figure>
 
@@ -563,9 +563,9 @@ M2
 
 
 <figure>
-    <img src="/staging/ss25/master/m2-genesis/genesis2_img.jpg" alt="Early image of the game in development.">
+    <img src="/staging/ss25/master/m2-genesis/genesis2_img.jpg" alt="Two different views of the generated world.">
 
-<figcaption>Grouped Voronoi Cells separate the heightmap into different tectonic plates.</figcaption>
+<figcaption>Zoomed out view of the initial heightmap (left). From ocean currents and equator location calculated heatmap (right).</figcaption>
 
 </figure>
 
@@ -581,7 +581,7 @@ M2
 <p>In the beginning we had many discussions with the other group. We cleared up what they need, what we will generate and how we can satisfy both of our imaginations of the world. For example, Team Civitas wanted to know how good an area would be to walk on for their humans. But we do not export a value that outright says this. It is computed by the amount of vegetation we have, how steep a slope on our heightmap is and what material the ground is made of.</p>
 <p><strong>Parallel work on sequential segments</strong></p>
 <p>After assembling what our export data would have to look like, and having implemented a basic heightmap via perlin noise, we could export our first dummy data for civitas, so that their work on a “real” map could start. Meanwhile, we started to divide our workflows and assigned each team member to a different step of the algorithm. We worked in parallel at things that, in the end, were going to be sequential.</p>
-<p>Each team member read up on their own part of the process, and had different focuses. In this process, we thought about what a player interaction could look like, and implemented methods to test these interactions via simple parameters and button inputs through an editor script. Here we had to sometimes work in tandem with Civitas to ensure that the values that we would get are working for them as well.</p>
+<p>Each team member read up on their own part of the process, and had different focuses. In this process, we thought about what a player interaction could look like, and implemented methods to test these interactions via simple parameters and button inputs through an editor script. Here we sometimes had to work in tandem with Civitas to ensure that the values that we would get are working for them as well.</p>
 <p><strong>Patching it all together</strong></p>
 <p>In the last phase of our project, we then put all our algorithms together to form one line of methods to call. With the methods for player interaction in between, we now built UI to make player interaction more intuitive.</p>
 
