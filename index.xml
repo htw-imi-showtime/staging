@@ -134,6 +134,13 @@
       <description>Conceptualization &amp;amp; Design The project began with brainstorming sessions, where we explored various ideas, including NPC-based games and AI assistants. After gathering insights from online resources and real-world applications, we decided to merge AI with an immersive travel experience. In the Requirement Analysis phase, we defined the user needs and project goals, ensuring that the platform would offer personalized travel recommendations and seamless interaction. Moving to Design and Prototyping, we created system architecture and UI designs that would provide users with a smooth and intuitive experience.</description>
     </item>
     <item>
+      <title>Project Architecture</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/architecture/</guid>
+      <description>Overview Moodle System Architecture Plugins must follow Moodle’s technical and organisational guidelines to qualify for the official plugin directory. Moodle consists of its core with different subsystems and a substantial amount of plugins. These plugins need to be of a specific type. For our plugins these are quiz report and question behaviour. A clear type assignment is essential, because plugins without an unambiguous type cannot be correctly installed or published.</description>
+    </item>
+    <item>
       <title>Special Thanks</title>
       <link>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b3-helm-sucht-kopf/specialthanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -155,6 +162,13 @@
       <description>Languages Pyhton Python version 3.9.11 and 3.8.20 was used für the scripting.&#xA;Python Packages PySide6 The package PySide version 6.9.1 was importen to use QT and cereate our graphical user interface.&#xA;PySide6 QT OpenCV The package OpenCV version 4.11.0 was used to manage the video controlls and processing.&#xA;OpenCV Python OpenCV Repositories FastSal We used FastSal as a predictor algorithm. There were edits needed on the codebase to guarantee compability.</description>
     </item>
     <item>
+      <title>Challenges</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/challenges/</guid>
+      <description>Moodle&amp;#39;s Documentation In the early stages of the project we found that Moodle’s official plugin documentation was incomplete and occasionally outdated. This issue complicated our analysis of the platform architecture and the placement of our own plugins. Due to challenges encountered with the documentation, a non-standard plugin was found that delivered some of the intended features later in the project. This strategic realignment involved revising the schedule and re-engineering the solution around these proven capabilities.</description>
+    </item>
+    <item>
       <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -174,6 +188,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/tools/</guid>
       <description>Concept &amp;amp; Design Miro&#xA;Miro was used for the initial brainstorming session, for concretising the requirements and concept, and for the wireframes. It allowed the team to discuss and visualise ideas and record decisions.&#xA;Figma&#xA;Figma was used to create the UI component library, style guide and final design of the user interface of ErgoScape.&#xA;Development Nuxt&#xA;Nuxt is a powerful Vue.js framework that simplifies the development of universal, static, and single-page applications by providing server-side rendering, routing, state management, and other built-in features.</description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/features/</guid>
+      <description>General Teachers can choose to enable student reviews for their tests. Installing the plugins does not mean they will be used for every test. Teachers can turn the feature on and off for each test they create. If this feature is activated, students will be asked to rate the difficulty of a varying number of questions. The review will be displayed at the end of the question and consists of a heatbar with review options from easy to very difficult.</description>
+    </item>
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/techstack/</guid>
+      <description> Organization Gitlab for code collaboration and distribution Miro for brainstorming and graphics Figma for visualization prototyping Discord for internal project discussions Zoom for weekly updates with stakeholders Plugin Moodle development environment:&#xA;PHP 8 Apache 2 PostgreSQL 15 Debian 12 Plugin development:&#xA;PHP 8 Mustache CSS JavaScript Testing Microsoft Playwright for End-to-End-Tests Docker for Gitlab CI Nodejs for local execution </description>
+    </item>
+    <item>
+      <title>Future</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/future/</guid>
+      <description>Starting Point The project was designed to be used in the upcoming semester by our supervisor Prof. Dr. Lucy Weggler. The creation of this plugin was based on her lacking a reliable difficulty label for her large number of math test questions. To generate difficulty labels before this project, she developed a pipeline that extracts key concepts from math questions using a language model, based on the assumption that more concepts indicate higher difficulty.</description>
     </item>
     <item>
       <title>ws24</title>
@@ -243,7 +278,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 13c4ed0 AuthorDate: 2025-07-20 AuthorEmail: 147180494&amp;#43;flashwing-04@users.noreply.github.com AuthorName: Charlotte John CommitDate: 2025-07-20 Hash: 13c4ed0ccf0b9e54182c3daf2661d88389e4e49f Subject: B5 nexum - pages for 2nd release train (#465) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 492b16d AuthorDate: 2025-07-20 AuthorEmail: 95168446&amp;#43;lauralgh@users.noreply.github.com AuthorName: lauralgh CommitDate: 2025-07-20 Hash: 492b16d46a9d03a854c816fb59358957be5017c2 Subject: M4 moodle plugin - final version (#466) </description>
     </item>
   </channel>
 </rss>

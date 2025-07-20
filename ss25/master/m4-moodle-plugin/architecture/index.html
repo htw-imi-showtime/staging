@@ -404,9 +404,9 @@
     <a href="/staging/ss25/">ss25</a>
         <a href="/staging/ws24/bachelor/b1-chef/">&gt;</a>
     
-<a href="/staging/ss25/bachelor/b5-nexum/">&lt;</a>
-M1
-  <a href="/staging/ss25/master/m2-genesis/">&gt;</a>
+<a href="/staging/ss25/master/m3-civitas/">&lt;</a>
+M4
+  <a href="/staging/ss25/master/m5-fun-with-programming/">&gt;</a>
 </li>
 
 
@@ -417,9 +417,9 @@ M1
     <div class="background master">
         <header class="project-header">
             <h1>
-                <span class="type">M1 Master</span>
-                360° Director&#39;s Cut
-             <span class="subtitle master">Analyzing visual attention in 360° Storytelling</span>
+                <span class="type">M4 Master</span>
+                Moodle Plugin
+             <span class="subtitle master">Collecting and analyzing student feedback</span>
              <span class="underscore-spacer"></span>
             </h1>
             <section style="text-align: right;">
@@ -428,16 +428,28 @@ M1
                     <h4>Team</h4>
                     <ul>
                         
-                            <li>Anton Schöps</li>
+                            <li>Lorenzo Battiston</li>
                         
-                            <li>Sebastian Pütz</li>
+                            <li>Laura Langhauser</li>
+                        
+                            <li>Niklas Lengert</li>
+                        
+                            <li>Sao Chi Pham</li>
+                        
+                            <li>Viet Anh Jimmy Tran</li>
                         
                     </ul>
                 
                 
                     <h4>Supervision</h4>
-                    
-                         Prof. Dr. Sebastian Knorr
+                     
+                        <ul>
+                        
+                            <li>Prof. Dr. Lucy Weggler</li>
+                        
+                            <li>Prof. Dr. Gefei Zhang</li>
+                        
+                        </ul>
                     
                 
             </section>
@@ -450,11 +462,17 @@ M1
     <div class="project-menu desktop-menu background master">
         <ul>
             <li >
-                <a href="/staging/ss25/master/m1-directors-cut-360/">Overview</a></li>
+                <a href="/staging/ss25/master/m4-moodle-plugin/">Overview</a></li>
             
-            <li class="active"><a href="/staging/ss25/master/m1-directors-cut-360/details/">Details</a></li>
+            <li class="active"><a href="/staging/ss25/master/m4-moodle-plugin/architecture/">Project Architecture</a></li>
             
-            <li ><a href="/staging/ss25/master/m1-directors-cut-360/tools/">Tools</a></li>
+            <li ><a href="/staging/ss25/master/m4-moodle-plugin/challenges/">Challenges</a></li>
+            
+            <li ><a href="/staging/ss25/master/m4-moodle-plugin/features/">Features</a></li>
+            
+            <li ><a href="/staging/ss25/master/m4-moodle-plugin/techstack/">Tech Stack</a></li>
+            
+            <li ><a href="/staging/ss25/master/m4-moodle-plugin/future/">Future</a></li>
              
       
                
@@ -462,7 +480,7 @@ M1
     </div>  
     <div class="project-menu mobile-menu background master">
         <ul>
-            <li ><a href="/staging/ss25/master/m1-directors-cut-360/">Overview</a></li>
+            <li ><a href="/staging/ss25/master/m4-moodle-plugin/">Overview</a></li>
             
         </ul>
         <input type="checkbox" id="project-menu-button">
@@ -472,9 +490,15 @@ M1
         <div class="dropdown-menu">
             <ul>
                 
-                <li class="active"><a href="/staging/ss25/master/m1-directors-cut-360/details/">Details</a></li>
+                <li class="active"><a href="/staging/ss25/master/m4-moodle-plugin/architecture/">Project Architecture</a></li>
                 
-                <li ><a href="/staging/ss25/master/m1-directors-cut-360/tools/">Tools</a></li>
+                <li ><a href="/staging/ss25/master/m4-moodle-plugin/challenges/">Challenges</a></li>
+                
+                <li ><a href="/staging/ss25/master/m4-moodle-plugin/features/">Features</a></li>
+                
+                <li ><a href="/staging/ss25/master/m4-moodle-plugin/techstack/">Tech Stack</a></li>
+                
+                <li ><a href="/staging/ss25/master/m4-moodle-plugin/future/">Future</a></li>
                 
             </ul>
         </div>
@@ -488,32 +512,63 @@ M1
         <section>
     <h3>
         
-            Process
+            Overview
         
     </h3>
     <div class="spacer"></div>
     <div class="content">
-        &hellip;
+        <figure>
+    <img src="/staging/ss25/master/m4-moodle-plugin/architecture.png" alt="Project Architecture">
+</figure>
+
     </div>
 </section>
 
 <section>
     <h3>
         
-            App Features
+            Moodle System Architecture
         
     </h3>
     <div class="spacer"></div>
     <div class="content">
-        <h4 id="desktop-gui">Desktop GUI</h4>
-<p>We created a the graphical inteface with QTs by using PySide. It features a sidebar, video controlls and different views to analyze the saliency.</p>
-<h4 id="views-options">Views Options</h4>
-<p>In the app you have the options between different views. Under the videos you can view a Map that represent if the view direction mateches the directors cut or view the saliency map for the current frame. It is also possible to display the saliency and the directors cut as an overlay on the video.</p>
-<h4 id="predictors">Predictors</h4>
-<p>Choose between different predictors algorithms: Choose between fast or slower but more accurates algorithms.</p>
-<h4 id="highlight-brush">Highlight Brush</h4>
-<p>Use the spotlight brush to brigthen a spot in the video and see the effects on re-predictions.</p>
+        Plugins must follow <strong>Moodle’s technical and organisational guidelines</strong> to qualify for the official plugin directory. Moodle consists of its core with different subsystems and a substantial amount of plugins. These plugins need to be of a specific type. For our plugins these are quiz report and question behaviour. A clear type assignment is essential, because plugins without an unambiguous type cannot be correctly installed or published.
+    </div>
+</section>
 
+<section>
+    <h3>
+        
+            Existing Plugins
+        
+    </h3>
+    <div class="spacer"></div>
+    <div class="content">
+        The standard installation of Moodle already offers a number of question behaviours for tests. <strong>Immediate Feedback</strong> adds a “Check” button after a question so learners can submit each answer and see right away whether it is correct, together with any configured feedback. <strong>Deferred Feedback</strong> hides that button, letting students finish the whole quiz first and revealing correctness and review feedback only after they click “Submit all and finish.” During the research, plugins from the Moodle plugin directory were also identified that are functionally similar to the planned plugin. Another plugin of the question behaviour type is <strong>Certainty Based Marking</strong> (CBM). CBM extends a question with a confidence scale where students rate how sure they are of their answer, and their final score is adjusted by this self-assessment, rewarding accurate confidence judgments.
+    </div>
+</section>
+
+<section>
+    <h3>
+        
+            Difficulty Assessment Plugins
+        
+    </h3>
+    <div class="spacer"></div>
+    <div class="content">
+        The Student Review plugins extend Moodle’s question behaviour, which controls how students interact with quiz questions. Like other behaviour plugins, they are stored under question/behaviour/ and follow Moodle’s plugin conventions, including metadata in version.php, translations in lang/, and frontend logic via amd/ JavaScript modules. We provide two variants of this plugin. Student Review Deferred integrates with the “Deferred Feedback” mode and optionally shows a difficulty rating scale after a question is completed. Student Review Immediate builds on the deferred variant, but also enforces a rating before feedback is shown, using Moodle’s standard “Check” button workflow. Both plugins include rendering templates (renderer.php) and behaviour logic (behaviour.php) to control visibility, interactivity, and data collection. Ratings are stored using Moodle’s internal database structure and are linked to the student’s quiz attempt for later retrieval.
+    </div>
+</section>
+
+<section>
+    <h3>
+        
+            Analysis plugin
+        
+    </h3>
+    <div class="spacer"></div>
+    <div class="content">
+        In order to evaluate student difficulty ratings, a custom report plugin was developed that integrates with Moodle&rsquo;s existing quiz reporting system. The plugin is of the quiz report type, where it is accessible in the standard results section of every Moodle quiz. The system utilises SQL queries across multiple Moodle database tables to establish a correlation between ratings and question IDs, names, and content. The plugin presents these results directly in Moodle using html_writer for clean rendering and offers a downloadable CSV via Moodle&rsquo;s download_data function. This design keeps data structured, secure, and consistent with Moodle’s built-in export tools.
     </div>
 </section>
 
