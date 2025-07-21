@@ -12,28 +12,14 @@
       <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/team/</guid>
-      <description> Team Alejandro Martinez Hernandez Alexander Jäger Anton Lehmann Harvey Benn Konstantin Schiwarov Lennart Weissenstein Tobias Bayer </description>
-    </item>
-    <item>
-      <title>Team1</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/team1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/team1/</guid>
-      <description>Team Alejandro Martinez Hernandez TODO: Was willst du sagen? Was hast du im Team gemacht? Corporis odit id aperiam excepturi deleniti occaecati dolorem iusto. Est saepe mollitia vitae earum quia. Quibusdam mollitia ad et aut quia quae voluptatem cum. Tempora deleniti sed porro officiis voluptatibus. Impedit esse aut velit nostrum facilis quod. Consectetur inventore soluta voluptates voluptates molestiae optio fuga deserunt.…&#xA;Alejandro Martinez Hernandez Alexander Jäger TODO: Was willst du sagen?</description>
-    </item>
-    <item>
-      <title>Team2</title>
-      <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/team2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/team2/</guid>
-      <description>Team Alejandro Martinez Hernandez Corporis odit id aperiam excepturi deleniti occaecati dolorem iusto. Est saepe mollitia vitae earum quia. Quibusdam mollitia ad et aut quia quae voluptatem cum. Tempora deleniti sed porro officiis voluptatibus. Impedit esse aut velit nostrum facilis quod. Consectetur inventore soluta voluptates voluptates molestiae optio fuga deserunt. Alexander Jäger Corporis odit id aperiam excepturi deleniti occaecati dolorem iusto. Est saepe mollitia vitae earum quia. Quibusdam mollitia ad et aut quia quae voluptatem cum.</description>
+      <description> Team Unser komplettes Team trifft sich zwei mal wöchentlich um zu besprechen, was für alle von Bedeutung ist. Wer gerade an ähnlichen Sachen arbeitet, stimmt sich zusätzlich ab. Darüber hinaus sprechen wir Verzögerungen, Probleme und Meinungsverschiedenheiten an, wenn sie entstehen. Wir halten in GitLab Issues fest, woran wir arbeiten und schauen einander in Code Reviews über die Schulter.&#xA;Alejandro Martinez Hernandez Alexander Jäger Anton Lehmann Harvey Benn Konstantin Schiwarov Lennart Weissenstein Tobias Bayer </description>
     </item>
     <item>
       <title>Tools</title>
       <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/tools/</guid>
-      <description> Tools Unser Spiel ist ein Unity Projekt, also haben wir C# verwendet. Fuer unsere Build Pipeline in Gitlab haben wir Google Cloud Runner verwendet.&#xA;C# Unity GitLab gcloud terraform </description>
+      <description> Tools Unser Spiel ist ein Unity Projekt, also verwenden wir C#. Die Modelle erstellen wir mit Maya, Shader und Materials weisen wir in Unity zu. Für unsere CI/CD Pipeline in GitLab verwenden wir Google Cloud Platform.&#xA;C# Canva GitLab Google Cloud Platform Maya Paint.net Terraform Unity </description>
     </item>
   </channel>
 </rss>
