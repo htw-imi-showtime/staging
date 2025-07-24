@@ -124,7 +124,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/architecture/</guid>
-      <description>Overview Moodle System Architecture Plugins must follow Moodle’s technical and organisational guidelines to qualify for the official plugin directory. Moodle consists of its core with different subsystems and a substantial amount of plugins. These plugins need to be of a specific type. For our plugins these are quiz report and question behaviour. A clear type assignment is essential, because plugins without an unambiguous type cannot be correctly installed or published.</description>
+      <description>Overview Moodle System Architecture Plugins must follow Moodle’s technical and organisational guidelines to qualify for the official plugin directory. Moodle consists of its core with different subsystems and a substantial amount of plugins. These plugins need to be of a specific type. For our plugins these are quiz report and question behaviour. A clear type assignment is essential, because only plugins with an unambiguous type can be correctly installed or published.</description>
     </item>
     <item>
       <title>Special Thanks</title>
@@ -152,7 +152,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/challenges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/challenges/</guid>
-      <description>Moodle&amp;#39;s Documentation In the early stages of the project we found that Moodle’s official plugin documentation was incomplete and occasionally outdated. This issue complicated our analysis of the platform architecture and the placement of our own plugins. Due to challenges encountered with the documentation, a non-standard plugin was found that delivered some of the intended features later in the project. This strategic realignment involved revising the schedule and re-engineering the solution around these proven capabilities.</description>
+      <description>Moodle&amp;#39;s Documentation In the early stages of the project we found that Moodle’s official plugin documentation was incomplete and occasionally outdated. This issue complicated our analysis of the platform architecture and the placement of our own plugins. We therefore had to take a look at existing plugins and figure out the structure ourselves. Due to challenges encountered with the documentation, a non-standard plugin was found that delivered some of the intended features later in the project.</description>
     </item>
     <item>
       <title>Process</title>
@@ -180,7 +180,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/features/</guid>
-      <description>General Teachers can choose to enable student reviews for their tests. Installing the plugins does not mean they will be used for every test. Teachers can turn the feature on and off for each test they create. If this feature is activated, students will be asked to rate the difficulty of a varying number of questions. The review will be displayed at the end of the question and consists of a heatbar with review options from easy to very difficult.</description>
+      <description>General Teachers can choose to enable student reviews for their tests. Installing the plugins does not mean they will be used for every test. Teachers can turn the feature on and off for each test they create. If this feature is activated, students will be asked to rate the difficulty of questions. Once a question in a test has been rated by the student, it won’t be eligible for review anymore.</description>
     </item>
     <item>
       <title>Tech Stack</title>
@@ -264,7 +264,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 0134311 AuthorDate: 2025-07-24 AuthorEmail: 104323196&amp;#43;abductedRhino@users.noreply.github.com AuthorName: abductedRhino CommitDate: 2025-07-24 Hash: 01343116020d5010b9248e983a9ab07c35aa03b8 Subject: B4 - third release train - link to playstore demo (#473) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 88e3600 AuthorDate: 2025-07-24 AuthorEmail: 95168446&amp;#43;lauralgh@users.noreply.github.com AuthorName: lauralgh CommitDate: 2025-07-24 Hash: 88e3600892117231948eda698a4be20f24ab0529 Subject: M4 moodle plugin - Final adjustments by supervisor (#471) </description>
     </item>
   </channel>
 </rss>
