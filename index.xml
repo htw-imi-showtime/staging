@@ -264,7 +264,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 932ac23 AuthorDate: 2025-07-24 AuthorEmail: 147180494&amp;#43;flashwing-04@users.noreply.github.com AuthorName: Charlotte John CommitDate: 2025-07-24 Hash: 932ac23e615774588003d15088fe75da3a0adc9c Subject: B5 - remove accidental duplicate paragraph (#472) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 2b3a19b AuthorDate: 2025-07-24 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2025-07-24 Hash: 2b3a19be90d0e8e3a204ab5fb91bbe8130e9b3f0 Subject: STW: add print css template </description>
     </item>
   </channel>
 </rss>
