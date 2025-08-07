@@ -12,14 +12,14 @@
       <link>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/details/</guid>
-      <description>Process &amp;hellip; App Features Desktop GUI We created a the graphical inteface with QTs by using PySide. It features a sidebar, video controlls and different views to analyze the saliency.&#xA;Views Options In the app you have the options between different views. Under the videos you can view a Map that represent if the view direction mateches the directors cut or view the saliency map for the current frame. It is also possible to display the saliency and the directors cut as an overlay on the video.</description>
+      <description>Development Process Our project followed an agile development approach. We utilized GitHub Projects to implement a Kanban board, which allowed us to organize our work into, manageable tickets. Each ticket represented a specific task or feature. The Board consisted of the stages &amp;ldquo;To Do&amp;rdquo;, &amp;ldquo;In Progress&amp;rdquo; to &amp;ldquo;Done,&amp;rdquo; providing us with a good overview of the projects progress. Additionally, we also made a &amp;ldquo;Nice To Have&amp;rdquo; stage for potential new features.</description>
     </item>
     <item>
       <title>Tools</title>
       <link>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/tools/</guid>
-      <description>Languages Pyhton Python version 3.9.11 and 3.8.20 was used für the scripting.&#xA;Python Packages PySide6 The package PySide version 6.9.1 was importen to use QT and cereate our graphical user interface.&#xA;PySide6 QT OpenCV The package OpenCV version 4.11.0 was used to manage the video controlls and processing.&#xA;OpenCV Python OpenCV Repositories FastSal We used FastSal as a predictor algorithm. There were edits needed on the codebase to guarantee compability.</description>
+      <description>Languages Python Python version 3.9.11 and 3.8.20 was used für the scripting.&#xA;Python Packages PySide6 The package PySide version 6.9.1 was importen to use QT and cereate our graphical user interface.&#xA;PySide6 QT OpenCV The package OpenCV version 4.11.0 was used to manage the video controlls and processing.&#xA;OpenCV Python OpenCV Repositories FastSal We used FastSal as a predictor algorithm. There were edits needed on the codebase to guarantee compability.</description>
     </item>
   </channel>
 </rss>
