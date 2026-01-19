@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BundesEcho on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/</link>
+    <description>Recent content in BundesEcho on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/features/</guid>
+      <description> Our Goal tbd. </description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/process/</guid>
+      <description> Research Conception Challenges Design Implementation </description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/tools/</guid>
+      <description>Concept, Design &amp;amp; Version Control Miro&#xA;Miro was used for the initial brainstorming sessions. It allowed the team to collaboratively visualize ideas and document key decisions.&#xA;Figma&#xA;Figma was used to create the UI component library, the style guide, and the final high-fidelity design of the BundesEcho user interface.&#xA;Diagrams.net&#xA;We utilized this tool to design the entity-relationship diagram for the database schema.&#xA;Postman&#xA;Postman served as our primary tool for testing and debugging APIs while the backend server and database were under development.</description>
+    </item>
+  </channel>
+</rss>
