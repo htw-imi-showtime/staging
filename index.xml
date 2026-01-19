@@ -36,6 +36,27 @@
       <description> Tools Unser Spiel ist ein Unity Projekt, also verwenden wir C#. Die Modelle erstellen wir mit Maya, Shader und Materials weisen wir in Unity zu. Für unsere CI/CD Pipeline in GitLab verwenden wir Google Cloud Platform.&#xA;C# Canva GitLab Google Cloud Platform Maya Paint.net Terraform Unity </description>
     </item>
     <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_features/</guid>
+      <description>Features World The world is made up of a grid of tiles, with each tile representing the area currently visible to the player. The environment consists of low-poly PS1-style assets designed to evoke feelings of eerieness. A thick mist creates feelings of both disorientation and curiosity. As the player moves from one tile to another, the world expands to offer more game features and a wider range of experiences.</description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_process/</guid>
+      <description>Process Idea On the day of IMI project presentations, Prof. Dr. Lucy Weggler introduced the concept of Gradient Escape to the students. The main focus was to explain gradient functions in a motivating way through a fun game designed for bachelor engineering students. In the initial meeting, the main concept was developed during a brainstorming phase, laying the groundwork for the project. Prof. Dr. Lucy Weggler, a passionate mathematics professor at htw ensured that the educational objectives were met.</description>
+    </item>
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_techstack/</guid>
+      <description>Tech Stack Unity Unity (v. 6.2) is a cross-platform game engine that provides a wide range of game development resources, including assets, game objects, and C#. It supports both 2D and 3D game development and offers web builds, making it an excellent option for small projects due to its free usage policy. GitHub GitHub is a web-based platform for hosting Git repositories, offering collaborative tools like pull requests, issues, code reviews and CI/CD integrations and is free for small teams.</description>
+    </item>
+    <item>
       <title>Details</title>
       <link>https://htw-imi-showtime.github.io/staging/ss25/master/m1-directors-cut-360/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -76,6 +97,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/master/m3-ergoscape/features/</guid>
       <description>Immersive Cycling Experience ErgoScape immerses participants in a virtual cycling experience. The application uses first-person cycling videos while adjusting the playing speed based on the live data from the spiroergometry test and enriching the experience with additional visual effects and motivational elements like progress bars and verbal encouragement. Immersive Cycling Experience Live Data Integration During the spiroergometry test, a lot of medical data, such as heart rate, oxygen consumption, and carbon dioxide production, is collected by the MetaSoft Studio software.</description>
+    </item>
+    <item>
+      <title>Future</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_future/</guid>
+      <description>Future What will happen next? Due to the limited time during the project phase, many great ideas couldn&amp;rsquo;t be realized. Gradient Escape offers a lot of possibilities to continue the journey &amp;hellip;</description>
     </item>
     <item>
       <title>Genesis et Civitas</title>
@@ -285,7 +313,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 9f98524 AuthorDate: 2026-01-19 AuthorEmail: 74322585&amp;#43;ArtjomSchwenk@users.noreply.github.com AuthorName: Arti-S CommitDate: 2026-01-19 Hash: 9f985241e51069986bac443b643d69f5c5d14d77 Subject: B4 - IMI-Map-reloaded (#486) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: d1e4b29 AuthorDate: 2026-01-19 AuthorEmail: 23344740&amp;#43;kapriole@users.noreply.github.com AuthorName: so sa CommitDate: 2026-01-19 Hash: d1e4b29cdf3faf902ad0abf0e488e435466ff783 Subject: M1 gradient escape - First Draft of the IMI Showtime Website (#485) </description>
     </item>
   </channel>
 </rss>

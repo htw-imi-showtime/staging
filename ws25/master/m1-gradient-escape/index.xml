@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gradient Escape on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/</link>
+    <description>Recent content in Gradient Escape on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_features/</guid>
+      <description>Features World The world is made up of a grid of tiles, with each tile representing the area currently visible to the player. The environment consists of low-poly PS1-style assets designed to evoke feelings of eerieness. A thick mist creates feelings of both disorientation and curiosity. As the player moves from one tile to another, the world expands to offer more game features and a wider range of experiences.</description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_process/</guid>
+      <description>Process Idea On the day of IMI project presentations, Prof. Dr. Lucy Weggler introduced the concept of Gradient Escape to the students. The main focus was to explain gradient functions in a motivating way through a fun game designed for bachelor engineering students. In the initial meeting, the main concept was developed during a brainstorming phase, laying the groundwork for the project. Prof. Dr. Lucy Weggler, a passionate mathematics professor at htw ensured that the educational objectives were met.</description>
+    </item>
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_techstack/</guid>
+      <description>Tech Stack Unity Unity (v. 6.2) is a cross-platform game engine that provides a wide range of game development resources, including assets, game objects, and C#. It supports both 2D and 3D game development and offers web builds, making it an excellent option for small projects due to its free usage policy. GitHub GitHub is a web-based platform for hosting Git repositories, offering collaborative tools like pull requests, issues, code reviews and CI/CD integrations and is free for small teams.</description>
+    </item>
+    <item>
+      <title>Future</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_future/</guid>
+      <description>Future What will happen next? Due to the limited time during the project phase, many great ideas couldn&amp;rsquo;t be realized. Gradient Escape offers a lot of possibilities to continue the journey &amp;hellip;</description>
+    </item>
+  </channel>
+</rss>
