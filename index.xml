@@ -148,6 +148,13 @@
       <description>Conceptualization &amp;amp; Design The project began with brainstorming sessions, where we explored various ideas, including NPC-based games and AI assistants. After gathering insights from online resources and real-world applications, we decided to merge AI with an immersive travel experience. In the Requirement Analysis phase, we defined the user needs and project goals, ensuring that the platform would offer personalized travel recommendations and seamless interaction. Moving to Design and Prototyping, we created system architecture and UI designs that would provide users with a smooth and intuitive experience.</description>
     </item>
     <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b1-sprachentwicklungsapp/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b1-sprachentwicklungsapp/process/</guid>
+      <description>Process The foundations and content of the application were developed in close cooperation with the clinical department for language development at Europe&amp;rsquo;s leading university hospital. Based on existing analog counseling concepts, the entire process was transformed into a digital format by us.&#xA;In weekly meetings with the professional staff from the language development field, the state of development was discussed and reflected upon on a weekly basis. Additional internal group meetings took place to plan workflows and optimize the application, which were relevant for the further processes.</description>
+    </item>
+    <item>
       <title>Project Architecture</title>
       <link>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -313,7 +320,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 9897f35 AuthorDate: 2026-01-19 AuthorEmail: alex.lu2002.aa@gmail.com AuthorName: AlexAnton21 CommitDate: 2026-01-19 Hash: 9897f351c3987059912c1719d12dc53a884e9321 Subject: B6: add base information (#484) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 9be3e41 AuthorDate: 2026-01-19 AuthorEmail: thanhngaxle@gmail.com AuthorName: Thanaee CommitDate: 2026-01-19 Hash: 9be3e41950333883d19df648f0e8e7020a0bce84 Subject: B1 - first draft (#483) </description>
     </item>
   </channel>
 </rss>
