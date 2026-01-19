@@ -12,7 +12,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 126b7f5 AuthorDate: 2026-01-19 AuthorEmail: 123155994&amp;#43;David-Brenn@users.noreply.github.com AuthorName: David Brenn CommitDate: 2026-01-19 Hash: 126b7f5f7785202dc2dcd0d57afff06777d6435a Subject: M2 - Project Site, First Release (#476) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 8b94886 AuthorDate: 2026-01-19 AuthorEmail: charlotte.john@student.htw-berlin.de AuthorName: Charlotte John CommitDate: 2026-01-19 Hash: 8b94886e343d080a271fef70808e53e11351a2f6 Subject: change trigger for update pr jobs to ws25 </description>
     </item>
   </channel>
 </rss>
