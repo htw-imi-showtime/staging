@@ -40,7 +40,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_features/</guid>
-      <description>Features World The world is made up of a grid of tiles, with each tile representing the area currently visible to the player. The environment consists of low-poly PS1-style assets designed to evoke feelings of eerieness. A thick mist creates feelings of both disorientation and curiosity. As the player moves from one tile to another, the world expands to offer more game features and a wider range of experiences.</description>
+      <description>Features Setting The world is made up of a grid of tiles, with each tile representing the area currently visible to the player. The environment consists of low-poly PS1-style assets designed to evoke feelings of eerieness. A thick mist creates feelings of both disorientation and curiosity. As the player moves from one tile to another, the world expands to offer more game features and a wider range of experiences.</description>
     </item>
     <item>
       <title>Process</title>
@@ -327,7 +327,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 8b94886 AuthorDate: 2026-01-19 AuthorEmail: charlotte.john@student.htw-berlin.de AuthorName: Charlotte John CommitDate: 2026-01-19 Hash: 8b94886e343d080a271fef70808e53e11351a2f6 Subject: change trigger for update pr jobs to ws25 </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 1f3090a AuthorDate: 2026-01-24 AuthorEmail: 23344740&amp;#43;kapriole@users.noreply.github.com AuthorName: so sa CommitDate: 2026-01-24 Hash: 1f3090a0950f4b57b156da6fea6df647084c0670 Subject: M1 gradient escape - 2nd release train (#492) </description>
     </item>
   </channel>
 </rss>
