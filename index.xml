@@ -127,11 +127,11 @@
       <description>Optional Subpage Subheader 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
     </item>
     <item>
-      <title>Optional Subpage</title>
-      <link>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b2-food4future-ar-campusguide/optional_subpage/</link>
+      <title>Outlook</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b2-food4future-ar-campusguide/outlook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b2-food4future-ar-campusguide/optional_subpage/</guid>
-      <description>Optional Subpage Subheader 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Subheader 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b2-food4future-ar-campusguide/outlook/</guid>
+      <description>Future Extensions In the future, the AR campus guide could be expanded with several new features to improve the overall user experience. One possible extension would be the integration of sound effects, making the exploration of the campus more immersive and engaging.&#xA;Another important step would be the use of real location data. At the moment, concrete campus locations are not yet available, so the guide currently works with pseudo locations.</description>
     </item>
     <item>
       <title>Process</title>
@@ -181,6 +181,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws24/bachelor/b4-john-the-explorer/techstack/</guid>
       <description>Core Components Unity: For developing the interactive NPC interface and integrating all features.&#xA;Amadeus API: Used to fetch real-time flight and hotel data.&#xA;Gemini API: It is responsible for answering user queries.&#xA;Vosk Speech Recognition: It is used to convert user speech into text.&#xA;Pixabay API: For fetching images based on keywords such as city or country names.&#xA;Python TTS: It delivers audio responses to user queries.&#xA;Programming Languages C#: For implementing the Unity-based interface and interaction logic.</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b2-food4future-ar-campusguide/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b2-food4future-ar-campusguide/tools/</guid>
+      <description>Tools For the development of our AR-based campus guide, we used a range of web and design tools. The application was built with React and TypeScript, using Vite as a fast development and build tool. WebXR enables augmented reality experiences directly in the browser, while Leaflet.js is used for the interactive map and GPS based navigation on campus. We used Blender for our 3D models. For designing our poster and presentation, we worked with Canva.</description>
     </item>
     <item>
       <title>Tools</title>
@@ -327,7 +334,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 778add6 AuthorDate: 2026-01-24 AuthorEmail: 123155994&amp;#43;David-Brenn@users.noreply.github.com AuthorName: David Brenn CommitDate: 2026-01-24 Hash: 778add6705990f917cf31f845b298e2a0f819e80 Subject: M2 - Second Release (#490) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 62b55db AuthorDate: 2026-01-24 AuthorEmail: 167181641&amp;#43;Duaax24@users.noreply.github.com AuthorName: Duaa Fourah CommitDate: 2026-01-24 Hash: 62b55dbbf971b40550789dfbfb3bf59a7aabda4a Subject: B2 food4future ar campusguide second release train (#496) </description>
     </item>
   </channel>
 </rss>
