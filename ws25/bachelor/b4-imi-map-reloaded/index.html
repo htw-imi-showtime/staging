@@ -544,11 +544,11 @@ B4
              
             
             
-            <a class="project-link" href="https://gitlab.htw-berlin.de/strippg/imimap-26">
-                <img src = "https://htw-imi-showtime.github.io/staging/img/code.svg" alt="Source Code Link Icon">
-                Source_Code
-            </a>
             
+            <a class="project-link" href="https://imi-map.f4.htw-berlin.de/">
+                <img src = "https://htw-imi-showtime.github.io/staging/img/website.svg" alt="Website Link Icon">
+                Website
+            </a>
             
             <p class="intro">
                 Jeder IMI-Studie muss mal an ihr vorbei, die IMI-Map. Was bis jetzt nur Formalität war, wird jetzt zu einem richtigen Werkzeug, um das Auslandssemester effektiv zu managen.
@@ -567,11 +567,10 @@ B4
     <div class="spacer"></div>
     <div class="content">
         <p>Unser Projekt baut auf einem bereits bestehenden Master‑Projekt aus dem Jahr 2021 auf.
-Dieses war ein hervorragendes Tool für die Praktikumsbeauftragten, um bürokratische Hürden besser zu meistern. Genau das ist jedoch der Grund, warum viele die Seite nicht für die Praktikumssuche nutzten: Sie war primär für die Praktikumsbeauftragten und nur sekundär für Studierende konzipiert.</p>
-<p>Das Einzige, was für die Studierenden wirklich hilfreich war, war die Suchfunktion für Praktika – und selbst diese war stark eingeschränkt. Sie war künstlich auf 12 Ergebnisse und drei Versuche begrenzt. Zudem waren die Filteroptionen unbrauchbar, sodass viele Versuche vergeblich blieben. All dies diente dazu, Unternehmen vor einer Flut von Bewerbungen zu schützen.</p>
+Dieses ist ein hervorragendes Tool für die Praktikumsbeauftragten, um bürokratische Hürden besser zu meistern. Genau das ist jedoch der Grund, warum viele die Seite nicht für die Praktikumssuche nutzten: Sie ist primär für die Praktikumsbeauftragten und nur sekundär für Studierende konzipiert.</p>
+<p>Das Einzige, was für die Studierenden wirklich hilfreich ist, ist die Suchfunktion für Praktika – und selbst diese ist stark eingeschränkt. Sie ist künstlich auf 12 Ergebnisse und drei Versuche begrenzt. Zudem sind die Filteroptionen unbrauchbar, sodass viele Versuche vergeblich bleiben. All dies dient dazu, Unternehmen vor einer Flut von Bewerbungen zu schützen.</p>
 <p>Aber was, wenn diese Unternehmen aktiv nach neuen Praktikanten suchen? Was, wenn sie mehr Expertise von IMI‑Studierenden benötigen? Wenn Unternehmen aktiv zustimmen, auf der IMI‑Map vertreten zu sein?</p>
 <ul>
-<li>Dann kann das Suchlimit aufgehoben werden.</li>
 <li>Dann lässt sich genau das gesuchte Praktikum finden.</li>
 <li>Und falls Fragen auftauchen – kein Problem.</li>
 </ul>
@@ -588,7 +587,7 @@ Dieses war ein hervorragendes Tool für die Praktikumsbeauftragten, um bürokrat
     </h3>
     <div class="spacer"></div>
     <div class="content">
-        Wir mussten von bereits bestehem Code zu unserer Lösung kommen, das heißt, wir mussten den Quellcode zunächst verstehen. Wie ist die Seite aufgebaut? Wo werden die Daten gespeichert? Wie können wir das bereits Vorhandene nutzen? Damit haben wir uns die ersten Wochen beschäftigt. Wir haben experimentiert und uns in wöchentlichen Meetings darüber ausgetauscht, was wir entdeckt haben. Parallel haben wir konkrete Lösungen erarbeitet, wie wir die Suche freigeben können und welche Frameworks wir für das Forum und das Wiki einsetzen wollen.
+        Wir mussten von bereits bestehendem Code zu unserer Lösung kommen, das heißt, wir mussten den Quellcode zunächst verstehen. Wie ist die Seite aufgebaut? Wo werden die Daten gespeichert? Wie können wir das bereits Vorhandene nutzen? Damit haben wir uns die ersten Wochen beschäftigt. Wir haben experimentiert und uns in wöchentlichen Meetings darüber ausgetauscht, was wir entdeckt haben. Parallel haben wir konkrete Lösungen erarbeitet, wie wir die Suche freigeben können und welche Frameworks wir für das Forum und das Wiki einsetzen wollen.
     </div>
 </section>
 
@@ -624,7 +623,7 @@ Dieses war ein hervorragendes Tool für die Praktikumsbeauftragten, um bürokrat
     </h3>
     <div class="spacer"></div>
     <div class="content">
-        Aufgrund des Zeitdrucks haben wir uns für eine bereits bestehende Forums‑Plattform entschieden, die wir in IMI‑Map integrieren konnten. Bei der Auswahl legten wir Wert auf eine Open‑Source‑Lösung, die uns freie Nutzung ermöglicht und relativ gut zu unserem Tech‑Stack aus Vue, Node.js und MongoDB passt. Wir entschieden uns für NodeBB. Für das Benutzermanagement nutzten wir das bereits vorhandene LDAP‑System von IMI‑Map, um doppelte Anmeldungen zu vermeiden. Im Forum teilen Studierende ihre Erfahrungen mit einzelnen Unternehmen, bürokratischen Hürden im Ausland oder zu Hause und beantworten Fragen von Praktikums‑Suchenden. Um einen echten One‑Stop‑Shop für IMIs zu schaffen, haben wir ein Wiki integriert, in dem alle wichtigen Informationen gesammelt sind. Auch hier entschieden wir uns für Wiki.js – aus denselben Gründen wie beim Forum.
+        Um unsere Ressourcen gezielt und effizient einsetzen zu können, haben wir uns für eine bereits bestehende Forums‑Plattform entschieden, die sich nahtlos in IMI‑Map integrieren ließ. Bei der Auswahl legten wir besonderen Wert auf eine Open‑Source‑Lösung, die uns freie Nutzung ermöglicht und gut zu unserem Tech‑Stack aus Vue, Node.js und MongoDB passt. Deshalb fiel die Entscheidung auf NodeBB. Für das Benutzermanagement nutzten wir das bereits vorhandene LDAP‑System von IMI‑Map, um doppelte Anmeldungen zu vermeiden. Im Forum teilen Studierende ihre Erfahrungen mit einzelnen Unternehmen, bürokratischen Hürden im Ausland oder zu Hause und beantworten Fragen von Praktikums‑Suchenden. Um einen echten One‑Stop‑Shop für IMIs zu schaffen, haben wir ein Wiki integriert, in dem alle wichtigen Informationen gesammelt sind. Auch hier entschieden wir uns für Wiki.js – aus denselben Gründen wie beim Forum.
     </div>
 </section>
 
@@ -654,15 +653,15 @@ Dieses war ein hervorragendes Tool für die Praktikumsbeauftragten, um bürokrat
 
 <section class="gallery">
     <figure class="team-member">
-    <img src="" alt="Portrait of Jonathan Schunk">
+    <img src="/staging/ws25/bachelor/b4-imi-map-reloaded/jonathan.jpg" alt="Portrait of Jonathan Schunk">
     <figcaption>Jonathan Schunk</figcaption>
 </figure>
 <figure class="team-member">
-    <img src="" alt="Portrait of Sinan Haddad">
+    <img src="/staging/ws25/bachelor/b4-imi-map-reloaded/sinan.jpg" alt="Portrait of Sinan Haddad">
     <figcaption>Sinan Haddad</figcaption>
 </figure>
 <figure class="team-member">
-    <img src="" alt="Portrait of Artjom Schwenk">
+    <img src="/staging/ws25/bachelor/b4-imi-map-reloaded/artjom.jpg" alt="Portrait of Artjom Schwenk">
     <figcaption>Artjom Schwenk</figcaption>
 </figure>
 
