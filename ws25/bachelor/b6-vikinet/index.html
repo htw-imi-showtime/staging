@@ -551,15 +551,138 @@ B6
         
         
 
-        <section>
+        
+
+    
+        
+    
+    
+    
+
+
+<figure>
+    <img src="/staging/ws25/bachelor/b6-vikinet/vikinetplakat2.png" alt="VikinetPlakat">
+
+</figure>
+
+<hr>
+<section>
     <h3>
         
-            Our Goal
+            Unsere Ziele
         
     </h3>
     <div class="spacer"></div>
     <div class="content">
-        Ziel ist es, dass DB Fernverkehrsnetz zu visualisieren und in VR nutzbar zu machen.
+        Unsere Vorgabe war es, eine MR-Anwendung zu entwickeln, die eine kritische Infrastruktur so genau wie möglich visualisiert, eine forensische Sicht ermöglicht und interaktiv gestaltet ist. Dabei hatten wir bei der Wahl des Anwendungsfalls und der Datenquellen freie Hand und haben uns aus privatem Interesse und aufgrund des immer wieder aufkommenden öffentlichen Diskurses für den deutschen Fernverkehr entschieden.
+    </div>
+</section>
+
+<hr>
+<section>
+    <h3>
+        
+            Entwicklung
+        
+    </h3>
+    <div class="spacer"></div>
+    <div class="content">
+        <p>Der Grundstein von VIKINET, begann mit einem Moodboard, auf dem alles vom Datenmodell bis zum Design geplant wurde. Dabei haben wir viele Herangehensweisen ausprobiert und neue Wege entdeckt, um unsere Vision zu verwirklichen. Hier sind einmal unsere wichtigsten Meilensteine bei der Umsetzung von VIKINET:</p>
+<p><strong>Deutschland Map:</strong> Da die Karte quasi den Grundstein für die Visualisierung bildet, haben wir uns dazu entschlossen, eine möglichst detaillierte Form generieren zu lassen, welche auf realen geografischen Grenzkoordinaten basiert. Das 3D-Modell musste in der späteren Entwicklung ein wenig vereinfacht werden, um Rechenleistung der Brille einzusparen und ein reibungsloses Erlebnis zu ermöglichen.</p>
+<p><strong>Datenmodell erstellen und implementieren:</strong> Das Datenmodell wurde schon frühzeitig definiert, um zu verstehen, was wir aus den großen Mengen an Fernverkehrsdaten herausfiltern müssen und wie wir diese speichern und verarbeiten. Es ist unterteilt in die Klassen Zug, Halt, Verbindung und Bahnhof, welche jeweils die wichtigsten Daten als Eigenschaften besitzen und miteinander verknüpft sind.</p>
+<p><strong>Bahnhöfe und Verbindungen:</strong>
+Die Bahnhöfe werden ebenfalls mit geografischen Koordinaten an die richtige Stelle auf die Karte gesetzt. Die Informationen der Route werden mit den gespeicherten Stopps der Züge entnommen, wodurch die Bahnhöfe verbunden werden und das Streckennetz auf der Karte entsteht. Dadurch stellen wir sicher, dass auch immer nur das gespawnt wird, was wir auch wirklich brauchen, um den gewünschten Tag zu visualisieren.</p>
+<p><strong>Züge rollen lassen:</strong> Unser Soll- Fahrplan ist durch die Nutzung von GTFS Daten (general Transit Feed Specification) entstanden, dass hat es uns erlaubt, Züge zu visualisieren, wie sie im Optimalfall fahren würden. Mithilfe einer API der Deutschen Bahn lassen sich die Veränderungen des Fernverkehrs implementieren. Wir gleichen diese beiden Datenquellen an, somit lassen sich Plan und Verspätungen des Zugverkehrs vereinen.</p>
+
+    </div>
+</section>
+
+<hr>
+
+
+    
+        
+    
+    
+    
+
+
+<figure>
+    <img src="/staging/ws25/bachelor/b6-vikinet/zugdetails1.png" alt="Zug Details">
+
+<figcaption>Zug Details (Work in Progress)</figcaption>
+
+</figure>
+
+<hr>
+<section>
+    <h3>
+        
+            Interaktion
+        
+    </h3>
+    <div class="spacer"></div>
+    <div class="content">
+        <p>Du entscheidest selbst, wie tief du in die Daten des Fernverkehrs eintauchen möchtest. Anstatt einfach nur zuzuschauen, ermöglicht VIKINET dir, mit wenigen Klicks neue, interessante Informationen zu entdecken. Von aktuellen Verspätungen bis zum genauen Fahrtverlauf der Züge entscheidest du, welche Informationen du sehen möchtest und welche nicht. Die folgenden Interaktionsmöglichkeiten und noch mehr, hält VIKINET für dich bereit:</p>
+<ul>
+<li><strong>Züge und Bahnhöfe</strong> per Hand auswählbar, um detaillierte Informationen zu bekommen.</li>
+<li><strong>Hand Menü</strong> für die Kartensteuerung, Spule zu einem bestimmten Zeitpunkt, oder halte die Zeit an.</li>
+<li>Nutze das <strong>Kartenmenü</strong>, um die Züge und Strecken zu filtern.</li>
+</ul>
+    </div>
+</section>
+
+<hr>
+
+
+    
+        
+    
+    
+    
+
+
+<figure>
+    <img src="/staging/ws25/bachelor/b6-vikinet/handmen%C3%BC1.png" alt="Handmenü">
+
+<figcaption>Handmenü (Work in Progress)</figcaption>
+
+</figure>
+
+<hr>
+<p><section>
+    <h3>
+        
+            Team
+        
+    </h3>
+    <div class="spacer"></div>
+    <div class="content">
+        
+    </div>
+</section>
+
+<section class="gallery">
+    <figure class="team-member">
+    <img src="/staging/ws25/bachelor/b6-vikinet/alex1.png" alt="Portrait of Alex">
+    <figcaption>Alex</figcaption>
+</figure>
+<figure class="team-member">
+    <img src="/staging/ws25/bachelor/b6-vikinet/jakob1.png" alt="Portrait of Jakob">
+    <figcaption>Jakob</figcaption>
+</figure>
+
+</section>
+</p>
+<section>
+    <h3>
+        
+            Danke!
+        
+    </h3>
+    <div class="spacer"></div>
+    <div class="content">
+        Vielen Dank an Alexander Kramer und Jonas Ehrhardt für die Bereitstellung der Meta Quest 3 und für die Betreuung des Projekts!
     </div>
 </section>
 
