@@ -501,15 +501,15 @@ M4&nbsp;&nbsp;</li>
                     <h4>Team</h4>
                     <ul>
                         
-                            <li>Zaynab Ammar</li>
+                            <li>Zaynab</li>
                         
-                            <li>Merveille Kinfack Nguetsa</li>
+                            <li>Merveille</li>
                         
-                            <li>Konstantin Kuklin</li>
+                            <li>Konstantin</li>
                         
-                            <li>Zidanie Noudeng Mazamo</li>
+                            <li>Zidanie</li>
                         
-                            <li>Sonja Anna Sartys</li>
+                            <li>Sonja</li>
                         
                     </ul>
                 
@@ -568,7 +568,7 @@ M4&nbsp;&nbsp;</li>
         
         
 
-        <p>
+        
 
     
         
@@ -578,7 +578,7 @@ M4&nbsp;&nbsp;</li>
 
 
 <figure>
-    <img src="/staging/ws25/master/m4-bundesecho/techstack.jpg" alt="BundesEcho Tech Stack">
+    <img src="/staging/ws25/master/m4-bundesecho/project_images/tools/techstack.jpg" alt="BundesEcho Tech Stack">
 
 </figure>
 
@@ -591,21 +591,21 @@ M4&nbsp;&nbsp;</li>
     <div class="spacer"></div>
     <div class="content">
         <p><strong><a href="https://miro.com/">Miro</a></strong><br>
-Miro was used for the initial brainstorming sessions. It allowed the team to collaboratively visualize ideas and document key decisions.</p>
+Used during early project phases for collaborative brainstorming, idea mapping, and documenting conceptual decisions.</p>
 <p><strong><a href="https://figma.com/">Figma</a></strong><br>
-Figma was used to create the UI component library, the style guide, and the final high-fidelity design of the BundesEcho user interface.</p>
+Served as the central design tool for UI concepts, component libraries, style guides, and the final high-fidelity interface.</p>
 <p><strong><a href="https://app.diagrams.net/">Diagrams.net</a></strong><br>
-We utilized this tool to design the entity-relationship diagram for the database schema.</p>
+Used to model the database structure through entity-relationship diagrams.</p>
 <p><strong><a href="https://www.postman.com/">Postman</a></strong><br>
-Postman served as our primary tool for testing and debugging APIs while the backend server and database were under development.</p>
-<p><strong><a href="https://huggingface.co/">Huggingface</a></strong><br>
-Huggingface was used for research and tests of various NLP models for the augmentation of the Q&amp;A archive and RAG.</p>
+Primary tool for testing, validating, and debugging API endpoints during backend development.</p>
+<p><strong><a href="https://huggingface.co/">Hugging Face</a></strong><br>
+Used for researching and evaluating NLP and embedding models for data augmentation and RAG experiments.</p>
 <p><strong><a href="https://gitlab.com">GitLab</a></strong><br>
-GitLab served as the central platform for version control, hosting our frontend and backend repositories. We utilized its integrated Kanban board to manage tickets, assign tasks, and track development progress.</p>
+Central platform for version control and project coordination. Repositories for frontend and backend were managed alongside a Kanban board for task tracking and sprint planning.</p>
 
     </div>
 </section>
-</p>
+
 <section>
     <h3>
         
@@ -614,16 +614,13 @@ GitLab served as the central platform for version control, hosting our frontend 
     </h3>
     <div class="spacer"></div>
     <div class="content">
-        <p><strong><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></strong><br>
-JavaScript is the fundamental scripting language used to drive interactivity and logic throughout the frontend application.</p>
-<p><strong><a href="https://typescriptlang.org">TypeScript</a></strong><br>
-TypeScript is a typed superset of JavaScript that ensures code reliability. We used its static typing and tooling to maintain a scalable codebase and prevent runtime errors.</p>
-<p><strong><a href="https://angular.io">Angular</a></strong><br>
-Angular was our chosen component-based framework. It handles the single-page application (SPA) architecture, routing, and state management for a seamless user experience.</p>
+        <p><strong><a href="https://angular.io">Angular</a></strong><br>
+Used as the core SPA framework, combining JavaScript-based application logic with TypeScript’s static typing to improve code safety.
+Its component-driven architecture, routing, and state management enabled a structured and scalable frontend.</p>
 <p><strong><a href="https://echarts.apache.org">Apache ECharts</a></strong><br>
-ECharts is the engine behind our data visualizations. We implemented Sankey diagrams, Gauge charts, Pie charts, network Graphs, and PictorialBars to make complex political data digestible.</p>
+Used to implement interactive visualizations such as Sankey diagrams, gauges, pie charts, network graphs, and pictorial bar charts.</p>
 <p><strong><a href="https://sass-lang.com">SCSS</a></strong><br>
-SCSSis an extension of CSS that allowed us to use variables, nesting, and mixins, ensuring a consistent and modular design system across the platform.</p>
+Extended CSS with variables, nesting, and mixins to support a consistent and modular design system.</p>
 
     </div>
 </section>
@@ -637,21 +634,23 @@ SCSSis an extension of CSS that allowed us to use variables, nesting, and mixins
     <div class="spacer"></div>
     <div class="content">
         <p><strong><a href="https://python.org">Python</a></strong><br>
-Pythonwas used for all backend logic, data processing pipelines, and AI integration.</p>
+Used for backend logic, data processing pipelines, and AI integration.</p>
 <p><strong><a href="https://djangoproject.com">Django</a></strong><br>
-Django was our web framework of choice. It provides the REST API structure, manages the database, and serves as the bridge between the client and our AI services.
-<strong><a href="https://github.com/pgvector/pgvector">PostgreSQL with pgvector extension</a></strong><br>
-PostgreSQL combined with the pgvector extension was selected to store and query high-dimensional embeddings for semantic search.</p>
+Forms the core backend framework, providing REST APIs, database integration, and coordination between data processing and frontend requests.</p>
+<p><strong><a href="https://drf-yasg.readthedocs.io/en/latest/">drf-yasg</a></strong><br>
+Automatically generates OpenAPI 3 documentation for the backend APIs.</p>
+<p><strong><a href="https://github.com/pgvector/pgvector">PostgreSQL + pgvector</a></strong><br>
+Stores structured data alongside vector embeddings, enabling efficient semantic similarity queries.</p>
 <p><strong><a href="https://ollama.ai">Ollama</a></strong><br>
-Ollama-client, hosted on the HTW ML server, served our local LLMs, handling inference for augmentation and summarization.</p>
+Hosts locally deployed language models on the HTW ML server, handling inference for augmentation and summarization tasks.</p>
 <p><strong><a href="https://ollama.com/library/llama3.1:70b">Llama 3.1 (70B)</a></strong><br>
-This is the state-of-the-art LLM used for data augmentation and RAG summarization. We selected the 70B parameter model for its superior nuance in understanding political context.</p>
+Used for contextual analysis and RAG-based summarization, selected for its strong performance on nuanced political language.</p>
 <p><strong><a href="https://huggingface.co/nomic-ai/nomic-embed-text-v1.5">nomic-embed-text-v1.5</a></strong><br>
-This is a high-performance embedding model that converts Q&amp;A text into 768-dimensional vectors. This model was selected for its high accuracy and speed, enabling efficient semantic search and vector-based similarity analysis.</p>
+Embedding model that converts Q&amp;A content into 768-dimensional vectors, supporting fast and accurate semantic search.</p>
 <p><strong><a href="https://httpd.apache.org">Apache HTTP Server</a></strong><br>
-Apache is the configured backend server used to host the BundesEcho backend application.</p>
+Acts as the web server hosting both the frontend and the backend application.</p>
 <p><strong><a href="https://pypi.org/project/gunicorn/">Gunicorn</a></strong><br>
-Gunicorn serves as our WSGI application server, managing Django worker processes and handling HTTP requests forwarded by Apache for the application.</p>
+WSGI server responsible for managing Django worker processes and handling incoming requests forwarded by Apache.</p>
 
     </div>
 </section>

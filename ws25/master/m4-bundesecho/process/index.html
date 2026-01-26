@@ -501,15 +501,15 @@ M4&nbsp;&nbsp;</li>
                     <h4>Team</h4>
                     <ul>
                         
-                            <li>Zaynab Ammar</li>
+                            <li>Zaynab</li>
                         
-                            <li>Merveille Kinfack Nguetsa</li>
+                            <li>Merveille</li>
                         
-                            <li>Konstantin Kuklin</li>
+                            <li>Konstantin</li>
                         
-                            <li>Zidanie Noudeng Mazamo</li>
+                            <li>Zidanie</li>
                         
-                            <li>Sonja Anna Sartys</li>
+                            <li>Sonja</li>
                         
                     </ul>
                 
@@ -571,60 +571,128 @@ M4&nbsp;&nbsp;</li>
         <section>
     <h3>
         
-            Research
+            Research &amp; Conception
         
     </h3>
     <div class="spacer"></div>
     <div class="content">
-        
+        <p><strong>Research</strong><br>
+We started with a review of academic work on political data visualization and civic tech to ground the project in established practices. In parallel, we evaluated the <em>abgeordnetenwatch.de</em> API to assess data structure, coverage, and long-term viability.</p>
+<p><strong>Conception</strong><br>
+Insights from research fed into collaborative ideation sessions. Using Miro, we mapped user goals and exploration paths, tested different interaction concepts, and translated them into low-fidelity sketches that defined the initial direction of the platform.</p>
+
     </div>
 </section>
+
+
+
+    
+        
+    
+    
+    
+
+
+<figure>
+    <img src="/staging/ws25/master/m4-bundesecho/project_images/process/from_ideas_to_prototype.jpg" alt="Pictures from brainstorming sessions, Miro and Figma">
+
+<figcaption>Project development from ideation to Figma prototype</figcaption>
+
+</figure>
 
 <section>
     <h3>
         
-            Conception
+            Implementation Strategy
         
     </h3>
     <div class="spacer"></div>
     <div class="content">
-        
+        <p><strong>Scope &amp; Data Access</strong><br>
+The platform was designed as a German-language web application, aligned with the source data. To balance depth, performance, and data quality, we limited the scope to the 20th legislative period of the Bundestag. With permission from <em>abgeordnetenwatch.de</em>, a dedicated data collection workflow was implemented.</p>
+<p><strong>Information Architecture</strong><br>
+To support exploration without overload, we introduced a three-layer <strong>Funnel Architecture</strong>:</p>
+<ol>
+<li>High-level overviews of political activity</li>
+<li>Comparative views across parties and topics</li>
+<li>Detailed profiles of individual representatives</li>
+</ol>
+<p>This structure guided both navigation and technical design.</p>
+<p><strong>Data Structuring</strong><br>
+Unstructured political text was transformed into structured, interpretable representations to support analysis. Instead of simplistic labels, we focused on dimensions that reflect political context and communication patterns. Detailed analytics are documented separately.</p>
+<p><strong>Design Process</strong><br>
+Design evolved iteratively from sketches to a high-fidelity Figma prototype. The visual language balances institutional credibility with an exploratory interaction style, prioritizing clarity and usability over visual novelty.</p>
+
     </div>
 </section>
+
+
+
+    
+        
+    
+    
+    
+
+
+<figure>
+    <img src="/staging/ws25/master/m4-bundesecho/project_images/process/scope_progress.jpg" alt="Scope changes over time as ERM diagrams">
+
+<figcaption>Evolution of project scope over time</figcaption>
+
+</figure>
 
 <section>
     <h3>
         
-            Challenges
+            Development &amp; Deployment
         
     </h3>
     <div class="spacer"></div>
     <div class="content">
-        
+        <p><strong>Workflow</strong><br>
+Development followed an agile approach with weekly sprints and regular in-person reviews at HTW. A pull-request workflow with peer review ensured code quality and shared responsibility.</p>
+<p><strong>System Architecture</strong><br>
+Backend and frontend were developed in parallel with a focus on modularity and reusable components. Clear interfaces enabled fast iteration and laid the groundwork for future extensions.</p>
+<p><strong>Deployment</strong><br>
+The final system was deployed using a production-grade server setup, ensuring stable performance under concurrent use and marking the transition from prototype to public application.</p>
+
     </div>
 </section>
+
+
+
+    
+        
+    
+    
+    
+
+
+<figure>
+    <img src="/staging/ws25/master/m4-bundesecho/project_images/process/roadmap.jpg" alt="Roadmap">
+
+<figcaption>Project roadmap and milestone planning</figcaption>
+
+</figure>
 
 <section>
     <h3>
         
-            Design
+            Challenges &amp; Solutions
         
     </h3>
     <div class="spacer"></div>
     <div class="content">
-        
-    </div>
-</section>
+        <p><strong>Scope Control</strong><br>
+Processing the full multi-parliament archive proved unrealistic. Restricting the scope to the current Bundestag improved performance and result quality.</p>
+<p><strong>Context Sensitivity</strong><br>
+Short political statements lose meaning when analyzed in isolation. We addressed this by preserving contextual information throughout the processing pipeline.</p>
+<p><strong>Efficiency</strong><br>
+Limited resources required careful technical choices. Iterative testing helped balance computational efficiency with analytical reliability.</p>
+<p><strong>Transparency</strong><br>
+To build trust in automated analysis, interpretability was treated as a core requirement. Outputs are designed to remain understandable and assessable by users.</p>
 
-<section>
-    <h3>
-        
-            Implementation
-        
-    </h3>
-    <div class="spacer"></div>
-    <div class="content">
-        
     </div>
 </section>
 

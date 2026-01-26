@@ -12,21 +12,21 @@
       <link>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/features/</guid>
-      <description> Our Goal tbd. </description>
+      <description>Intelligent Data Pipeline Automated Collection&#xA;BundesEcho continuously synchronizes with the source platform to ingest newly published citizen Q&amp;amp;A threads, keeping analyses up to date.&#xA;NLP Enrichment&#xA;Each entry is automatically analyzed and enriched with structured signals:&#xA;Context: Education and professional background Topics: Assignment to core policy areas Rhetorical Clarity: Direct, Vague, or Evasive Positioning: Directional stance detection Semantic Representation&#xA;All entries are embedded as semantic vectors, enabling meaning-based search and powering the RAG features.</description>
     </item>
     <item>
       <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/process/</guid>
-      <description> Research Conception Challenges Design Implementation </description>
+      <description>Research &amp;amp; Conception Research&#xA;We started with a review of academic work on political data visualization and civic tech to ground the project in established practices. In parallel, we evaluated the abgeordnetenwatch.de API to assess data structure, coverage, and long-term viability.&#xA;Conception&#xA;Insights from research fed into collaborative ideation sessions. Using Miro, we mapped user goals and exploration paths, tested different interaction concepts, and translated them into low-fidelity sketches that defined the initial direction of the platform.</description>
     </item>
     <item>
       <title>Tools</title>
       <link>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/tools/</guid>
-      <description>Concept, Design &amp;amp; Version Control Miro&#xA;Miro was used for the initial brainstorming sessions. It allowed the team to collaboratively visualize ideas and document key decisions.&#xA;Figma&#xA;Figma was used to create the UI component library, the style guide, and the final high-fidelity design of the BundesEcho user interface.&#xA;Diagrams.net&#xA;We utilized this tool to design the entity-relationship diagram for the database schema.&#xA;Postman&#xA;Postman served as our primary tool for testing and debugging APIs while the backend server and database were under development.</description>
+      <description>Concept, Design &amp;amp; Version Control Miro&#xA;Used during early project phases for collaborative brainstorming, idea mapping, and documenting conceptual decisions.&#xA;Figma&#xA;Served as the central design tool for UI concepts, component libraries, style guides, and the final high-fidelity interface.&#xA;Diagrams.net&#xA;Used to model the database structure through entity-relationship diagrams.&#xA;Postman&#xA;Primary tool for testing, validating, and debugging API endpoints during backend development.&#xA;Hugging Face&#xA;Used for researching and evaluating NLP and embedding models for data augmentation and RAG experiments.</description>
     </item>
   </channel>
 </rss>
