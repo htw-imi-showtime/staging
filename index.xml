@@ -159,7 +159,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b1-sprachentwicklungsapp/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b1-sprachentwicklungsapp/development/</guid>
-      <description>Process PlapperDu began with enthusiastic brainstorming and a flood of concepts. In the early stages, an extensive list of features was gathered, and the team familiarized themselves with the tools and frameworks required for implementation.&#xA;However, the first major challenge soon emerged: defining the scope. With so many possibilities, it was difficult to pinpoint exactly what was essential and what was out of reach.&#xA;Initially, the goal was to map out everything perfectly from the start.</description>
+      <description>Process PlapperDu began with enthusiastic brainstorming and a flood of concepts. Initially, we aimed to map out everything perfectly, translating every idea into comprehensive UI prototypes, requirements and database models. However, we quickly realized that this waterfall approach was too time-consuming and inefficient, as constant changes made our detailed planning obsolete.&#xA;We shifted toward Agile development, adopting a build first, refine later strategy. Instead of over-planning, we focused on implementing core features like user authentication and standardized language assessments.</description>
     </item>
     <item>
       <title>Project Architecture</title>
@@ -208,7 +208,7 @@
       <link>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b1-sprachentwicklungsapp/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b1-sprachentwicklungsapp/features/</guid>
-      <description>Features Dashboard&#xA;Get a quick overview of your ongoing learning modules or weekly challenge, open language assessments and daily activities.&#xA;Milestones and Badges: Capture and celebrate every important step in your and your child&amp;rsquo;s language development journey with Milestones and Badges.&#xA;Learning Modules&#xA;Access short, interactive lessons that teach you how to support language learning in your everyday life.&#xA;Progress&#xA;Vocabulary Tracker: Track every new word or sentence your child learns and watch their personal digital dictionary grow.</description>
+      <description>Features Dashboard&#xA;Get a quick overview of your ongoing learning modules or weekly challenge, open language assessments and daily activities.&#xA;Milestones and Badges: Capture and celebrate every important step in your and your child&amp;rsquo;s language development journey with Milestones and Badges.&#xA;Learning Modules&#xA;Access short, interactive lessons that teach you how to support language learning in your everyday life.&#xA;Challenges&#xA;Discover playful weekly tasks that turn your daily routines into effective language-building moments.</description>
     </item>
     <item>
       <title>Features</title>
@@ -348,7 +348,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 4df7c19 AuthorDate: 2026-02-05 AuthorEmail: 167181641&amp;#43;Duaax24@users.noreply.github.com AuthorName: Duaa Fourah CommitDate: 2026-02-05 Hash: 4df7c19ade67ff4828786cde99910572c4474d8b Subject: B2 food4future ar campusguide (third release) (#502) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 9e37fb1 AuthorDate: 2026-02-06 AuthorEmail: thanhngaxle@gmail.com AuthorName: Thanaee CommitDate: 2026-02-06 Hash: 9e37fb14b984ef1ffbe7d7fbd60383117bfc2673 Subject: B1 release train 3 (#507) </description>
     </item>
   </channel>
 </rss>
