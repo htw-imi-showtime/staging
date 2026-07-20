@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ExergameSnacks on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/ss26/master/m3-exergamesnacks/</link>
+    <description>Recent content in ExergameSnacks on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/ss26/master/m3-exergamesnacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m3-exergamesnacks/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m3-exergamesnacks/process/</guid>
+      <description>Prozess und Ergebnis Prozessablauf Das Projekt begann mit einer Konzeptionsphase. In dieser Phase wurden unter anderem Personas, User Stories, User Flows, die Spielgeschichte (Game Story) sowie ein ERD-Modell zur Datenbankplanung erstellt. Diese Grundlagen dienten als Basis für die weitere Entwicklung der Anwendung. Anschließend setzte sich das Team zunächst mit den Technologien auseinander, die im Projekt verwendet werden sollten. Ziel war es, sich mit den eingesetzten Frameworks und Werkzeugen vertraut zu machen, bevor die eigentliche technische Umsetzung begann.</description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m3-exergamesnacks/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m3-exergamesnacks/features/</guid>
+      <description>Features Was enthält die App? Während des Spiels erkennt die Kamera verschiedene Übungen wie Squats, High Knees, Jumping Jacks oder Butt Kicks in Echtzeit. Jede Bewegung hilft dabei, die Mission zu erfüllen. In SnackFarm geht es darum, einen Bauernhof zu retten und möglichst viele Hühner zu retten.&#xA;Nach jeder Spielrunde werden die wichtigsten Ergebnisse im Spielverlauf gespeichert. Dort sehen die Spieler ihre Punkte, die Anzahl der geretteten Hühner, die ausgeführten Übungen und die durchschnittliche Zeit, um ein Huhn zu retten.</description>
+    </item>
+    <item>
+      <title>Future</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m3-exergamesnacks/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m3-exergamesnacks/future/</guid>
+      <description>Ausblick Wie geht es weiter? Aufgrund der begrenzten Teamgröße konnte das Projekt nicht vollständig umgesetzt werden.&#xA;SnackFarm bietet vielfältige Möglichkeiten für zukünftige Weiterentwicklungen. Dazu gehören neue Missionen und Spielmechaniken, ein Mehrspielermodus, eine präzisere Bewegungserkennung sowie interaktive Hilfen wie Animationen zur Übungsausführung. Ergänzende Usability-Tests können außerdem dazu beitragen, die Benutzerfreundlichkeit und das Spielerlebnis weiter zu optimieren.</description>
+    </item>
+  </channel>
+</rss>
