@@ -226,6 +226,13 @@
     </item>
     <item>
       <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/bachelor/b1-pflanzbar/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/bachelor/b1-pflanzbar/features/</guid>
+      <description>Features Eine essentielle Funktion von unserer App ist die Pflanzenerkennung bei der Nutzer:innen eine unbekannte Pflanze per Iphone-Kamera zur Erkennung fotografieren können. Anschließend erhalten die User:innen einen Vorschlag der möglichen Pflanzenart inklusive der prozentualen Wahrscheinlichkeit der Übereinstimmung.&#xA;Ist die Pflanze erkannt, erhalten die Anwender:innen einen Überblick über die individullen Pflegebedürfnisse der Pflanze. Dazu gehören: Angaben zum Wasserbedarf, den Lichtverhältnissen sowie der Luftfeuchtigkeit. Außerdem werden Informationen zur optimalen Temperatur, dem Düngebedarf und dem Schwierigkeitsgrad der Pflanzenpflege durch visuelle Symbole und Kurzbeschreibungen angezeigt.</description>
+    </item>
+    <item>
+      <title>Features</title>
       <link>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b1-sprachentwicklungsapp/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b1-sprachentwicklungsapp/features/</guid>
@@ -272,6 +279,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/features/</guid>
       <description>General Teachers can choose to enable student reviews for their tests. Installing the plugins does not mean they will be used for every test. Teachers can turn the feature on and off for each test they create. If this feature is activated, students will be asked to rate the difficulty of questions. Once a question in a test has been rated by the student, it won’t be eligible for review anymore.</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/bachelor/b1-pflanzbar/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/bachelor/b1-pflanzbar/tools/</guid>
+      <description>Tech Stack Wenn man sich an die Entwicklung eines so großen Projekts macht, ist es schon mit nur einer IDE schwer, ein Team von zwei Leuten zu koordinieren, ganz zu schweigen von einem Team aus vieren. Deshalb haben wir eine breite Palette an Tools und Schnittstellen kombiniert, durch die unser Produkt überhaupt erst Realität werden konnte. Und zwar:&#xA;Miro Auf Empfehlung von Frau Albrecht und wegen seiner tollen Funktion für gemeinsames Arbeiten haben wir uns entschieden, dort die Planung, das Sprint-Tracking und all unsere Notizen aus den Meetings mit Professor Wiederoder unterzubringen.</description>
     </item>
     <item>
       <title>Tools</title>
@@ -369,7 +383,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: a7a11b0 AuthorDate: 2026-07-20 AuthorEmail: 48556854&amp;#43;chrisWolter@users.noreply.github.com AuthorName: Christian Wolter CommitDate: 2026-07-20 Hash: a7a11b004d63fa5d3008dbe388d36c3b43b3a13d Subject: M5 ResQ - add project (#514) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 3994f9d AuthorDate: 2026-07-20 AuthorEmail: alinawallstein8@gmail.com AuthorName: alinawallstein CommitDate: 2026-07-20 Hash: 3994f9d8e1bac860a213cb63615b483c498232ae Subject: B1 - Pflanzbar (#516) </description>
     </item>
   </channel>
 </rss>

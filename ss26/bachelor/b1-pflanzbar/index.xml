@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pflanzbar on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/ss26/bachelor/b1-pflanzbar/</link>
+    <description>Recent content in Pflanzbar on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/ss26/bachelor/b1-pflanzbar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/bachelor/b1-pflanzbar/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/bachelor/b1-pflanzbar/features/</guid>
+      <description>Features Eine essentielle Funktion von unserer App ist die Pflanzenerkennung bei der Nutzer:innen eine unbekannte Pflanze per Iphone-Kamera zur Erkennung fotografieren können. Anschließend erhalten die User:innen einen Vorschlag der möglichen Pflanzenart inklusive der prozentualen Wahrscheinlichkeit der Übereinstimmung.&#xA;Ist die Pflanze erkannt, erhalten die Anwender:innen einen Überblick über die individullen Pflegebedürfnisse der Pflanze. Dazu gehören: Angaben zum Wasserbedarf, den Lichtverhältnissen sowie der Luftfeuchtigkeit. Außerdem werden Informationen zur optimalen Temperatur, dem Düngebedarf und dem Schwierigkeitsgrad der Pflanzenpflege durch visuelle Symbole und Kurzbeschreibungen angezeigt.</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/bachelor/b1-pflanzbar/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/bachelor/b1-pflanzbar/tools/</guid>
+      <description>Tech Stack Wenn man sich an die Entwicklung eines so großen Projekts macht, ist es schon mit nur einer IDE schwer, ein Team von zwei Leuten zu koordinieren, ganz zu schweigen von einem Team aus vieren. Deshalb haben wir eine breite Palette an Tools und Schnittstellen kombiniert, durch die unser Produkt überhaupt erst Realität werden konnte. Und zwar:&#xA;Miro Auf Empfehlung von Frau Albrecht und wegen seiner tollen Funktion für gemeinsames Arbeiten haben wir uns entschieden, dort die Planung, das Sprint-Tracking und all unsere Notizen aus den Meetings mit Professor Wiederoder unterzubringen.</description>
+    </item>
+  </channel>
+</rss>
