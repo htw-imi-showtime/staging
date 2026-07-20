@@ -64,11 +64,25 @@
       <description>Features Setting The world is made up of a grid of tiles, with each tile representing the area currently visible to the player. The environment consists of low-poly PS1-style assets designed to evoke feelings of eerieness. A thick mist creates feelings of both disorientation and curiosity. As the player moves from one tile to another, the world expands to offer more game features and a wider range of experiences.</description>
     </item>
     <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/features/</guid>
+      <description>Game Concept The cooking simulation is set in a sustainable kitchen where players work with ingredients like algae, insects, and greenhouse grown crops. A cooking assistant supports players throughout the game. The setting describes a future shaped by resource scarcity, where sustainable food production has become essential. Players can prepare dishes like Oi Naengguk (chilled cucumber and seaweed soup), Miyeok Muchim (seasoned seaweed salad), and Gamjajeon (potato pancakes made with algae-based ingredients).</description>
+    </item>
+    <item>
       <title>Process</title>
       <link>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m1-gradient-escape/subpage_process/</guid>
       <description>Process Idea On the day of IMI project presentations, Prof. Dr. Lucy Weggler introduced the concept of Gradient Escape to the students. The main focus was to explain gradient functions in a motivating way through a fun game designed for bachelor engineering students. In the initial meeting, the main concept was developed during a brainstorming phase, laying the groundwork for the project. Prof. Dr. Lucy Weggler, a passionate mathematics professor at htw ensured that the educational objectives were met.</description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/process/</guid>
+      <description>Research In the beginning the focus was on understanding what agentic AI frameworks and architectures were available. The team also researched who the game should be built for, comparing professional cooks with hobby cooks, and settled on hobby cooks since they&amp;rsquo;d get the most out of simple guided recipe steps. In addition, we compared different LLMs and voice models. Cloud STT/TTS services are usually paid and add latency, so the team looked into alternatives that run locally for free.</description>
     </item>
     <item>
       <title>Tech Stack</title>
@@ -146,6 +160,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/architecture/</guid>
       <description>Overview Moodle System Architecture Plugins must follow Moodle’s technical and organisational guidelines to qualify for the official plugin directory. Moodle consists of its core with different subsystems and a substantial amount of plugins. These plugins need to be of a specific type. For our plugins these are quiz report and question behaviour. A clear type assignment is essential, because only plugins with an unambiguous type can be correctly installed or published.</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/tools/</guid>
+      <description>Concept, Design &amp;amp; Version Control Miro&#xA;Used during the early project phase for collaborative brainstorming, user flow design, concept development, and documenting ideas and design decisions.&#xA;Mermaid&#xA;Used to create diagrams such as flowcharts, sequence diagrams, and system architecture directly from text-based syntax, making documentation easy to maintain.&#xA;Hugging Face&#xA;Used to access and integrate pre-trained machine learning models, datasets, and AI tools for natural language processing and other machine learning tasks.</description>
     </item>
     <item>
       <title>Tools</title>
@@ -292,7 +313,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 220272c AuthorDate: 2026-07-20 AuthorEmail: 86517964&amp;#43;mythiha-pham@users.noreply.github.com AuthorName: My Pham CommitDate: 2026-07-20 Hash: 220272ca5985a29b6769cf43a1f3a445e633c3f1 Subject: M1 - Gradient Escape 2 (#518) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 72f2e08 AuthorDate: 2026-07-20 AuthorEmail: 104521933&amp;#43;hoppee02@users.noreply.github.com AuthorName: ely CommitDate: 2026-07-20 Hash: 72f2e08de1e86ba863e417c8f274831677d37525 Subject: M2 - initialization of project website (#509) </description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agentic AI in virtual worlds on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/</link>
+    <description>Recent content in Agentic AI in virtual worlds on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/features/</guid>
+      <description>Game Concept The cooking simulation is set in a sustainable kitchen where players work with ingredients like algae, insects, and greenhouse grown crops. A cooking assistant supports players throughout the game. The setting describes a future shaped by resource scarcity, where sustainable food production has become essential. Players can prepare dishes like Oi Naengguk (chilled cucumber and seaweed soup), Miyeok Muchim (seasoned seaweed salad), and Gamjajeon (potato pancakes made with algae-based ingredients).</description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/process/</guid>
+      <description>Research In the beginning the focus was on understanding what agentic AI frameworks and architectures were available. The team also researched who the game should be built for, comparing professional cooks with hobby cooks, and settled on hobby cooks since they&amp;rsquo;d get the most out of simple guided recipe steps. In addition, we compared different LLMs and voice models. Cloud STT/TTS services are usually paid and add latency, so the team looked into alternatives that run locally for free.</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m2-agenticai-in-virtual-worlds/tools/</guid>
+      <description>Concept, Design &amp;amp; Version Control Miro&#xA;Used during the early project phase for collaborative brainstorming, user flow design, concept development, and documenting ideas and design decisions.&#xA;Mermaid&#xA;Used to create diagrams such as flowcharts, sequence diagrams, and system architecture directly from text-based syntax, making documentation easy to maintain.&#xA;Hugging Face&#xA;Used to access and integrate pre-trained machine learning models, datasets, and AI tools for natural language processing and other machine learning tasks.</description>
+    </item>
+  </channel>
+</rss>
