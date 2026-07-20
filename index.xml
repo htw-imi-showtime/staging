@@ -22,6 +22,13 @@
       <description> Team Unser komplettes Team trifft sich zwei mal wöchentlich um zu besprechen, was für alle von Bedeutung ist. Wer gerade an ähnlichen Sachen arbeitet, stimmt sich zusätzlich ab. Darüber hinaus sprechen wir Verzögerungen, Probleme und Meinungsverschiedenheiten an, wenn sie entstehen. Wir halten in GitLab Issues fest, woran wir arbeiten und schauen einander in Code Reviews über die Schulter.&#xA;Alejandro Martinez Hernandez Alexander Jäger Anton Lehmann Harvey Benn Konstantin Schiwarov Lennart Weissenstein Tobias Bayer </description>
     </item>
     <item>
+      <title>New Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/newfeatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/newfeatures/</guid>
+      <description>What changed User-centered UI&#xA;Redesigned based on feedback from the professor and public testers, making core information like the gradient map easier to read at a glance. Adaptive feedback system&#xA;Tracks player behavior and responds with targeted, context-sensitive feedback instead of generic hints. Five new levels&#xA;The game introduces a new twist on the core mechanic rather than simply increasing difficulty, such as treasure-hunt mechanic, or multi-phase level structure. Varied map environments</description>
+    </item>
+    <item>
       <title>Outcome</title>
       <link>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b5-nexum/outcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,6 +41,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/bachelor/b4-urban-bio-space-simulator/tools/</guid>
       <description> Tools Unser Spiel ist ein Unity Projekt, also verwenden wir C#. Die Modelle erstellen wir mit Maya, Shader und Materials weisen wir in Unity zu. Für unsere CI/CD Pipeline in GitLab verwenden wir Google Cloud Platform.&#xA;C# Canva GitLab Google Cloud Platform Maya Paint.net Terraform Unity </description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/process/</guid>
+      <description>How we work as a team Onboarding Two members of our team had already worked on the original Gradient Escape, so they brought that context into Gradient Escape 2.0 from day one. Their familiarity with the existing concept, algorithms, and project status made it easy to bring the team up to speed — sharing materials from the original project, including:&#xA;Design documents The original build Prior playtesting data They also helped the team agree on how the new project would proceed.</description>
+    </item>
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/techstack/</guid>
+      <description>What we use Asset creation Krita — Used for creating game assets, including new HUD elements and other visual designs.&#xA;FL Studio — Used for composing and producing the game&amp;rsquo;s background music and sound effects.&#xA;Development Unity Engine — The core engine used for building, testing, and running the game.&#xA;JetBrains Rider — Used as an IDE for C# development within Unity.&#xA;Github — Used for version control, issue tracking, and pull request reviews.</description>
     </item>
     <item>
       <title>Features</title>
@@ -271,7 +292,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 32a269f AuthorDate: 2026-07-20 AuthorEmail: 64483479&amp;#43;leticiahalm@users.noreply.github.com AuthorName: Leticia Halm CommitDate: 2026-07-20 Hash: 32a269fb6ef5e7866e9d3424b9bd57f03916ef44 Subject: B6 - Games Projekt mit Unity (#512) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: 220272c AuthorDate: 2026-07-20 AuthorEmail: 86517964&amp;#43;mythiha-pham@users.noreply.github.com AuthorName: My Pham CommitDate: 2026-07-20 Hash: 220272ca5985a29b6769cf43a1f3a445e633c3f1 Subject: M1 - Gradient Escape 2 (#518) </description>
     </item>
   </channel>
 </rss>

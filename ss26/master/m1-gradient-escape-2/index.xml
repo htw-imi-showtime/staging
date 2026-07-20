@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gradient Escape 2 on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/</link>
+    <description>Recent content in Gradient Escape 2 on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/newfeatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/newfeatures/</guid>
+      <description>What changed User-centered UI&#xA;Redesigned based on feedback from the professor and public testers, making core information like the gradient map easier to read at a glance. Adaptive feedback system&#xA;Tracks player behavior and responds with targeted, context-sensitive feedback instead of generic hints. Five new levels&#xA;The game introduces a new twist on the core mechanic rather than simply increasing difficulty, such as treasure-hunt mechanic, or multi-phase level structure. Varied map environments</description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/process/</guid>
+      <description>How we work as a team Onboarding Two members of our team had already worked on the original Gradient Escape, so they brought that context into Gradient Escape 2.0 from day one. Their familiarity with the existing concept, algorithms, and project status made it easy to bring the team up to speed — sharing materials from the original project, including:&#xA;Design documents The original build Prior playtesting data They also helped the team agree on how the new project would proceed.</description>
+    </item>
+    <item>
+      <title>Tech Stack</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m1-gradient-escape-2/techstack/</guid>
+      <description>What we use Asset creation Krita — Used for creating game assets, including new HUD elements and other visual designs.&#xA;FL Studio — Used for composing and producing the game&amp;rsquo;s background music and sound effects.&#xA;Development Unity Engine — The core engine used for building, testing, and running the game.&#xA;JetBrains Rider — Used as an IDE for C# development within Unity.&#xA;Github — Used for version control, issue tracking, and pull request reviews.</description>
+    </item>
+  </channel>
+</rss>
