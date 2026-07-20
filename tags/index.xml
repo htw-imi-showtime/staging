@@ -7,5 +7,26 @@
     <generator>Hugo</generator>
     <language>de-de</language>
     <atom:link href="https://htw-imi-showtime.github.io/staging/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bewegungsförderung</title>
+      <link>https://htw-imi-showtime.github.io/staging/tags/bewegungsf%C3%B6rderung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/tags/bewegungsf%C3%B6rderung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stundenplanung</title>
+      <link>https://htw-imi-showtime.github.io/staging/tags/stundenplanung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/tags/stundenplanung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webanwendung</title>
+      <link>https://htw-imi-showtime.github.io/staging/tags/webanwendung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/tags/webanwendung/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stundenplanung on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/staging/tags/stundenplanung/</link>
+    <description>Recent content in Stundenplanung on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/staging/tags/stundenplanung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Körperliche Aktivität von Kindern:</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/bachelor/b2-fitness-fuer-kids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/bachelor/b2-fitness-fuer-kids/</guid>
+      <description>Die Idee Bewegungsstunden bestehen nicht nur aus einer guten Übung. Übungsleitungen müssen passende Ideen finden, sie sinnvoll in Aufwärmen, Hauptteil und Abschluss gliedern und die Stunde anschließend kurz dokumentieren. Die Plattform bündelt diesen Ablauf in einer responsiven Webanwendung.&#xA;Leitungen können zusätzlich Nutzer:innen, Gruppen und eingereichte Inhalte verwalten. Bewertungen aus durchgeführten Stunden machen sichtbar, welche Übungen sich in der Praxis bewähren.&#xA;Von der Idee zur fertigen Stunde Der Stundenplaner ist der Kern der Anwendung: Eine ganze Woche wird übersichtlich geplant, einzelne Einheiten werden aus Übungen aufgebaut und nach der Durchführung direkt protokolliert.</description>
+    </item>
+  </channel>
+</rss>
