@@ -120,6 +120,13 @@
       <description>General This e-learning unit is designed for English-speaking first-semester students enrolled in a media and computing program. It teaches the fundamentals of Java programming in a creative and engaging way. Instead of traditional, dry exercises, students are guided through a magical storyline where programming concepts are explained using potions, magical capes, wands, and other fantasy elements. To ensure long-term usability, all learning content is managed via a connected headless CMS, allowing professors and students to adapt and expand the platform beyond the semester.</description>
     </item>
     <item>
+      <title>Features</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m5-jugendfeuerwehr/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m5-jugendfeuerwehr/features/</guid>
+      <description>Modulares Design Die Kernarchitektur unseres Frameworks basiert auf einer Trennung des Spielgeschehens auf dem Main-Screen, der Eingabemethoden auf den Device-Screens und der Spiellogik auf dem Server. Durch die Loose-Coupling-Architektur ist das System extrem flexibel: Neue Spielideen, Spielregeln, grafische Benutzeroberflächen sowie Eingabemethoden können als eigenständige wiederverwendbare Module implementiert und in das ResQ-Framework integriert werden. BYOD Mitspielende treten dem Spielgeschehen jederzeit über einen QR-Code mit ihrem eigenen Smartphone bei. Da ResQ im Browser läuft, ist keine zusätzliche Software nötig.</description>
+    </item>
+    <item>
       <title>Future</title>
       <link>https://htw-imi-showtime.github.io/staging/ss26/master/m3-exergamesnacks/future/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -211,6 +218,13 @@
       <description>Moodle&amp;#39;s Documentation In the early stages of the project we found that Moodle’s official plugin documentation was incomplete and occasionally outdated. This issue complicated our analysis of the platform architecture and the placement of our own plugins. We therefore had to take a look at existing plugins and figure out the structure ourselves. Due to challenges encountered with the documentation, a non-standard plugin was found that delivered some of the intended features later in the project.</description>
     </item>
     <item>
+      <title>Demo</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m5-jugendfeuerwehr/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m5-jugendfeuerwehr/demo/</guid>
+      <description> Wassermarsch Demo Memory Demo Lösch-Quiz Demo </description>
+    </item>
+    <item>
       <title>Features</title>
       <link>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b1-sprachentwicklungsapp/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -230,6 +244,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws25/master/m4-bundesecho/process/</guid>
       <description>Research &amp;amp; Conception Research&#xA;We started with a review of academic work on political data visualization and civic tech to ground the project in established practices. In parallel, we evaluated the abgeordnetenwatch.de API to assess data structure, coverage, and long-term viability.&#xA;Conception&#xA;Insights from research fed into collaborative ideation sessions. Using Miro, we mapped user goals and exploration paths, tested different interaction concepts, and translated them into low-fidelity sketches that defined the initial direction of the platform.</description>
+    </item>
+    <item>
+      <title>Prozess</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m5-jugendfeuerwehr/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m5-jugendfeuerwehr/process/</guid>
+      <description>Research &amp;amp; Nutzertests Ein zentraler Baustein unseres Konzepts und der Entwicklung des ResQ-Frameworks war die direkte und praxisnahe Zusammenarbeit mit der Feuerwehr. Um ein System zu schaffen, das Jugendliche wirklich begeistert und gleichzeitig auf Messen robust funktioniert, waren wir insgesamt dreimal direkt vor Ort bei der Freiwilligen Jugendfeuerwehr Luckenwalde:&#xA;Erster Besuch (Anforderungsanalyse &amp;amp; Interviews): Ganz am Anfang der Projektphase besuchten wir die Freiwillige Jugendfeuerwehr Luckenwalde, um die Projektidee vorzustellen und qualitative Interviews mit den Jugendlichen zu führen.</description>
     </item>
     <item>
       <title>Tools</title>
@@ -254,6 +275,13 @@
     </item>
     <item>
       <title>Tools</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m5-jugendfeuerwehr/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m5-jugendfeuerwehr/tools/</guid>
+      <description>Backend-Entwicklung Node.js – Serverseitige JavaScript-Laufzeitumgebung Colyseus – Multiplayer-Framework für Node.js. Unterstützt u. A. bei Session-Handling, Matchmaking und State-Synchronisation über WebSockets. Frontend-Entwicklung Phaser.js – HTML5-Spiele-Framework für 2D-Rendering auf dem Main-Screen React.js - Leichtgewichtige JavaScript Library für reaktive Benutzeroberflächen shadcn/ui – Component-Library auf Basis von TailwindCSS Nipple.js – JavaScript-Bibliothek zur Erstellung von virtuellen Joysticks DevOps GitLab – Projektmanagement und Source-Code Verwaltung CI/CD &amp;amp; Docker Registry – Automatisiertes Überprüfen der Code-Qualität sowie Bauen und Veröffentlichen von Docker-Images in FKI-Docker-Registry Design &amp;amp; Asset-Erstellung Aseprite – Werkzeug für Pixel-Art-Design und -Animation.</description>
+    </item>
+    <item>
+      <title>Tools</title>
       <link>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b1-sprachentwicklungsapp/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ws25/bachelor/b1-sprachentwicklungsapp/tools/</guid>
@@ -272,6 +300,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/ss25/master/m4-moodle-plugin/future/</guid>
       <description>Starting Point The project was designed to be used in the upcoming semester by our supervisor Prof. Dr. Lucy Weggler. The creation of this plugin was based on her lacking a reliable difficulty label for her large number of math test questions. To generate difficulty labels before this project, she developed a pipeline that extracts key concepts from math questions using a language model, based on the assumption that more concepts indicate higher difficulty.</description>
+    </item>
+    <item>
+      <title>Team</title>
+      <link>https://htw-imi-showtime.github.io/staging/ss26/master/m5-jugendfeuerwehr/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/staging/ss26/master/m5-jugendfeuerwehr/team/</guid>
+      <description> Team ResQ Das Team hinter dem ResQ-Framework besteht aus sechs IMI-Master-Studenten. Luca Hobiger Lukas Kaik Felix Schindler Yan-Lennart Schwanbeck Christian Wolter Lucas Zaworski </description>
     </item>
     <item>
       <title>Contact</title>
@@ -334,7 +369,7 @@
       <link>https://htw-imi-showtime.github.io/staging/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/staging/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: bf640a2 AuthorDate: 2026-07-20 AuthorEmail: 126118106&amp;#43;G0vinda@users.noreply.github.com AuthorName: G0vinda CommitDate: 2026-07-20 Hash: bf640a2f6c131cecd0105e0e48bb9742865940c3 Subject: M4 Coppers and Thieves - intial draft (#513) </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: a7a11b0 AuthorDate: 2026-07-20 AuthorEmail: 48556854&amp;#43;chrisWolter@users.noreply.github.com AuthorName: Christian Wolter CommitDate: 2026-07-20 Hash: a7a11b004d63fa5d3008dbe388d36c3b43b3a13d Subject: M5 ResQ - add project (#514) </description>
     </item>
   </channel>
 </rss>
